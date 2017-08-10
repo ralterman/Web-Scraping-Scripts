@@ -1,0 +1,5918 @@
+OBJECTID,St_label,StreetName,Labelside
+5,Lexington Avenue,E 78th St,L
+6,Lexington Avenue,E 78th St,L
+11,Lexington Avenue,E 61st St,R
+12,Lexington Avenue,E 61st St,R
+13,Lexington Avenue,E 61st St,R
+21,Lexington Avenue,E 62nd St,R
+22,Lexington Avenue,E 62nd St,R
+28,Lexington Avenue,E 63rd St,R
+38,Lexington Avenue,E 64th St,R
+39,Lexington Avenue,E 64th St,R
+48,Lexington Avenue,E 65th St,R
+54,Lexington Avenue,E 68th St,R
+60,Lexington Avenue,E 69th St,R
+63,Lexington Avenue,E 70th St,R
+64,Lexington Avenue,E 70th St,R
+65,Lexington Avenue,E 70th St,R
+73,Lexington Avenue,E 71st St,R
+74,Lexington Avenue,E 71st St,R
+75,Lexington Avenue,E 71st St,R
+84,Lexington Avenue,E 72nd St,R
+85,Lexington Avenue,E 78th St,R
+95,Lexington Avenue,E 80th St,R
+104,Lexington Avenue,E 61st St,L
+105,Lexington Avenue,E 61st St,L
+113,Lexington Avenue,E 62nd St,L
+114,Lexington Avenue,E 62nd St,L
+115,Lexington Avenue,E 62nd St,L
+116,Lexington Avenue,E 62nd St,L
+118,Lexington Avenue,E 63rd St,R
+122,Lexington Avenue,E 63rd St,L
+123,Lexington Avenue,E 63rd St,L
+124,Lexington Avenue,E 63rd St,L
+125,Lexington Avenue,E 63rd St,L
+133,Lexington Avenue,E 64th St,L
+134,Lexington Avenue,E 64th St,L
+135,Lexington Avenue,E 64th St,L
+141,Lexington Avenue,E 65th St,L
+142,Lexington Avenue,E 65th St,L
+143,Lexington Avenue,E 65th St,
+149,Lexington Avenue,E 66th St,L
+153,Lexington Avenue,E 69th St,L
+162,Lexington Avenue,E 70th St,L
+163,Lexington Avenue,E 70th St,L
+172,Lexington Avenue,E 71st St,L
+173,Lexington Avenue,E 71st St,L
+174,Lexington Avenue,E 71st St,L
+181,Lexington Avenue,E 72nd St,L
+182,Lexington Avenue,E 78th St,L
+186,Lexington Avenue,E 79th St,L
+197,Lexington Avenue,E 80th St,L
+198,Lexington Avenue,E 80th St,L
+199,Lexington Avenue,E 80th St,L
+202,Lexington Avenue,E 74th St,L
+204,Lexington Avenue,E 74th St,L
+205,Lexington Avenue,E 74th St,L
+208,Lexington Avenue,E 71st St,L
+210,Lexington Avenue,E 73rd St,L
+215,Lexington Avenue,E 68th St,R
+218,Madison Avenue,E 60th St,R
+221,Madison Avenue,E 61st St,R
+222,Madison Avenue,E 61st St,R
+223,Madison Avenue,E 61st St,R
+228,Madison Avenue,E 62nd St,
+229,Madison Avenue,E 62nd St,R
+230,Madison Avenue,E 62nd St,R
+236,Madison Avenue,E 63rd St,R
+237,Madison Avenue,E 63rd St,R
+242,Madison Avenue,E 64th St,R
+246,Madison Avenue,E 65th St,R
+247,Madison Avenue,E 65th St,R
+253,Madison Avenue,E 66th St,R
+261,Madison Avenue,E 67th St,R
+262,Madison Avenue,E 67th St,R
+270,Madison Avenue,E 68th St,R
+271,Madison Avenue,E 68th St,R
+276,Madison Avenue,E 69th St,R
+277,Madison Avenue,E 69th St,R
+283,Madison Avenue,E 70th St,R
+284,Madison Avenue,E 70th St,R
+286,Madison Avenue,E 71st St,R
+289,Madison Avenue,E 72nd St,R
+297,Madison Avenue,E 73rd St,R
+298,Madison Avenue,E 73rd St,R
+303,Madison Avenue,E 74th St,R
+304,Madison Avenue,E 74th St,R
+311,Madison Avenue,E 75th St,R
+320,Madison Avenue,E 76th St,R
+321,Madison Avenue,E 76th St,R
+322,Madison Avenue,E 76th St,R
+328,Madison Avenue,E 77th St,R
+329,Madison Avenue,E 77th St,R
+332,Madison Avenue,E 78th St,R
+333,Madison Avenue,E 78th St,R
+342,Madison Avenue,E 80th St,R
+345,Madison Avenue,E 64th St,R
+355,Madison Avenue,E 62nd St,L
+356,Madison Avenue,E 63rd St,L
+357,Madison Avenue,E 64th St,L
+358,Madison Avenue,E 64th St,
+364,Madison Avenue,E 65th St,
+365,Madison Avenue,E 65th St,L
+370,Madison Avenue,E 66th St,L
+371,Madison Avenue,E 66th St,L
+372,Madison Avenue,E 66th St,L
+378,Madison Avenue,E 67th St,L
+379,Madison Avenue,E 67th St,L
+380,Madison Avenue,E 67th St,L
+386,Madison Avenue,E 68th St,L
+387,Madison Avenue,E 68th St,L
+388,Madison Avenue,E 68th St,L
+392,Madison Avenue,E 70th St,L
+395,Madison Avenue,E 71st St,L
+396,Madison Avenue,E 71st St,L
+399,Madison Avenue,E 73rd St,L
+404,Madison Avenue,E 74th St,L
+408,Madison Avenue,E 75th St,L
+409,Madison Avenue,E 75th St,L
+410,Madison Avenue,E 75th St,L
+418,Madison Avenue,E 76th St,L
+419,Madison Avenue,E 76th St,L
+420,Madison Avenue,E 76th St,L
+426,Madison Avenue,E 77th St,L
+428,Madison Avenue,E 77th St,L
+429,Madison Avenue,E 77th St,L
+442,Madison Avenue,E 79th St,L
+443,Madison Avenue,E 79th St,L
+447,Madison Avenue,E 80th St,L
+448,Madison Avenue,E 80th St,L
+457,Madison Avenue,E 69th St,L
+460,Second Avenue,E 60th St,R
+461,Second Avenue,E 60th St,R
+467,Second Avenue,E 61st St,
+468,Second Avenue,E 61st St,R
+474,Second Avenue,E 63rd St,R
+480,Second Avenue,E 64th St,R
+487,Second Avenue,E 66th St,R
+492,Second Avenue,E 67th St,R
+493,Second Avenue,E 68th St,R
+504,Second Avenue,E 69th St,R
+505,Second Avenue,E 69th St,R
+513,Second Avenue,E 70th St,R
+514,Second Avenue,E 70th St,R
+516,Second Avenue,E 71st St,R
+526,Second Avenue,E 72nd St,R
+531,Second Avenue,E 73rd St,R
+538,Second Avenue,E 74th St,R
+539,Second Avenue,E 74th St,R
+543,Second Avenue,E 75th St,R
+547,Second Avenue,E 76th St,R
+548,Second Avenue,E 76th St,R
+549,Second Avenue,E 76th St,R
+552,Second Avenue,E 77th St,R
+560,Second Avenue,E 78th St,R
+562,Second Avenue,E 78th St,R
+578,Second Avenue,E 61st St,L
+579,Second Avenue,E 61st St,L
+580,Second Avenue,E 61st St,L
+581,Second Avenue,E 61st St,L
+591,Second Avenue,E 62nd St,L
+592,Second Avenue,E 62nd St,L
+593,Second Avenue,E 62nd St,L
+594,Second Avenue,E 62nd St,L
+596,Second Avenue,E 62nd St,
+601,Second Avenue,E 63rd St,
+602,Second Avenue,E 63rd St,L
+603,Second Avenue,E 63rd St,L
+610,Second Avenue,E 64th St,L
+611,Second Avenue,E 64th St,L
+614,Second Avenue,E 65th St,L
+615,Second Avenue,E 65th St,L
+618,Second Avenue,E 66th St,
+619,Second Avenue,E 66th St,L
+622,Second Avenue,E 67th St,L
+625,Second Avenue,E 68th St,L
+628,Second Avenue,E 69th St,L
+629,Second Avenue,E 69th St,
+636,Second Avenue,E 70th St,L
+637,Second Avenue,E 70th St,L
+638,Second Avenue,E 70th St,L
+639,Second Avenue,E 70th St,
+645,Second Avenue,E 71st St,L
+646,Second Avenue,E 71st St,L
+647,Second Avenue,E 71st St,L
+661,Second Avenue,E 73rd St,L
+662,Second Avenue,E 73rd St,L
+663,Second Avenue,E 73rd St,L
+671,Second Avenue,E 74th St,L
+672,Second Avenue,E 74th St,L
+673,Second Avenue,E 74th St,L
+676,Second Avenue,E 75th St,L
+677,Second Avenue,E 75th St,L
+681,Second Avenue,E 76th St,L
+682,Second Avenue,E 76th St,L
+683,Second Avenue,E 76th St,L
+690,Second Avenue,E 77th St,L
+691,Second Avenue,E 77th St,L
+692,Second Avenue,E 77th St,L
+693,Second Avenue,E 77th St,L
+699,Second Avenue,E 78th St,L
+705,Second Avenue,E 80th St,L
+712,Second Avenue,E 60th St,
+713,Second Avenue,E 63rd St,L
+719,Second Avenue,E 73rd St,L
+722,Third Avenue,E 60th St,R
+728,Third Avenue,E 61st St,R
+729,Third Avenue,E 61st St,R
+736,Third Avenue,E 62nd St,R
+740,Third Avenue,E 63rd St,R
+741,Third Avenue,E 63rd St,R
+747,Third Avenue,E 64th St,R
+753,Third Avenue,E 66th St,R
+756,Third Avenue,E 67th St,R
+760,Third Avenue,E 68th St,R
+763,Third Avenue,E 69th St,R
+766,Third Avenue,E 70th St,R
+767,Third Avenue,E 70th St,R
+768,Third Avenue,E 70th St,R
+774,Third Avenue,E 71st St,R
+778,Third Avenue,E 71st St,R
+782,Third Avenue,E 72nd St,R
+789,Third Avenue,E 74th St,R
+790,Third Avenue,E 74th St,R
+795,Third Avenue,E 75th St,R
+796,Third Avenue,E 75th St,R
+798,Third Avenue,E 75th St,R
+801,Third Avenue,E 76th St,R
+802,Third Avenue,E 76th St,R
+803,Third Avenue,E 76th St,R
+809,Third Avenue,E 77th St,R
+810,Third Avenue,E 77th St,R
+815,Third Avenue,E 78th St,R
+816,Third Avenue,E 78th St,R
+824,Third Avenue,E 79th St,
+825,Third Avenue,E 79th St,R
+833,Third Avenue,E 80th St,R
+835,Third Avenue,E 60th St,L
+840,Third Avenue,E 61st St,L
+841,Third Avenue,E 61st St,L
+842,Third Avenue,E 61st St,L
+847,Third Avenue,E 62nd St,L
+848,Third Avenue,E 62nd St,L
+852,Third Avenue,E 63rd St,L
+853,Third Avenue,E 63rd St,L
+854,Third Avenue,E 63rd St,L
+857,Third Avenue,E 64th St,L
+860,Third Avenue,E 66th St,L
+861,Third Avenue,E 66th St,L
+865,Third Avenue,E 67th St,L
+866,Third Avenue,E 67th St,L
+868,Third Avenue,E 68th St,L
+871,Third Avenue,E 69th St,L
+879,Third Avenue,E 70th St,L
+890,Third Avenue,E 73rd St,L
+891,Third Avenue,E 73rd St,L
+894,Third Avenue,E 74th St,L
+898,Third Avenue,E 75th St,L
+900,Third Avenue,E 75th St,L
+906,Third Avenue,E 76th St,L
+907,Third Avenue,E 76th St,L
+908,Third Avenue,E 76th St,L
+909,Third Avenue,E 76th St,L
+915,Third Avenue,E 77th St,L
+916,Third Avenue,E 78th St,L
+921,Third Avenue,E 79th St,L
+922,Third Avenue,E 79th St,L
+923,Third Avenue,E 79th St,L
+928,Third Avenue,E 80th St,L
+929,Third Avenue,E 80th St,L
+931,Third Avenue,E 66th St,L
+937,Third Avenue,E 61st St,R
+940,Third Avenue,E 62nd St,L
+941,Third Avenue,E 80th St,R
+946,York Avenue,E 79th St,R
+953,York Avenue,E 78th St,R
+954,York Avenue,E 80th St,L
+959,York Avenue,E 79th St,L
+960,York Avenue,E 79th St,L
+966,York Avenue,E 78th St,L
+967,York Avenue,E 78th St,L
+968,York Avenue,E 78th St,L
+972,York Avenue,E 77th St,L
+974,York Avenue,E 77th St,L
+975,York Avenue,E 77th St,L
+979,York Avenue,E 76th St,L
+1043,57th Street,Lexington Ave,L
+1073,57th Street,Home Improvement,R
+1121,Fifth Avenue,E 51st St,R
+1125,Fifth Avenue,E 52nd St,R
+1126,Fifth Avenue,E 52nd St,R
+1130,Fifth Avenue,E 53rd St,R
+1131,Fifth Avenue,E 53rd St,R
+1136,Fifth Avenue,E 54th St,R
+1142,Fifth Avenue,E 55th St,R
+1145,Fifth Avenue,E 56th St,R
+1146,Fifth Avenue,E 56th St,R
+1153,Fifth Avenue,E 59th St,R
+1156,Fifth Avenue,E 60th St,R
+1158,Fifth Avenue,E 59th St,R
+1159,Fifth Avenue,E 54th St,R
+1161,Fifth Avenue,E 55th St,R
+1166,First Avenue,E 51st St,R
+1172,First Avenue,E 52nd St,R
+1173,First Avenue,E 52nd St,R
+1180,First Avenue,E 53rd St,R
+1181,First Avenue,E 53rd St,R
+1183,First Avenue,E 54th St,R
+1190,First Avenue,E 55th St,R
+1194,First Avenue,E 56th St,R
+1195,First Avenue,E 56th St,R
+1196,First Avenue,E 56th St,R
+1204,First Avenue,E 57th St,
+1210,First Avenue,E 58th St,R
+1211,First Avenue,E 58th St,R
+1212,First Avenue,E 58th St,R
+1216,First Avenue,E 59th St,R
+1217,First Avenue,E 59th St,R
+1218,First Avenue,E 50th St,L
+1223,First Avenue,E 51st St,L
+1224,First Avenue,E 51st St,L
+1225,First Avenue,E 51st St,L
+1227,First Avenue,E 52nd St,L
+1228,First Avenue,E 52nd St,L
+1229,First Avenue,E 52nd St,L
+1236,First Avenue,E 53rd St,L
+1237,First Avenue,E 53rd St,L
+1238,First Avenue,E 53rd St,L
+1245,First Avenue,E 54th St,L
+1246,First Avenue,E 54th St,L
+1253,First Avenue,E 55th St,L
+1254,First Avenue,E 55th St,L
+1255,First Avenue,E 55th St,L
+1256,First Avenue,E 55th St,L
+1258,First Avenue,E 56th St,L
+1261,First Avenue,E 57th St,L
+1262,First Avenue,E 57th St,L
+1263,First Avenue,E 57th St,L
+1271,First Avenue,E 58th St,L
+1272,First Avenue,E 58th St,L
+1277,First Avenue,E 59th St,L
+1278,First Avenue,E 59th St,L
+1279,First Avenue,E 59th St,L
+1280,First Avenue,Ed Koch Queensboro Brg-Upper Level,L
+1282,First Avenue,Ed Koch Queensboro Brg-Lower Level,R
+1286,First Avenue,E 50th St,L
+1288,First Avenue,E 50th St,L
+1292,First Avenue,E 51st St,R
+1293,First Avenue,E 50th St,R
+1296,Lexington Avenue,E 49th St,R
+1298,Lexington Avenue,E 50th St,R
+1302,Lexington Avenue,E 51st St,R
+1303,Lexington Avenue,E 51st St,R
+1307,Lexington Avenue,E 52nd St,R
+1308,Lexington Avenue,E 52nd St,R
+1315,Lexington Avenue,E 54th St,R
+1322,Lexington Avenue,E 55th St,R
+1323,Lexington Avenue,E 55th St,R
+1331,Lexington Avenue,E 56th St,R
+1332,Lexington Avenue,E 56th St,R
+1339,Lexington Avenue,E 57th St,R
+1344,Lexington Avenue,E 58th St,R
+1347,Lexington Avenue,E 49th St,L
+1349,Lexington Avenue,E 50th St,L
+1352,Lexington Avenue,E 51st St,L
+1355,Lexington Avenue,E 52nd St,L
+1356,Lexington Avenue,E 52nd St,L
+1359,Lexington Avenue,E 53rd St,L
+1362,Lexington Avenue,E 54th St,L
+1370,Lexington Avenue,E 55th St,L
+1380,Lexington Avenue,E 56th St,L
+1381,Lexington Avenue,E 56th St,L
+1382,Lexington Avenue,E 56th St,
+1399,Lexington Avenue,E 58th St,L
+1400,Lexington Avenue,E 58th St,L
+1403,Lexington Avenue,E 59th St,L
+1412,Madison Avenue,E 55th St,R
+1414,Madison Avenue,E 56th St,R
+1417,Madison Avenue,E 56th St,R
+1426,Madison Avenue,E 58th St,R
+1427,Madison Avenue,E 58th St,R
+1433,Madison Avenue,E 59th St,R
+1434,Madison Avenue,E 59th St,R
+1437,Madison Avenue,E 60th St,R
+1439,Madison Avenue,E 49th St,R
+1440,Madison Avenue,E 50th St,R
+1443,Madison Avenue,E 51st St,R
+1448,Madison Avenue,E 52nd St,R
+1449,Madison Avenue,E 52nd St,R
+1455,Madison Avenue,E 53rd St,R
+1456,Madison Avenue,E 53rd St,R
+1462,Madison Avenue,E 54th St,R
+1466,Madison Avenue,E 55th St,R
+1471,Madison Avenue,E 58th St,L
+1473,Madison Avenue,E 51st St,L
+1477,Madison Avenue,E 52nd St,L
+1485,Park Avenue,E 53rd St,R
+1488,Park Avenue,E 54th St,R
+1492,Park Avenue,E 55th St,R
+1495,Park Avenue,E 56th St,R
+1496,Park Avenue,E 56th St,R
+1504,Park Avenue,E 58th St,R
+1505,Park Avenue,E 58th St,R
+1508,Park Avenue,E 59th St,R
+1510,Park Avenue,E 54th St,L
+1516,Park Avenue,E 56th St,L
+1523,Park Avenue,E 58th St,L
+1524,Park Avenue,E 58th St,L
+1529,Park Avenue,E 59th St,L
+1530,Park Avenue,E 49th St,L
+1533,Park Avenue,E 50th St,L
+1534,Park Avenue,E 50th St,L
+1535,Park Avenue,E 51st St,L
+1536,Park Avenue,E 51st St,L
+1539,Park Avenue,E 52nd St,L
+1542,Park Avenue,E 53rd St,L
+1550,Park Avenue,E 55th St,L
+1552,Park Avenue,E 56th St,L
+1554,Park Avenue,E 49th St,
+1556,Second Avenue,E 59th St,L
+1557,Second Avenue,E 60th St,
+1558,Second Avenue,E 49th St,R
+1559,Second Avenue,E 49th St,R
+1564,Second Avenue,E 50th St,R
+1565,Second Avenue,E 50th St,R
+1570,Second Avenue,E 51st St,R
+1571,Second Avenue,E 51st St,R
+1572,Second Avenue,E 51st St,R
+1578,Second Avenue,E 52nd St,R
+1579,Second Avenue,E 52nd St,R
+1580,Second Avenue,E 52nd St,R
+1581,Second Avenue,E 52nd St,
+1585,Second Avenue,E 53rd St,R
+1586,Second Avenue,E 53rd St,R
+1592,Second Avenue,E 54th St,R
+1593,Second Avenue,E 54th St,R
+1594,Second Avenue,E 54th St,R
+1598,Second Avenue,E 55th St,R
+1601,Second Avenue,E 56th St,R
+1602,Second Avenue,E 56th St,R
+1609,Second Avenue,E 58th St,R
+1610,Second Avenue,E 58th St,R
+1611,Second Avenue,E 57th St,R
+1613,Second Avenue,E 50th St,L
+1614,Second Avenue,E 50th St,L
+1622,Second Avenue,E 51st St,L
+1628,Second Avenue,E 52nd St,L
+1633,Second Avenue,E 53rd St,L
+1634,Second Avenue,E 53rd St,L
+1639,Second Avenue,E 54th St,L
+1644,Second Avenue,E 55th St,L
+1645,Second Avenue,E 55th St,L
+1651,Second Avenue,E 56th St,L
+1656,Second Avenue,E 57th St,L
+1663,Second Avenue,E 58th St,L
+1669,Second Avenue,E 59th St,L
+1670,Second Avenue,E 59th St,L
+1672,Second Avenue,E 54th St,L
+1677,Third Avenue,E 52nd St,R
+1679,Third Avenue,E 54th St,R
+1681,Third Avenue,E 55th St,R
+1684,Third Avenue,E 56th St,R
+1686,Third Avenue,E 57th St,R
+1690,Third Avenue,E 58th St,R
+1691,Third Avenue,E 58th St,R
+1698,Third Avenue,E 59th St,R
+1699,Third Avenue,E 59th St,R
+1701,Third Avenue,E 53rd St,L
+1704,Third Avenue,E 54th St,L
+1705,Third Avenue,E 54th St,L
+1709,Third Avenue,E 55th St,L
+1710,Third Avenue,E 55th St,L
+1711,Third Avenue,E 55th St,L
+1717,Third Avenue,E 56th St,L
+1718,Third Avenue,E 56th St,L
+1723,Third Avenue,E 57th St,L
+1731,Third Avenue,E 58th St,L
+1735,Third Avenue,E 49th St,R
+1739,Third Avenue,E 50th St,R
+1740,Third Avenue,E 50th St,R
+1741,Third Avenue,E 50th St,R
+1746,Third Avenue,E 51st St,R
+1747,Third Avenue,E 51st St,R
+1748,Third Avenue,E 49th St,L
+1750,Third Avenue,E 50th St,L
+1752,Third Avenue,E 50th St,L
+1754,Third Avenue,E 50th St,L
+1756,Third Avenue,E 51st St,L
+1758,Third Avenue,E 51st St,R
+1761,Third Avenue,E 51st St,L
+1769,Third Avenue,E 51st St,L
+1823,72nd Street,Columbus Ave,L
+1864,72nd Street,Broadway,L
+1905,Amsterdam Avenue,W 73rd St,R
+1906,Amsterdam Avenue,W 73rd St,R
+1907,Amsterdam Avenue,W 73rd St,R
+1908,Amsterdam Avenue,W 73rd St,R
+1909,Amsterdam Avenue,W 73rd St,R
+1911,Amsterdam Avenue,W 73rd St,R
+1918,Amsterdam Avenue,W 74th St,R
+1919,Amsterdam Avenue,W 74th St,R
+1920,Amsterdam Avenue,W 74th St,R
+1921,Amsterdam Avenue,W 74th St,R
+1926,Amsterdam Avenue,W 75th St,R
+1927,Amsterdam Avenue,W 75th St,
+1928,Amsterdam Avenue,W 75th St,R
+1933,Amsterdam Avenue,W 76th St,R
+1935,Amsterdam Avenue,W 74th St,L
+1937,Amsterdam Avenue,W 75th St,L
+1941,Amsterdam Avenue,W 66th St,R
+1942,Amsterdam Avenue,W 66th St,R
+1947,Amsterdam Avenue,W 67th St,R
+1948,Amsterdam Avenue,W 67th St,R
+1953,Amsterdam Avenue,W 68th St,R
+1957,Amsterdam Avenue,W 69th St,R
+1958,Amsterdam Avenue,W 69th St,R
+1960,Amsterdam Avenue,W 70th St,R
+1973,Amsterdam Avenue,W 70th St,L
+1974,Amsterdam Avenue,W 74th St,R
+1978,Broadway,W 73rd St,L
+1981,Broadway,W 74th St,L
+1984,Broadway,W 73rd St,L
+1985,Broadway,W 74th St,R
+1988,Broadway,W 74th St,
+1990,Broadway,W 75th St,R
+1992,Broadway,W 75th St,R
+2002,Broadway,W 76th St,L
+2003,Broadway,W 75th St,L
+2004,Broadway,W 76th St,
+2005,Broadway,W 76th St,
+2012,Broadway,W 62nd St,R
+2014,Broadway,W 62nd St,R
+2018,Broadway,W 63rd St,R
+2019,Broadway,W 63rd St,R
+2024,Broadway,W 64th St,
+2027,Broadway,W 66th St,R
+2029,Broadway,W 67th St,R
+2031,Broadway,W 68th St,R
+2035,Broadway,W 69th St,R
+2036,Broadway,W 69th St,R
+2040,Broadway,W 70th St,
+2041,Broadway,W 70th St,R
+2042,Amsterdam Avenue,W 70th St,R
+2043,Amsterdam Avenue,Broadway,R
+2044,Amsterdam Avenue,Broadway,R
+2045,Amsterdam Avenue,Broadway,R
+2046,Amsterdam Avenue,Broadway,R
+2047,Amsterdam Avenue,Broadway,R
+2048,Amsterdam Avenue,W 71st St,R
+2050,Amsterdam Avenue,Broadway,R
+2054,Amsterdam Avenue,W 72nd St,R
+2055,Broadway,W 60th St,L
+2060,Broadway,W 61st St,
+2064,Broadway,W 62nd St,L
+2065,Broadway,W 62nd St,L
+2070,Broadway,W 63rd St,L
+2071,Broadway,Lincoln Ctr,
+2073,Broadway,W 66th St,L
+2075,Broadway,W 67th St,L
+2078,Broadway,W 68th St,L
+2084,Broadway,W 69th St,
+2085,Broadway,W 69th St,L
+2088,Broadway,W 70th St,L
+2089,Amsterdam Avenue,W 70th St,L
+2095,Amsterdam Avenue,W 71st St,L
+2096,Amsterdam Avenue,W 71st St,L
+2097,Amsterdam Avenue,W 71st St,L
+2099,Amsterdam Avenue,Broadway,L
+2103,Amsterdam Avenue,Broadway,R
+2104,Amsterdam Avenue,W 71st St,R
+2105,Amsterdam Avenue,Broadway,L
+2107,Amsterdam Avenue,Broadway,L
+2108,Amsterdam Avenue,Broadway,
+2110,Amsterdam Avenue,W 70th St,L
+2111,Broadway,W 62nd St,R
+2114,Columbus Avenue,W 66th St,R
+2116,Columbus Avenue,W 67th St,R
+2117,Columbus Avenue,W 67th St,R
+2118,Columbus Avenue,W 67th St,
+2120,Columbus Avenue,W 68th St,R
+2121,Columbus Avenue,W 68th St,R
+2122,Columbus Avenue,W 68th St,R
+2123,Columbus Avenue,W 68th St,R
+2127,Columbus Avenue,W 69th St,R
+2128,Columbus Avenue,W 69th St,R
+2129,Columbus Avenue,W 69th St,R
+2130,Columbus Avenue,W 69th St,R
+2134,Columbus Avenue,W 70th St,R
+2135,Columbus Avenue,W 70th St,R
+2140,Columbus Avenue,W 71st St,R
+2141,Columbus Avenue,W 71st St,R
+2142,Columbus Avenue,W 71st St,R
+2143,Columbus Avenue,W 71st St,R
+2144,Columbus Avenue,W 71st St,R
+2148,Columbus Avenue,W 72nd St,R
+2149,Columbus Avenue,W 72nd St,R
+2150,Columbus Avenue,W 72nd St,R
+2151,Columbus Avenue,W 72nd St,R
+2156,Columbus Avenue,W 73rd St,R
+2157,Columbus Avenue,W 73rd St,R
+2158,Columbus Avenue,W 73rd St,R
+2159,Columbus Avenue,W 73rd St,R
+2160,Columbus Avenue,W 73rd St,R
+2163,Columbus Avenue,W 74th St,R
+2164,Columbus Avenue,W 74th St,R
+2165,Columbus Avenue,W 74th St,R
+2166,Columbus Avenue,W 74th St,R
+2171,Columbus Avenue,W 75th St,
+2172,Columbus Avenue,W 75th St,R
+2173,Columbus Avenue,W 75th St,R
+2174,Columbus Avenue,W 75th St,R
+2176,Columbus Avenue,W 76th St,R
+2178,Columbus Avenue,W 76th St,R
+2196,Columbus Avenue,W 69th St,L
+2202,Columbus Avenue,W 70th St,L
+2212,Columbus Avenue,W 71st St,L
+2217,Madison Avenue,E 36th St,R
+2224,Columbus Avenue,W 73rd St,L
+2231,Columbus Avenue,W 74th St,L
+2237,Columbus Avenue,W 75th St,L
+2238,Columbus Avenue,W 75th St,L
+2239,Columbus Avenue,W 75th St,L
+2246,Columbus Avenue,W 76th St,L
+2249,Columbus Avenue,Lincoln Ctr,
+2251,Columbus Avenue,W 62nd St,R
+2252,Columbus Avenue,W 62nd St,R
+2254,Columbus Avenue,W 61st St,R
+2255,Columbus Avenue,,L
+2256,Columbus Avenue,W 61st St,R
+2258,Columbus Avenue,W 60th St,R
+2264,Columbus Circle,W 60th St,R
+2265,Columbus Circle,W 60th St,R
+2266,Columbus Circle,W 60th St,R
+2267,Columbus Circle,W 60th St,R
+2268,Columbus Circle,W 60th St,R
+2269,Columbus Circle,W 60th St,R
+2270,Columbus Circle,W 60th St,R
+2271,Columbus Circle,W 60th St,R
+2277,Amsterdam Avenue,W 77th St,R
+2278,Amsterdam Avenue,W 77th St,R
+2280,Amsterdam Avenue,W 78th St,R
+2281,Amsterdam Avenue,W 78th St,R
+2282,Amsterdam Avenue,W 78th St,R
+2283,Amsterdam Avenue,W 78th St,
+2291,Amsterdam Avenue,W 79th St,R
+2303,Amsterdam Avenue,W 80th St,R
+2304,Amsterdam Avenue,W 80th St,R
+2305,Amsterdam Avenue,W 80th St,R
+2310,Amsterdam Avenue,W 81st St,R
+2311,Amsterdam Avenue,W 81st St,R
+2317,Amsterdam Avenue,W 82nd St,R
+2318,Amsterdam Avenue,W 82nd St,R
+2325,Amsterdam Avenue,W 83rd St,R
+2326,Amsterdam Avenue,W 83rd St,R
+2334,Amsterdam Avenue,W 84th St,R
+2338,Amsterdam Avenue,W 85th St,
+2339,Amsterdam Avenue,W 85th St,R
+2340,Amsterdam Avenue,W 85th St,R
+2341,Amsterdam Avenue,W 85th St,R
+2347,Amsterdam Avenue,W 86th St,R
+2348,Amsterdam Avenue,W 86th St,R
+2351,Amsterdam Avenue,W 87th St,R
+2353,Amsterdam Avenue,W 89th St,R
+2357,Amsterdam Avenue,W 76th St,L
+2360,Amsterdam Avenue,W 77th St,L
+2361,Amsterdam Avenue,W 77th St,L
+2368,Amsterdam Avenue,W 78th St,L
+2370,79th Street,Amsterdam Ave,L
+2371,79th Street,Amsterdam Ave,R
+2377,Amsterdam Avenue,W 80th St,L
+2378,Amsterdam Avenue,W 80th St,L
+2386,Amsterdam Avenue,W 81st St,L
+2387,Amsterdam Avenue,W 81st St,L
+2388,Amsterdam Avenue,W 81st St,L
+2389,Amsterdam Avenue,W 81st St,L
+2394,Amsterdam Avenue,W 82nd St,L
+2395,Amsterdam Avenue,W 82nd St,L
+2396,Amsterdam Avenue,W 82nd St,L
+2401,Amsterdam Avenue,W 83rd St,L
+2402,Amsterdam Avenue,W 83rd St,L
+2410,Amsterdam Avenue,W 84th St,L
+2411,Amsterdam Avenue,W 84th St,L
+2419,Amsterdam Avenue,W 85th St,L
+2420,Amsterdam Avenue,W 85th St,L
+2421,Amsterdam Avenue,W 85th St,L
+2429,Amsterdam Avenue,W 87th St,L
+2430,Amsterdam Avenue,W 87th St,L
+2436,Amsterdam Avenue,W 88th St,L
+2437,Amsterdam Avenue,W 88th St,L
+2444,Amsterdam Avenue,W 89th St,L
+2445,Amsterdam Avenue,W 89th St,L
+2446,Amsterdam Avenue,W 89th St,L
+2454,Amsterdam Avenue,W 90th St,L
+2455,Amsterdam Avenue,W 90th St,L
+2458,Amsterdam Avenue,W 91st St,R
+2462,Amsterdam Avenue,W 83rd St,R
+2464,Amsterdam Avenue,W 91st St,R
+2465,Broadway,W 76th St,R
+2469,Broadway,W 76th St,L
+2478,Broadway,W 77th St,L
+2480,Broadway,W 77th St,R
+2481,Broadway,W 77th St,
+2482,Broadway,W 77th St,L
+2492,Broadway,W 78th St,L
+2494,Broadway,W 78th St,
+2495,Broadway,W 78th St,R
+2503,Broadway,W 78th St,R
+2508,Broadway,W 79th St,R
+2510,Broadway,W 78th St,L
+2513,79th Street,Broadway,R
+2514,79th Street,Broadway,R
+2518,Broadway,W 80th St,
+2521,Broadway,W 80th St,R
+2526,Broadway,W 80th St,R
+2529,Broadway,W 81st St,R
+2532,Broadway,W 81st St,L
+2534,Broadway,W 81st St,
+2535,Broadway,W 81st St,R
+2544,Broadway,W 81st St,L
+2546,Broadway,W 82nd St,L
+2548,Broadway,W 82nd St,R
+2551,Broadway,W 82nd St,R
+2553,Broadway,W 83rd St,L
+2555,Broadway,W 83rd St,R
+2556,Broadway,W 83rd St,R
+2558,Broadway,W 83rd St,R
+2561,Broadway,W 83rd St,L
+2562,Broadway,Accessories,L
+2567,Broadway,W 84th St,L
+2568,Broadway,W 84th St,L
+2573,Broadway,W 84th St,L
+2580,Broadway,W 85th St,R
+2581,Broadway,W 85th St,L
+2583,Broadway,W 85th St,L
+2591,Broadway,W 85th St,R
+2592,Broadway,W 85th St,R
+2599,Broadway,W 86th St,R
+2602,Broadway,W 87th St,R
+2604,Broadway,W 87th St,R
+2608,Broadway,W 88th St,R
+2609,Broadway,W 87th St,L
+2615,Broadway,W 88th St,L
+2616,Broadway,W 88th St,L
+2617,Broadway,W 88th St,R
+2619,Broadway,W 89th St,L
+2620,Broadway,W 88th St,L
+2622,Broadway,W 89th St,L
+2628,Broadway,W 89th St,R
+2629,Broadway,W 89th St,R
+2633,Broadway,W 90th St,R
+2634,Broadway,W 89th St,L
+2635,Broadway,W 89th St,L
+2638,Broadway,W 90th St,L
+2640,Broadway,W 90th St,L
+2641,Broadway,W 90th St,L
+2647,Broadway,W 91st St,R
+2650,Broadway,W 91st St,
+2651,Broadway,W 91st St,L
+2654,Broadway,W 87th St,L
+2657,Columbus Avenue,W 77th St,R
+2658,Columbus Avenue,W 81st St,R
+2659,Columbus Avenue,W 81st St,R
+2664,Columbus Avenue,W 82nd St,R
+2665,Columbus Avenue,W 82nd St,R
+2666,Columbus Avenue,W 82nd St,R
+2667,Columbus Avenue,W 82nd St,R
+2668,Columbus Avenue,W 82nd St,R
+2672,Columbus Avenue,W 83rd St,R
+2673,Columbus Avenue,W 83rd St,R
+2674,Columbus Avenue,W 83rd St,R
+2675,Columbus Avenue,W 83rd St,R
+2676,Columbus Avenue,W 83rd St,R
+2677,Columbus Avenue,W 83rd St,R
+2681,Columbus Avenue,W 84th St,R
+2682,Columbus Avenue,W 84th St,R
+2683,Columbus Avenue,W 84th St,R
+2684,Columbus Avenue,W 84th St,R
+2688,Columbus Avenue,W 85th St,R
+2689,Columbus Avenue,W 85th St,R
+2692,Columbus Avenue,W 86th St,R
+2694,Columbus Avenue,W 86th St,R
+2695,Columbus Avenue,W 86th St,R
+2700,Columbus Avenue,W 87th St,R
+2701,Columbus Avenue,W 87th St,R
+2702,Columbus Avenue,W 87th St,R
+2703,Columbus Avenue,W 87th St,R
+2708,Columbus Avenue,W 88th St,R
+2709,Columbus Avenue,W 88th St,R
+2710,Columbus Avenue,W 77th St,L
+2711,Columbus Avenue,W 77th St,L
+2713,Columbus Avenue,W 78th St,L
+2714,Columbus Avenue,W 78th St,L
+2715,Columbus Avenue,W 78th St,
+2718,Columbus Avenue,W 79th St,L
+2719,Columbus Avenue,W 79th St,L
+2724,Columbus Avenue,W 80th St,L
+2725,Columbus Avenue,W 80th St,L
+2726,Columbus Avenue,W 80th St,L
+2727,Columbus Avenue,W 80th St,L
+2728,Columbus Avenue,W 80th St,L
+2733,Columbus Avenue,W 81st St,L
+2734,Columbus Avenue,W 81st St,L
+2735,Columbus Avenue,W 81st St,L
+2739,Columbus Avenue,W 82nd St,L
+2740,Columbus Avenue,W 82nd St,L
+2741,Columbus Avenue,W 82nd St,L
+2742,Columbus Avenue,W 82nd St,L
+2743,Columbus Avenue,W 82nd St,L
+2747,Columbus Avenue,W 83rd St,L
+2748,Columbus Avenue,W 83rd St,L
+2752,Columbus Avenue,W 85th St,L
+2753,Columbus Avenue,W 85th St,L
+2766,Columbus Avenue,W 87th St,L
+2767,Columbus Avenue,W 87th St,L
+2768,Columbus Avenue,W 87th St,L
+2775,Columbus Avenue,W 88th St,L
+2778,Columbus Avenue,W 89th St,L
+2779,Columbus Avenue,W 89th St,L
+2780,Columbus Avenue,W 89th St,L
+2783,Columbus Avenue,W 90th St,L
+2784,Columbus Avenue,W 90th St,L
+2787,Columbus Avenue,W 91st St,L
+2789,Columbus Avenue,W 89th St,R
+2790,Columbus Avenue,W 89th St,R
+2791,Columbus Avenue,W 90th St,R
+2793,Columbus Avenue,W 91st St,R
+2794,Columbus Avenue,W 85th St,R
+2795,Columbus Avenue,W 90th St,L
+2798,Columbus Avenue,,R
+2799,Columbus Avenue,W 88th St,R
+2800,Columbus Avenue,W 88th St,L
+2802,Columbus Avenue,W 88th St,L
+2803,Amsterdam Avenue,W 76th St,R
+2807,Amsterdam Avenue,W 92nd St,R
+2811,Amsterdam Avenue,W 93rd St,R
+2812,Amsterdam Avenue,W 93rd St,R
+2813,Amsterdam Avenue,W 93rd St,R
+2816,Amsterdam Avenue,W 94th St,
+2819,Amsterdam Avenue,W 95th St,R
+2823,Amsterdam Avenue,W 96th St,R
+2824,Amsterdam Avenue,W 91st St,L
+2830,Amsterdam Avenue,W 92nd St,L
+2831,Amsterdam Avenue,W 92nd St,L
+2832,Amsterdam Avenue,W 92nd St,L
+2841,Amsterdam Avenue,W 93rd St,L
+2842,Amsterdam Avenue,W 93rd St,L
+2844,Amsterdam Avenue,W 94th St,L
+2845,Amsterdam Avenue,W 94th St,L
+2846,Amsterdam Avenue,W 94th St,L
+2852,Amsterdam Avenue,W 95th St,L
+2853,Amsterdam Avenue,W 95th St,L
+2854,Amsterdam Avenue,W 95th St,L
+2855,Amsterdam Avenue,W 95th St,L
+2862,Amsterdam Avenue,W 92nd St,R
+2864,Amsterdam Avenue,,R
+2865,Amsterdam Avenue,W 104th St,R
+2866,Amsterdam Avenue,,R
+2872,Amsterdam Avenue,W 106th St,R
+2873,Amsterdam Avenue,W 106th St,R
+2881,Amsterdam Avenue,W 107th St,R
+2882,Amsterdam Avenue,W 107th St,R
+2883,Amsterdam Avenue,W 107th St,R
+2888,Amsterdam Avenue,W 108th St,R
+2889,Amsterdam Avenue,W 108th St,R
+2890,Amsterdam Avenue,W 108th St,R
+2895,Amsterdam Avenue,W 109th St,R
+2897,Amsterdam Avenue,W 101st St,L
+2898,Amsterdam Avenue,W 101st St,L
+2904,Amsterdam Avenue,W 102nd St,L
+2906,Amsterdam Avenue,W 103rd St,L
+2913,Amsterdam Avenue,W 104th St,L
+2914,Amsterdam Avenue,W 104th St,L
+2921,Amsterdam Avenue,W 105th St,L
+2931,Amsterdam Avenue,W 106th St,L
+2938,Amsterdam Avenue,W 107th St,L
+2939,Amsterdam Avenue,W 107th St,L
+2949,Amsterdam Avenue,W 108th St,L
+2950,Amsterdam Avenue,W 108th St,L
+2955,Amsterdam Avenue,W 109th St,L
+2956,Amsterdam Avenue,W 109th St,L
+2963,Amsterdam Avenue,W 94th St,R
+2965,Amsterdam Avenue,W 109th St,L
+2966,Amsterdam Avenue,W 102nd St,L
+2968,Broadway,W 91st St,R
+2969,Broadway,W 91st St,L
+2970,Broadway,W 92nd St,L
+2975,Broadway,W 92nd St,R
+2977,Broadway,W 92nd St,L
+2978,Broadway,W 92nd St,L
+2990,Broadway,W 93rd St,R
+2992,Broadway,W 93rd St,L
+2993,Broadway,W 93rd St,L
+3002,Broadway,W 94th St,R
+3005,Broadway,W 94th St,L
+3006,Broadway,W 94th St,R
+3007,Broadway,W 94th St,L
+3008,Broadway,W 95th St,L
+3015,Broadway,W 95th St,R
+3016,Broadway,W 95th St,R
+3019,Broadway,W 95th St,L
+3024,Broadway,W 96th St,L
+3025,Broadway,W 96th St,R
+3030,Broadway,W 92nd St,R
+3031,Broadway,W 93rd St,
+3036,Broadway,W 96th St,R
+3039,Broadway,W 97th St,R
+3040,Broadway,W 97th St,R
+3041,Broadway,W 97th St,R
+3050,Broadway,W 98th St,R
+3051,Broadway,W 98th St,R
+3052,Broadway,W 98th St,R
+3053,Broadway,W 98th St,R
+3069,SixthAvenue,W 16th St,L
+3070,SixthAvenue,W 15th St,L
+3073,SixthAvenue,W 20th St,
+3117,Broadway,W 94th St,R
+3118,Columbus Avenue,W 92nd St,L
+3122,Second Avenue,E 33rd St,
+3125,Lafayette Street,Walker St,R
+3137,Wall Street,Hanover St,L
+3142,Water Street,Fletcher St,L
+3143,Water Street,Gouverneur Ln,R
+3153,Avenue C,E 10th St,L
+3175,SixthAvenue,Prince St,R
+3176,SixthAvenue,Prince St,R
+3179,SixthAvenue,Vandam St,L
+3180,SixthAvenue,Vandam St,L
+3202,Broadway,W 168th St,L
+3205,Broadway,W 172nd St,L
+3209,Broadway,W 172nd St,L
+3210,Broadway,W 172nd St,L
+3211,Broadway,W 172nd St,L
+3212,Broadway,W 172nd St,R
+3220,Broadway,W 173rd St,L
+3276,Fort Washington Avenue,W 187th St,L
+3293,187th Street,Pinehurst Ave,L
+3294,187th Street,Cabrini Blvd,L
+3302,Broadway,W 136th St,R
+3307,Ninth Avenue,W 25th St,L
+3309,Eighth Avenue,W 28th St,R
+3312,,4th Ave,
+3313,Broadway,W 225th St,L
+3314,Broadway,W 225th St,L
+3339,Broadway,W 228th St,L
+3357,Church Street,Franklin St,L
+3362,Seventh Avenue,Broadway,R
+3368,Gansevoort Street,,R
+3372,Second Avenue,E 11th St,R
+3381,Stanton Street,Delancey St,R
+3382,Tenth Avenue,,R
+3390,Madison Avenue,E 74th St,L
+3407,Third Avenue,E 118th St,L
+3408,Third Avenue,E 118th St,L
+3413,Third Avenue,E 118th St,R
+3414,Third Avenue,E 118th St,R
+3420,Third Avenue,E 119th St,R
+3421,Third Avenue,E 119th St,L
+3426,Third Avenue,E 119th St,L
+3427,Third Avenue,E 119th St,R
+3431,Third Avenue,E 120th St,R
+3433,Third Avenue,E 120th St,L
+3434,Third Avenue,E 120th St,L
+3435,Third Avenue,E 120th St,L
+3438,Third Avenue,E 121st St,L
+3439,Third Avenue,E 121st St,L
+3443,Third Avenue,E 122nd St,L
+3444,Third Avenue,E 122nd St,L
+3445,Third Avenue,E 122nd St,R
+3448,Third Avenue,E 121st St,R
+3449,Third Avenue,E 121st St,R
+3450,Third Avenue,E 122nd St,L
+3451,Third Avenue,E 122nd St,L
+3456,Third Avenue,E 123rd St,L
+3457,Third Avenue,E 123rd St,L
+3458,Third Avenue,E 123rd St,L
+3459,Third Avenue,E 123rd St,R
+3461,Third Avenue,E 122nd St,R
+3462,Third Avenue,E 123rd St,L
+3463,Third Avenue,E 123rd St,L
+3468,Third Avenue,E 124th St,L
+3469,Third Avenue,E 124th St,R
+3475,Third Avenue,E 123rd St,R
+3476,Third Avenue,E 124th St,L
+3480,Third Avenue,E 110th St,L
+3481,Third Avenue,E 110th St,L
+3485,Third Avenue,E 111th St,L
+3486,Third Avenue,E 111th St,L
+3488,Third Avenue,E 110th St,R
+3489,Third Avenue,E 111th St,R
+3490,Third Avenue,E 111th St,R
+3495,Third Avenue,E 112th St,R
+3496,Third Avenue,E 112th St,L
+3497,Third Avenue,E 112th St,L
+3507,Third Avenue,E 111th St,L
+3511,First Avenue,E 109th St,L
+3517,First Avenue,E 112th St,L
+3518,First Avenue,E 114th St,R
+3519,First Avenue,E 114th St,R
+3520,First Avenue,E 114th St,R
+3526,First Avenue,E 115th St,R
+3527,First Avenue,E 115th St,R
+3528,First Avenue,E 115th St,R
+3535,First Avenue,E 116th St,L
+3544,First Avenue,E 115th St,L
+3545,First Avenue,E 116th St,R
+3557,First Avenue,E 117th St,L
+3563,First Avenue,E 118th St,R
+3564,First Avenue,E 118th St,R
+3571,First Avenue,E 120th St,L
+3572,First Avenue,E 120th St,L
+3579,First Avenue,E 119th St,L
+3580,First Avenue,E 119th St,L
+3584,First Avenue,E 118th St,L
+3587,Second Avenue,E 110th St,R
+3593,Second Avenue,E 110th St,L
+3594,Second Avenue,E 110th St,L
+3599,Second Avenue,E 111th St,L
+3600,Second Avenue,E 111th St,R
+3606,Second Avenue,E 112th St,R
+3611,Second Avenue,E 112th St,L
+3612,Second Avenue,E 115th St,R
+3619,Second Avenue,E 115th St,L
+3624,Second Avenue,E 116th St,L
+3627,Second Avenue,E 116th St,R
+3631,Second Avenue,E 117th St,R
+3632,Second Avenue,E 117th St,L
+3637,Second Avenue,E 117th St,R
+3643,Second Avenue,E 118th St,L
+3644,Second Avenue,E 118th St,L
+3649,Second Avenue,E 119th St,L
+3653,Second Avenue,E 120th St,R
+3658,Second Avenue,E 121st St,L
+3662,Second Avenue,E 122nd St,L
+3663,Second Avenue,E 122nd St,L
+3665,Second Avenue,E 123rd St,L
+3671,Second Avenue,E 124th St,L
+3672,Second Avenue,E 124th St,L
+3674,East 124th Street,2nd Ave,R
+3680,Madison Avenue,E 102nd St,L
+3682,Madison Avenue,E 103rd St,L
+3683,Madison Avenue,E 105th St,L
+3690,Madison Avenue,E 104th St,L
+3695,Madison Avenue,E 107th St,L
+3698,Madison Avenue,E 108th St,L
+3702,Madison Avenue,E 109th St,L
+3703,Madison Avenue,E 109th St,L
+3710,Madison Avenue,E 110th St,L
+3711,Madison Avenue,E 110th St,L
+3714,Madison Avenue,E 111th St,R
+3724,Madison Avenue,E 115th St,R
+3731,Madison Avenue,E 117th St,L
+3736,Madison Avenue,E 117th St,R
+3737,Madison Avenue,E 117th St,R
+3742,Madison Avenue,E 118th St,R
+3746,Madison Avenue,E 119th St,R
+3749,Madison Avenue,E 118th St,L
+3751,Madison Avenue,E 124th St,L
+3753,124th Street,Madison Ave,R
+3764,Lexington Avenue,E 99th St,R
+3769,Lexington Avenue,E 107th St,R
+3780,Lexington Avenue,E 106th St,R
+3787,Lexington Avenue,E 108th St,R
+3794,Lexington Avenue,E 109th St,R
+3795,Lexington Avenue,E 109th St,R
+3802,Lexington Avenue,E 110th St,R
+3823,Lexington Avenue,E 112th St,R
+3824,Lexington Avenue,E 115th St,R
+3830,Lexington Avenue,E 115th St,L
+3843,Lexington Avenue,E 117th St,L
+3845,Lexington Avenue,E 118th St,R
+3855,Lexington Avenue,E 122nd St,L
+3859,Lexington Avenue,E 122nd St,R
+3860,Lexington Avenue,E 122nd St,R
+3866,Lexington Avenue,E 123rd St,R
+3869,Lexington Avenue,E 123rd St,L
+3880,Lexington Avenue,E 124th St,L
+3882,116th Street,,R
+3920,Ludlow Street,Hester St,L
+3928,Ludlow Street,Hester St,R
+3976,Amsterdam Avenue,W 76th St,L
+3982,Eighth Avenue,W 12th St,R
+4009,Avenue C,E 5th St,R
+4014,Maiden Lane,Liberty Pl,L
+4023,34th Street,,R
+4026,34th Street,,L
+4027,34th Street,,R
+4028,34th Street,Lincoln Tunnel Expy,R
+4030,34th Street,Lincoln Tunnel Expy,L
+4044,Broadway,Fulton St,L
+4068,Second Avenue,E 73rd St,L
+4070,Second Avenue,E 71st St,
+4074,Second Avenue,E 60th St,L
+4079,Hudson Street,Beach St,L
+4081,Hudson Street,Holland Tunnel,R
+4083,Hudson Street,8/8/2012,L
+4084,Hudson Street,Holland Tunnel,
+4089,Hudson Street,Holland Tunnel,R
+4090,Hudson Street,Charlton St,L
+4093,Hudson Street,W Houston St,
+4098,Hudson Street,Morton St,L
+4105,Hudson Street,Barrow St,L
+4106,Hudson Street,Barrow St,
+4108,Hudson Street,Barrow St,R
+4114,Hudson Street,W 10th St,L
+4116,Hudson Street,Charles St,
+4117,Hudson Street,W 11th St,
+4119,Hudson Street,Horatio St,
+4120,Hudson Street,Gansevoort St,L
+4123,Washington Street,Leroy St,R
+4126,Washington Street,Leroy St,L
+4138,Washington Street,W 12th St,L
+4144,Washington Street,Bank St,R
+4147,Washington Street,W 11th St,R
+4151,Washington Street,Perry St,R
+4152,Washington Street,W 11th St,L
+4154,Washington Street,Charles Ln,L
+4155,Washington Street,Charles Ln,L
+4156,Washington Street,Charles St,L
+4157,Washington Street,Charles St,L
+4159,Washington Street,W 10th St,L
+4160,Washington Street,Charles St,R
+4169,Washington Street,Christopher St,R
+4173,Avenue A,E 10th St,R
+4184,Second Avenue,E 88th St,L
+4192,Wall Street,Pearl St,L
+4193,Pine Street,William St,L
+4194,Columbus Avenue,W 70th St,
+4195,Union Square,E 15th St,
+4196,Broadway,Union Sq W,L
+4198,Broadway,Amsterdam Ave,
+4200,Fifth Avenue,E 35th St,R
+4206,Fifth Avenue,W 54th St,L
+4223,Greenwich Street,Jane St,R
+4235,Greenwich Street,Bank St,R
+4242,Greenwich Street,W 11th St,R
+4251,Greenwich Street,Charles St,
+4257,Greenwich Street,W 10th St,L
+4258,Greenwich Street,W 10th St,R
+4270,Greenwich Street,Morton St,L
+4276,Greenwich Street,Leroy St,R
+4277,Greenwich Street,Leroy St,L
+4285,Greenwich Street,Watts St,
+4294,Fourth Avenue,E 9th St,R
+4300,Fourth Avenue,E 10th St,R
+4301,Fourth Avenue,E 10th St,R
+4302,Fourth Avenue,Lafayette St,L
+4303,Fourth Avenue,E 10th St,L
+4305,York Avenue,E 83rd St,L
+4306,York Avenue,E 81st St,R
+4308,York Avenue,E 76th St,L
+4309,York Avenue,E 76th St,L
+4317,York Avenue,E 75th St,L
+4318,York Avenue,E 76th St,R
+4325,Lexington Avenue,E 49th St,R
+4326,Lexington Avenue,E 48th St,L
+4329,Lexington Avenue,E 40th St,R
+4341,Church Street,Lispenard St,R
+4414,Eighth Street,Astor Pl,L
+4416,Eighth Street,Astor Pl,L
+4463,56th Street,Parking,R
+4613,Seventh Avenue,W 4th St,L
+4637,Fulton Street,Dutch St,
+4644,Fulton Street,Dutch St,L
+4663,Fulton Street,Gold St,L
+4664,Fulton Street,Gold St,L
+4667,Fulton Street,Gold St,L
+4668,Fulton Street,Gold St,L
+4669,Fulton Street,John Delury Sr Plz,L
+4670,Fulton Street,Ryders Aly,L
+4679,Seventh Avenue,W 33rd St,R
+4680,West Broadway,Laguardia Pl,L
+4681,Greenwich Avenue,W 11th St,R
+4687,Greenwich Avenue,W 12th St,R
+4690,Greenwich Avenue,Christopher St,L
+4691,Greenwich Avenue,Christopher St,L
+4692,Greenwich Avenue,Christopher St,L
+4693,Greenwich Avenue,Christopher St,L
+4697,Columbus Avenue,W 105th St,
+4699,Columbus Avenue,W 95th St,L
+4710,Canal Street,Eldridge St,R
+4716,Canal Street,7/19/2007,L
+4726,Canal Street,Orchard St,R
+4727,Canal Street,Orchard St,L
+4741,Canal Street,Ludlow St,R
+4753,Canal Street,Division St,L
+4754,Canal Street,Division St,L
+4755,Canal Street,Division St,L
+4756,Canal Street,Division St,L
+4758,Pitt Street,E Houston St,R
+4767,Pitt Street,Rivington St,L
+4769,Pitt Street,Rivington St,L
+4781,Pitt Street,Delancey St,L
+4872,Delancey Street,,L
+4879,Delancey Street,Eldridge St,L
+4885,Delancey Street,Eldridge St,R
+4893,Third Avenue,E 53rd St,R
+4896,Ninth Avenue,W 54th St,R
+4898,Ninth Avenue,Candy/Gifts/Cards,R
+4901,Columbus Circle,Broadway,L
+4902,Eighth Avenue,W 58th St,
+4911,Columbus Circle,W 58th St,L
+4912,Columbus Circle,Broadway,L
+4915,Eighth Avenue,W 45th St,
+4918,Broadway,W 39th St,R
+4923,Canal Street,Baxter St,R
+4924,Canal Street,Baxter St,Rt
+4935,Canal Street,Division St,L
+4936,Canal Street,Division St,L
+4972,Mulberry Street,Hester St,R
+4988,First Avenue,E 103rd St,
+4990,First Avenue,E 92nd St,R
+4993,Mott Street,Kenmare St,L
+5027,Mott Street,Grand St,R
+5062,Mott Street,Hester St,R
+5086,Broadway,W 82nd St,R
+5090,Broadway,West End Ave,L
+5093,Madison Avenue,E 33rd St,
+5094,Madison Avenue,E 33rd St,
+5101,Bowery,E 1st St,R
+5115,Bowery,Bayard St,L
+5116,Bowery,Bayard St,L
+5117,Bowery,Bayard St,L
+5118,Bowery,Bayard St,L
+5121,Bowery,Pell St,L
+5122,Bowery,Pell St,L
+5123,Bowery,Pell St,L
+5124,Bowery,Pell St,L
+5125,Bowery,Pell St,L
+5130,Bowery,Doyers St,L
+5131,Bowery,Doyers St,L
+5132,Bowery,Doyers St,L
+5133,Bowery,Doyers St,L
+5134,Bowery,Doyers St,L
+5135,Bowery,Chatham Sq,L
+5136,Bowery,Chatham Sq,L
+5137,Bowery,Chatham Sq,L
+5138,Bowery,Chatham Sq,L
+5139,Bowery,Chatham Sq,L
+5140,Bowery,Chatham Sq,L
+5141,Bowery,Mott St,L
+5142,Bowery,Division St,R
+5179,Elizabeth Street,Misc Service,R
+5195,Elizabeth Street,Hester St,R
+5209,Elizabeth Street,Hester St,L
+5225,42nd Street,,R
+5242,Varick Street,Beach St,R
+5264,Orchard Street,Broome St,L
+5293,Third Avenue,E 9th St,L
+5294,Third Avenue,4th Ave,R
+5298,Houston Street,Mulberry St,R
+5302,Houston Street,Mulberry St,L
+5303,Houston Street,Mulberry St,
+5305,Second Avenue,,L
+5330,Houston Street,Sullivan St,
+5337,Houston Street,MacDougal St,R
+5338,Houston Street,MacDougal St,R
+5343,West Broadway,Laguardia Pl,L
+5344,Houston Street,Laguardia Pl,R
+5351,Elizabeth Street,Hester St,R
+5406,Elizabeth Street,Bayard St,R
+5408,Tenth Avenue,,R
+5410,Tenth Avenue,W 29th St,
+5412,Tenth Avenue,W 41st St,R
+5421,SixthAvenue,W 17th St,L
+5422,SixthAvenue,W 17th St,
+5423,Greenwich Avenue,W 11th St,R
+5428,Broadway,,L
+5440,Broad Street,Marketfield St,L
+5451,Columbus Avenue,W 70th St,R
+5465,Water Street,Moore St,L
+5467,Water Street,Moore St,L
+5476,Water Street,Coenties Slip,L
+5491,Water Street,Pine St,L
+5504,Water Street,Fletcher St,R
+5540,Park Avenue,E 19th St,L
+5556,SixthAvenue,W 18th St,
+5557,SixthAvenue,W 18th St,L
+5560,Bleeker Street,Christopher St,
+5561,Church Street,Barclay St,R
+5563,Bowery,E 1st St,R
+5580,Third Avenue,E 85th St,R
+5581,Third Avenue,E 104th St,R
+5586,Avenue C,E 12th St,L
+5587,Second Avenue,,L
+5588,Second Avenue,,R
+5589,First Avenue,E 20th St,L
+5590,First Avenue,E 20th St,L
+5595,First Avenue,E 19th St,L
+5596,Avenue A,E 14th St,L
+5607,First Avenue,E 75th St,L
+5620,Ninth Avenue,W 35th St,R
+5621,Ninth Avenue,W 35th St,R
+5628,Ninth Avenue,W 36th St,R
+5629,Ninth Avenue,,L
+5630,Ninth Avenue,W 36th St,R
+5636,Ninth Avenue,W 37th St,R
+5637,Ninth Avenue,,L
+5638,Ninth Avenue,W 37th St,L
+5639,Ninth Avenue,W 37th St,R
+5646,Ninth Avenue,W 38th St,R
+5647,Ninth Avenue,W 37th St,L
+5653,Ninth Avenue,W 38th St,L
+5654,Ninth Avenue,W 38th St,L
+5661,Ninth Avenue,W 39th St,L
+5662,Ninth Avenue,W 38th St,R
+5663,,9th Ave,
+5671,Ninth Avenue,W 39th St,R
+5672,Ninth Avenue,W 39th St,L
+5679,Ninth Avenue,W 40th St,L
+5680,Ninth Avenue,W 39th St,R
+5681,Ninth Avenue,W 39th St,R
+5690,Ninth Avenue,W 40th St,R
+5691,Ninth Avenue,W 40th St,R
+5692,Ninth Avenue,W 40th St,L
+5698,Seventh Avenue,W 54th St,L
+5705,Broadway,W 66th St,
+5709,Second Avenue,E 87th St,R
+5711,Second Avenue,E 90th St,L
+5799,Madison Avenue,E 65th St,R
+5808,Third Avenue,E 117th St,L
+5809,Third Avenue,E 117th St,L
+5816,Third Avenue,E 117th St,R
+5817,Third Avenue,E 117th St,R
+5825,Third Avenue,E 116th St,
+5829,Third Avenue,E 115th St,L
+5837,Third Avenue,E 115th St,R
+5838,Third Avenue,E 118th St,R
+5839,Third Avenue,E 117th St,R
+5841,Third Avenue,E 117th St,L
+5846,Hudson Street,Clarkson St,L
+5848,Fulton Street,Front St,L
+5849,Fulton Street,Front St,L
+5857,Fulton Street,Water St,R
+5859,Fulton Street,Front St,R
+5860,Fulton Street,Front St,R
+5862,Fulton Street,South St,
+5864,Seaport,,
+5865,Seaport,,
+5866,Seaport,,
+5867,Seaport,,R
+5868,Seaport,,
+5869,Seaport,,
+5870,Seaport,,
+5871,Seaport,,
+5874,Beekman Street,Front St,L
+5875,Beekman Street,South St,L
+5883,Peck Slip,Front St,R
+5884,Peck Slip,Water St,L
+5885,Peck Slip,Front St,L
+5886,Peck Slip,Front St,L
+5887,Fulton Street,Peck Slip,L
+5889,Peck Slip,South St,L
+5891,Peck Slip,South St,R
+5920,Fifth Avenue,W 25th St,L
+5921,Fifth Avenue,W 13th St,L
+5932,42nd Street,,L
+5940,Seventh Avenue,W 33rd St,L
+5941,SixthAvenue,W 54th St,L
+5942,SixthAvenue,W 28th St,L
+5943,SixthAvenue,W 24th St,L
+5949,Park Avenue,E 36th St,R
+5950,Park Avenue,E 36th St,R
+5962,Third Avenue,E 101st St,L
+5966,Lexington Avenue,E 97th St,L
+5978,Lexington Avenue,E 95th St,L
+5979,Lexington Avenue,E 95th St,L
+5988,Lexington Avenue,E 94th St,R
+5989,Lexington Avenue,E 94th St,L
+5996,Lexington Avenue,E 93rd St,L
+5997,Lexington Avenue,E 94th St,R
+6005,Lexington Avenue,E 93rd St,R
+6006,Lexington Avenue,E 93rd St,R
+6007,Lexington Avenue,E 93rd St,R
+6010,Lexington Avenue,Misc Service,R
+6013,Lexington Avenue,E 93rd St,L
+6020,Bowery,E 3rd St,R
+6022,Cooper Square,E 7th St,R
+6023,Cooper Square,3rd Ave,R
+6024,Cooper Square,3rd Ave,R
+6025,Cooper Square,3rd Ave,R
+6026,Cooper Square,3rd Ave,R
+6027,SixthAvenue,W 43rd St,R
+6031,Columbus Avenue,W 78th St,L
+6044,Broadway,W 61st St,R
+6058,Greenwich Street,Charlton St,
+6062,SixthAvenue,W 21st St,L
+6064,Third Avenue,E 66th St,
+6070,Third Avenue,E 40th St,L
+6072,Third Avenue,E 15th St,R
+6076,Lexington Avenue,E 24th St,L
+6081,Broadway,W 84th St,
+6087,Amsterdam Avenue,W 69th St,R
+6089,Broadway,W 32nd St,L
+6090,Broadway,W 32nd St,L
+6091,Broadway,W 32nd St,L
+6097,Avenue C,E 9th St,R
+6103,Eighth Avenue,W 40th St,R
+6104,Broadway,W 66th St,
+6108,SixthAvenue,W 22nd St,
+6128,Broad Street,Bridge St,L
+6129,Broad Street,S William St,R
+6131,Lexington Avenue,E 51st St,R
+6154,Fulton Street,John Delury Sr Plz,L
+6155,Fulton Street,John Delury Sr Plz,L
+6156,Fulton Street,John Delury Sr Plz,
+6157,Fulton Street,John Delury Sr Plz,L
+6163,Fulton Street,Cliff St,L
+6164,Fulton Street,John Delury Sr Plz,R
+6167,Fulton Street,Cliff St,R
+6168,Fulton Street,Cliff St,
+6169,Fulton Street,Cliff St,L
+6170,Fulton Street,Cliff St,L
+6179,Broadway,W 72nd St,L
+6182,Broadway,Union Sq W,L
+6190,Amsterdam Avenue,W 97th St,L
+6191,Amsterdam Avenue,W 97th St,L
+6197,Amsterdam Avenue,W 98th St,L
+6199,Amsterdam Avenue,W 98th St,L
+6200,Amsterdam Avenue,W 98th St,L
+6202,Amsterdam Avenue,W 99th St,L
+6210,Columbus Avenue,W 98th St,R
+6211,Columbus Avenue,W 98th St,R
+6212,Columbus Avenue,W 98th St,R
+6213,Columbus Avenue,W 98th St,R
+6223,SixthAvenue,W 10th St,L
+6227,Seventh Avenue,W 48th St,L
+6231,SixthAvenue,Downing St,L
+6241,12th Street,Gansevoort St,R
+6242,12th Street,Gansevoort St,R
+6247,Lexington Avenue,E 76th St,
+6248,Lexington Avenue,E 66th St,L
+6255,Fulton Street,William St,R
+6256,Fulton Street,Cliff St,
+6258,Ninth Avenue,W 56th St,R
+6278,42nd Street,7th Ave,
+6281,Houston Street,Thompson St,R
+6282,Broadway,W 80th St,L
+6283,Lafayette Street,,R
+6284,Lafayette Street,,R
+6285,Lafayette Street,Great Jones St,R
+6290,West Broadway,Worth St,R
+6295,SixthAvenue,W 24th St,L
+6297,Broadway,W 146th St,L
+6303,Amsterdam Avenue,W 77th St,L
+6305,Amsterdam Avenue,W 77th St,L
+6314,First Avenue,E 22nd St,L
+6315,First Avenue,E 22nd St,L
+6316,First Avenue,E 22nd St,L
+6317,First Avenue,E 22nd St,L
+6318,First Avenue,E 22nd St,L
+6325,First Avenue,E 21st St,L
+6326,First Avenue,E 21st St,L
+6327,First Avenue,E 21st St,L
+6330,First Avenue,E 20th St,L
+6331,First Avenue,E 20th St,L
+6335,First Avenue,E 18th St,L
+6340,Eighth Avenue,W 41st St,L
+6341,Eighth Avenue,W 41st St,
+6348,Ninth Avenue,W 45th St,
+6349,Third Avenue,E 62nd St,R
+6354,Park Avenue,E 59th St,R
+6357,Park Avenue,E 59th St,L
+6359,Seventh Avenue,W 45th St,
+6362,Seventh Avenue,W 48th St,L
+6366,Bowery,E 3rd St,R
+6369,Bowery,Pell St,L
+6373,First Avenue,E 62nd St,R
+6377,,2nd Ave,
+6378,,2nd Ave,
+6379,,2nd Ave,
+6380,Seventh Avenue,Waverly Pl,L
+6381,Seventh Avenue,Christopher St,L
+6382,Seventh Avenue,Bedford St,
+6388,Seventh Avenue,W 20th St,R
+6391,Broadway,W 58th St,R
+6397,4th Street,Jane St,R
+6398,4th Street,W 12th St,R
+6403,4th Street,Bank St,L
+6404,4th Street,Bank St,L
+6409,4th Street,Perry St,R
+6410,4th Street,Perry St,R
+6414,4th Street,W 10th St,L
+6415,4th Street,Charles St,R
+6421,Columbus Avenue,W 85th St,R
+6422,Tenth Avenue,W 37th St,R
+6423,Tenth Avenue,W 37th St,R
+6425,Tenth Avenue,W 44th St,R
+6427,Tenth Avenue,W 52nd St,L
+6435,Third Avenue,E 44th St,L
+6436,14th Street,9th Ave,L
+6438,Third Avenue,E 93rd St,L
+6450,Water Street,Maiden Ln,L
+6452,Park Avenue,E 36th St,L
+6508,Tenth Avenue,W 17th St,R
+6575,Thompson Street,W 3rd St,R
+6578,Fifth Avenue,W 39th St,L
+6580,Church Street,White St,R
+6586,Avenue A,E 12th St,L
+6609,Washington Street,Vestry St,L
+6613,Avenue D,E 10th St,L
+6617,Avenue D,E 9th St,L
+6622,Avenue D,E 8th St,L
+6623,Avenue D,E 7th St,L
+6624,Avenue D,E 7th St,L
+6629,Avenue D,E 6th St,L
+6630,Avenue D,E 6th St,L
+6636,Avenue D,E 5th St,L
+6643,Avenue D,E 3rd St,L
+6644,Avenue D,E 3rd St,L
+6645,Avenue D,E 3rd St,L
+6652,Lafayette Street,Mulberry St,R
+6654,Lexington Avenue,E 98th St,
+6658,SixthAvenue,W 24th St,L
+6699,Fifth Avenue,W 37th St,L
+6704,First Avenue,E 62nd St,L
+6711,Lafayette Street,Mulberry St,R
+6760,Madison Avenue,E 73rd St,L
+6761,Ninth Avenue,W 40th St,R
+6763,Ninth Avenue,W 38th St,R
+6764,L,9th Ave,
+6765,Seventh Avenue,W 58th St,L
+6767,Seventh Avenue,W 58th St,R
+6768,Seventh Avenue,W 58th St,L
+6769,Seventh Avenue,W 58th St,L
+6777,Hudson Street,Jane St,R
+6778,Third Avenue,E 36th St,L
+6779,Third Avenue,E 40th St,L
+6780,Ninth Avenue,W 21st St,L
+6781,Ninth Avenue,W 21st St,L
+6784,Ninth Avenue,W 20th St,L
+6786,Ninth Avenue,W 19th St,R
+6792,Broadway,W 58th St,R
+6794,Eighth Street,Astor Pl,
+6818,Broadway,W 99th St,R
+6819,Broadway,W 99th St,R
+6820,Broadway,W 99th St,R
+6821,Broadway,W 99th St,R
+6824,Broadway,W 100th St,R
+6825,Broadway,W 100th St,R
+6826,Broadway,W 100th St,R
+6827,Broadway,W 100th St,R
+6828,Broadway,W 100th St,R
+6836,Broadway,W 101st St,R
+6837,Broadway,W 101st St,R
+6846,Broadway,W 102nd St,R
+6847,Broadway,W 102nd St,R
+6852,Broadway,W 103rd St,R
+6855,Broadway,W 104th St,R
+6856,Broadway,W 104th St,R
+6864,Broadway,W 105th St,R
+6880,Broadway,W 107th St,R
+6881,Broadway,W 107th St,R
+6885,Broadway,W 108th St,R
+6886,Broadway,W 108th St,R
+6887,Broadway,W 108th St,R
+6894,Broadway,W 109th St,R
+6895,Broadway,W 109th St,R
+6897,Broadway,W 96th St,L
+6901,Broadway,W 97th St,L
+6902,Broadway,W 97th St,L
+6907,Broadway,W 98th St,
+6908,Broadway,W 98th St,L
+6909,Broadway,W 98th St,L
+6914,Broadway,W 99th St,L
+6915,Broadway,W 99th St,L
+6916,Broadway,W 99th St,L
+6920,Broadway,W 100th St,L
+6921,Broadway,W 100th St,L
+6927,Broadway,W 101st St,L
+6928,Broadway,W 101st St,L
+6939,Broadway,W 102nd St,L
+6943,Broadway,W 103rd St,L
+6944,Broadway,W 103rd St,L
+6950,Broadway,W 104th St,L
+6951,Broadway,W 104th St,L
+6952,Broadway,W 104th St,
+6953,Broadway,W 104th St,L
+6958,Broadway,W 105th St,L
+6959,Broadway,W 105th St,L
+6960,Broadway,W 105th St,L
+6965,Broadway,W 106th St,L
+6966,Broadway,West End Ave,L
+6967,Broadway,West End Ave,L
+6968,Broadway,West End Ave,L
+6969,Broadway,West End Ave,L
+6970,Broadway,West End Ave,L
+6971,Broadway,W 108th St,L
+6972,Broadway,W 108th St,L
+6980,Broadway,W 109th St,L
+6984,Broadway,W 102nd St,L
+6985,Broadway,W 102nd St,L
+6986,Broadway,W 107th St,L
+6992,Broadway,W 111th St,R
+7000,Broadway,W 112th St,R
+7001,Broadway,W 112th St,R
+7006,Broadway,W 113th St,R
+7010,Broadway,W 114th St,R
+7019,Broadway,W 111th St,L
+7034,Broadway,W 113th St,L
+7049,Broadway,W 115th St,L
+7050,Broadway,W 115th St,L
+7052,Broadway,W 112th St,R
+7055,Broadway,W 97th St,L
+7065,Broadway,W 91st St,L
+7066,Broadway,W 109th St,L
+7070,Columbus Avenue,W 93rd St,L
+7075,Columbus Avenue,W 94th St,L
+7076,Columbus Avenue,W 94th St,L
+7079,Columbus Avenue,W 94th St,L
+7083,Columbus Avenue,W 93rd St,R
+7085,Columbus Avenue,W 93rd St,R
+7089,Columbus Avenue,W 94th St,R
+7090,Columbus Avenue,W 95th St,R
+7094,Columbus Avenue,,R
+7096,Columbus Avenue,,R
+7097,Columbus Avenue,W 104th St,R
+7098,Columbus Avenue,W 104th St,R
+7105,Columbus Avenue,W 105th St,R
+7106,Columbus Avenue,W 105th St,R
+7107,Columbus Avenue,W 105th St,R
+7115,Columbus Avenue,W 106th St,R
+7116,Columbus Avenue,W 106th St,R
+7127,Columbus Avenue,W 107th St,R
+7128,Columbus Avenue,W 107th St,R
+7129,Columbus Avenue,W 107th St,R
+7130,Columbus Avenue,W 107th St,R
+7137,Columbus Avenue,W 108th St,R
+7138,Columbus Avenue,W 108th St,R
+7139,Columbus Avenue,W 108th St,R
+7140,Columbus Avenue,W 108th St,R
+7141,Columbus Avenue,W 108th St,R
+7146,Columbus Avenue,W 109th St,R
+7147,Columbus Avenue,W 109th St,R
+7148,Columbus Avenue,W 109th St,R
+7153,Columbus Avenue,W 110th St,R
+7157,Columbus Avenue,W 104th St,L
+7158,Columbus Avenue,W 104th St,L
+7164,Columbus Avenue,W 105th St,L
+7165,Columbus Avenue,W 105th St,L
+7166,Columbus Avenue,W 105th St,L
+7175,Columbus Avenue,W 106th St,L
+7186,Columbus Avenue,W 107th St,L
+7188,Columbus Avenue,W 108th St,L
+7196,Columbus Avenue,W 109th St,L
+7198,Columbus Avenue,W 96th St,R
+7201,Columbus Avenue,W 96th St,
+7203,Columbus Avenue,W 97th St,R
+7204,Columbus Avenue,W 97th St,L
+7205,Columbus Avenue,W 96th St,L
+7217,Columbus Avenue,W 96th St,L
+7220,Columbus Avenue,W 95th St,L
+7221,Amsterdam Avenue,W 91st St,
+7306,125th Street,3/14/2016,L
+7307,125th Street,W 124th St,
+7359,125th Street,3/14/2016,R
+7418,86th Street,Lexington Ave,L
+7504,96th Street,5th Ave,R
+7509,First Avenue,E 81st St,R
+7518,First Avenue,E 82nd St,R
+7524,First Avenue,E 83rd St,R
+7529,First Avenue,E 84th St,R
+7530,First Avenue,E 84th St,R
+7535,First Avenue,E 85th St,R
+7544,First Avenue,E 87th St,R
+7545,First Avenue,E 87th St,R
+7547,First Avenue,E 82nd St,L
+7548,First Avenue,E 82nd St,
+7554,First Avenue,E 83rd St,L
+7555,First Avenue,E 83rd St,L
+7557,First Avenue,E 84th St,L
+7558,First Avenue,E 84th St,
+7559,First Avenue,E 84th St,L
+7563,First Avenue,E 85th St,L
+7564,First Avenue,E 85th St,L
+7568,First Avenue,E 87th St,L
+7569,First Avenue,E 87th St,L
+7571,First Avenue,E 84th St,R
+7578,Lexington Avenue,E 81st St,R
+7579,Lexington Avenue,Optical,R
+7586,Lexington Avenue,E 82nd St,R
+7587,Lexington Avenue,E 82nd St,R
+7594,Lexington Avenue,E 83rd St,R
+7597,Lexington Avenue,E 84th St,R
+7599,Lexington Avenue,E 85th St,R
+7604,Lexington Avenue,E 81st St,L
+7605,Lexington Avenue,E 81st St,L
+7613,Lexington Avenue,E 82nd St,L
+7614,Lexington Avenue,E 82nd St,L
+7625,Lexington Avenue,E 83rd St,L
+7626,Lexington Avenue,E 83rd St,L
+7627,Lexington Avenue,E 83rd St,L
+7628,Lexington Avenue,E 83rd St,L
+7640,Lexington Avenue,E 84th St,L
+7641,Lexington Avenue,E 84th St,L
+7642,Lexington Avenue,E 84th St,L
+7643,Lexington Avenue,E 84th St,L
+7651,Lexington Avenue,E 85th St,L
+7667,Madison Avenue,E 81st St,R
+7668,Madison Avenue,E 81st St,R
+7670,Madison Avenue,E 82nd St,R
+7671,Madison Avenue,E 83rd St,R
+7676,Madison Avenue,E 84th St,R
+7677,Madison Avenue,E 84th St,R
+7680,Madison Avenue,E 83rd St,L
+7684,Madison Avenue,E 85th St,R
+7685,Madison Avenue,E 85th St,R
+7692,Madison Avenue,E 86th St,R
+7694,Madison Avenue,E 80th St,L
+7698,Madison Avenue,E 81st St,L
+7699,Madison Avenue,E 81st St,L
+7701,Madison Avenue,E 82nd St,L
+7708,Madison Avenue,E 83rd St,L
+7709,Madison Avenue,E 83rd St,L
+7715,Madison Avenue,E 84th St,L
+7716,Madison Avenue,E 84th St,L
+7718,Madison Avenue,E 85th St,L
+7719,Madison Avenue,E 85th St,L
+7723,Madison Avenue,E 86th St,L
+7727,Madison Avenue,E 87th St,L
+7728,Madison Avenue,E 87th St,L
+7733,Second Avenue,E 80th St,R
+7741,Second Avenue,E 81st St,R
+7742,Second Avenue,E 81st St,R
+7750,Second Avenue,E 82nd St,R
+7758,Second Avenue,E 83rd St,R
+7762,Second Avenue,E 84th St,R
+7763,Second Avenue,E 84th St,R
+7768,Second Avenue,E 85th St,R
+7769,Second Avenue,E 85th St,R
+7777,Second Avenue,E 94th St,R
+7778,Second Avenue,E 80th St,
+7779,Second Avenue,E 80th St,L
+7780,Second Avenue,E 80th St,L
+7787,Second Avenue,E 81st St,L
+7788,Second Avenue,E 81st St,L
+7789,Second Avenue,E 81st St,L
+7795,Second Avenue,E 82nd St,L
+7802,Second Avenue,E 83rd St,L
+7803,Second Avenue,E 83rd St,L
+7804,Second Avenue,E 83rd St,L
+7805,Second Avenue,E 83rd St,L
+7806,Second Avenue,E 83rd St,L
+7815,Second Avenue,E 84th St,L
+7816,Second Avenue,E 84th St,L
+7817,Second Avenue,E 84th St,L
+7818,Second Avenue,E 84th St,L
+7824,Second Avenue,E 85th St,
+7825,Second Avenue,E 85th St,L
+7833,Second Avenue,E 86th St,L
+7838,Third Avenue,E 81st St,R
+7839,Third Avenue,E 81st St,R
+7842,Third Avenue,E 80th St,L
+7843,Third Avenue,E 80th St,L
+7848,Third Avenue,E 81st St,L
+7849,Third Avenue,E 81st St,L
+7850,Third Avenue,E 81st St,L
+7851,Third Avenue,E 81st St,L
+7855,Third Avenue,E 82nd St,L
+7856,Third Avenue,E 82nd St,L
+7857,Third Avenue,E 82nd St,R
+7859,Third Avenue,E 82nd St,R
+7863,Third Avenue,E 83rd St,R
+7864,Third Avenue,E 83rd St,R
+7865,Third Avenue,E 83rd St,R
+7866,Third Avenue,E 83rd St,R
+7867,Third Avenue,E 83rd St,R
+7868,Third Avenue,E 83rd St,
+7873,Third Avenue,E 84th St,R
+7874,Third Avenue,E 84th St,R
+7875,Third Avenue,E 84th St,
+7880,Third Avenue,E 85th St,R
+7881,Third Avenue,E 85th St,R
+7882,Third Avenue,E 85th St,R
+7887,Third Avenue,E 86th St,
+7888,Third Avenue,E 86th St,
+7891,Third Avenue,E 87th St,R
+7892,Third Avenue,E 82nd St,L
+7896,Third Avenue,E 83rd St,L
+7897,Third Avenue,E 83rd St,L
+7898,Third Avenue,E 83rd St,
+7906,Third Avenue,E 84th St,L
+7907,Third Avenue,E 84th St,L
+7911,Third Avenue,E 85th St,L
+7912,Third Avenue,E 85th St,L
+7918,Third Avenue,E 84th St,L
+7920,Third Avenue,E 82nd St,R
+7922,York Avenue,E 84th St,R
+7923,York Avenue,E 84th St,R
+7931,York Avenue,E 83rd St,R
+7932,York Avenue,E 83rd St,R
+7933,York Avenue,E 80th St,R
+7934,York Avenue,E 84th St,L
+7935,York Avenue,E 84th St,L
+7941,York Avenue,E 83rd St,L
+7942,York Avenue,E 83rd St,L
+7945,York Avenue,E 82nd St,L
+7946,York Avenue,E 81st St,L
+7947,York Avenue,E 81st St,L
+7952,York Avenue,E 80th St,L
+7962,Second Avenue,E 97th St,L
+7963,Second Avenue,E 97th St,
+7965,Second Avenue,E 100th St,R
+7966,Second Avenue,E 100th St,R
+7967,Second Avenue,E 101st St,R
+7968,Second Avenue,E 101st St,R
+8014,First Avenue,E 101st St,L
+8017,First Avenue,E 103rd St,L
+8020,First Avenue,E 104th St,L
+8021,First Avenue,E 104th St,L
+8025,First Avenue,E 105th St,L
+8026,First Avenue,E 105th St,L
+8027,First Avenue,E 105th St,L
+8028,First Avenue,E 105th St,L
+8033,First Avenue,E 108th St,L
+8040,First Avenue,E 109th St,L
+8041,First Avenue,E 109th St,L
+8047,First Avenue,E 110th St,L
+8048,First Avenue,E 100th St,L
+8049,First Avenue,E 102nd St,L
+8052,Second Avenue,E 99th St,R
+8055,Second Avenue,E 102nd St,R
+8056,Second Avenue,E 102nd St,R
+8057,Second Avenue,E 102nd St,R
+8059,Second Avenue,E 103rd St,R
+8060,Third Avenue,E 96th St,L
+8062,Third Avenue,E 97th St,
+8063,Third Avenue,E 97th St,L
+8066,Third Avenue,E 98th St,L
+8067,Third Avenue,E 99th St,L
+8068,Third Avenue,E 99th St,L
+8069,Third Avenue,E 99th St,L
+8070,Third Avenue,E 99th St,L
+8077,Third Avenue,E 100th St,L
+8078,Third Avenue,E 100th St,L
+8079,Third Avenue,E 100th St,L
+8080,Third Avenue,E 100th St,L
+8082,Third Avenue,E 101st St,L
+8085,Third Avenue,E 101st St,L
+8088,Third Avenue,E 102nd St,L
+8089,Third Avenue,E 102nd St,L
+8090,Third Avenue,E 102nd St,L
+8098,Third Avenue,E 102nd St,R
+8099,Third Avenue,E 102nd St,R
+8100,Third Avenue,E 103rd St,L
+8108,Seventh Avenue,W 48th St,R
+8113,Seventh Avenue,W 48th St,L
+8114,Seventh Avenue,W 47th St,L
+8118,Seventh Avenue,W 41st St,L
+8119,Seventh Avenue,W 47th St,L
+8122,42nd Street,7th Ave,R
+8167,Eighth Avenue,W 42nd St,R
+8273,Broadway,W 41st St,R
+8274,Broadway,W 41st St,
+8277,Broadway,W 42nd St,R
+8280,Broadway,W 43rd St,R
+8281,Seventh Avenue,W 43rd St,R
+8282,Seventh Avenue,Broadway,R
+8283,Seventh Avenue,Broadway,R
+8284,Seventh Avenue,Broadway,R
+8285,Seventh Avenue,Broadway,R
+8286,Seventh Avenue,Broadway,R
+8291,Seventh Avenue,W 46th St,R
+8298,Broadway,W 47th St,R
+8305,Broadway,W 48th St,R
+8308,Seventh Avenue,W 43rd St,L
+8309,Seventh Avenue,Broadway,L
+8310,Seventh Avenue,Broadway,L
+8311,Seventh Avenue,Broadway,L
+8312,Seventh Avenue,W 44th St,L
+8313,Seventh Avenue,W 44th St,L
+8314,Seventh Avenue,Broadway,L
+8315,Seventh Avenue,W 45th St,L
+8317,Seventh Avenue,Broadway,L
+8318,Seventh Avenue,W 46th St,L
+8319,Seventh Avenue,Broadway,L
+8320,Seventh Avenue,Broadway,L
+8321,Broadway,W 46th St,L
+8326,Broadway,W 47th St,L
+8327,Broadway,W 47th St,L
+8334,Broadway,W 47th St,
+8335,Seventh Avenue,W 41st St,R
+8337,Eighth Avenue,W 47th St,R
+8342,Eighth Avenue,W 46th St,R
+8343,Eighth Avenue,W 46th St,R
+8344,Eighth Avenue,W 46th St,
+8346,Eighth Avenue,W 46th St,R
+8351,Eighth Avenue,W 45th St,R
+8352,Eighth Avenue,W 45th St,R
+8353,Eighth Avenue,W 45th St,R
+8355,Eighth Avenue,W 44th St,R
+8356,Eighth Avenue,W 44th St,R
+8360,Eighth Avenue,W 43rd St,R
+8361,Eighth Avenue,W 43rd St,R
+8362,Eighth Avenue,W 43rd St,R
+8363,Eighth Avenue,W 42nd St,R
+8364,Eighth Avenue,W 48th St,L
+8365,Eighth Avenue,W 48th St,L
+8370,Eighth Avenue,W 47th St,L
+8371,Eighth Avenue,W 47th St,L
+8372,Eighth Avenue,W 47th St,L
+8380,Eighth Avenue,W 46th St,
+8381,Eighth Avenue,W 46th St,
+8382,Eighth Avenue,W 46th St,L
+8388,Eighth Avenue,W 45th St,L
+8389,Eighth Avenue,W 45th St,L
+8395,Eighth Avenue,W 44th St,
+8396,Eighth Avenue,W 44th St,L
+8403,Eighth Avenue,W 43rd St,L
+8404,Eighth Avenue,W 43rd St,L
+8405,Eighth Avenue,W 43rd St,L
+8411,Eighth Avenue,W 40th St,L
+8415,Eighth Avenue,W 47th St,R
+8419,Fifth Avenue,W 46th St,L
+8421,Fifth Avenue,W 47th St,L
+8422,Fifth Avenue,W 47th St,L
+8423,Fifth Avenue,W 47th St,
+8426,Fifth Avenue,W 48th St,L
+8433,Fifth Avenue,W 43rd St,
+8437,Fifth Avenue,W 44th St,L
+8438,Fifth Avenue,W 44th St,L
+8440,Fifth Avenue,W 45th St,L
+8441,Fifth Avenue,W 45th St,L
+8445,Fifth Avenue,W 46th St,L
+8450,Fifth Avenue,W 44th St,
+8452,Ninth Avenue,PORT AUTHORITY Bus Terminal,R
+8459,Ninth Avenue,W 42nd St,R
+8460,Ninth Avenue,W 42nd St,R
+8465,Ninth Avenue,W 43rd St,R
+8466,Ninth Avenue,W 43rd St,R
+8467,Ninth Avenue,W 43rd St,R
+8468,Ninth Avenue,W 43rd St,R
+8469,Ninth Avenue,W 43rd St,R
+8473,Ninth Avenue,W 44th St,R
+8474,Ninth Avenue,W 44th St,R
+8475,Ninth Avenue,W 44th St,R
+8479,Ninth Avenue,W 45th St,R
+8480,Ninth Avenue,W 44th St,R
+8481,Ninth Avenue,W 45th St,R
+8482,Ninth Avenue,W 45th St,R
+8491,Ninth Avenue,W 46th St,
+8492,Ninth Avenue,W 46th St,R
+8493,Ninth Avenue,W 46th St,R
+8494,Ninth Avenue,W 46th St,R
+8501,Ninth Avenue,W 47th St,R
+8502,Ninth Avenue,W 47th St,R
+8503,Ninth Avenue,W 47th St,R
+8507,Ninth Avenue,W 48th St,R
+8508,Ninth Avenue,W 41st St,L
+8511,Ninth Avenue,W 42nd St,L
+8512,Ninth Avenue,W 42nd St,
+8513,Ninth Avenue,W 42nd St,L
+8516,Ninth Avenue,W 43rd St,L
+8517,Ninth Avenue,W 43rd St,L
+8518,Ninth Avenue,W 43rd St,L
+8527,Ninth Avenue,W 44th St,L
+8528,Ninth Avenue,W 44th St,L
+8529,Ninth Avenue,W 44th St,L
+8535,Ninth Avenue,W 45th St,L
+8536,Ninth Avenue,W 45th St,L
+8543,Ninth Avenue,W 46th St,L
+8544,Ninth Avenue,W 46th St,L
+8545,Ninth Avenue,W 46th St,L
+8552,Ninth Avenue,W 47th St,L
+8553,Ninth Avenue,W 47th St,L
+8554,Ninth Avenue,W 47th St,L
+8562,Ninth Avenue,W 48th St,L
+8563,Ninth Avenue,W 48th St,L
+8564,Seventh Avenue,W 47th St,R
+8565,Seventh Avenue,W 47th St,R
+8572,SixthAvenue,W 42nd St,R
+8574,SixthAvenue,W 44th St,R
+8576,SixthAvenue,W 45th St,R
+8577,SixthAvenue,W 45th St,R
+8579,SixthAvenue,W 46th St,R
+8580,SixthAvenue,W 46th St,R
+8585,SixthAvenue,W 47th St,R
+8592,SixthAvenue,W 43rd St,
+8593,SixthAvenue,W 43rd St,
+8597,SixthAvenue,W 45th St,L
+8600,SixthAvenue,W 46th St,L
+8601,SixthAvenue,W 47th St,L
+8602,SixthAvenue,W 47th St,L
+8603,SixthAvenue,W 48th St,L
+8604,SixthAvenue,W 44th St,R
+8605,SixthAvenue,W 43rd St,R
+8608,SixthAvenue,W 42nd St,L
+8609,SixthAvenue,W 41st St,L
+8623,Broadway,John St,R
+8629,Broadway,Fulton St,L
+8630,Broadway,Dey St,L
+8632,Broadway,Fulton St,
+8634,Broadway,Ann St,R
+8686,John Street,Nassau St,L
+8732,Maiden Lane,Liberty Pl,L
+8778,Nassau Street,Ann St,L
+8798,Nassau Street,Ann St,R
+8813,Nassau Street,Fulton St,R
+8821,Broadway,Ann St,R
+8822,West Broadway,Greenwich St,L
+8830,Seventh Avenue,W 42nd St,L
+8834,Seventh Avenue,W 25th St,L
+8868,42nd Street,Park Ave,L
+8894,125th Street,Frederick Douglass Blvd,L
+8901,Amsterdam Avenue,W 90th St,R
+8903,Avenue A,E 13th St,R
+8906,Avenue B,E 2nd St,L
+8908,Avenue B,E 11th St,L
+8910,Avenue C,E 11th St,L
+8911,Bleeker Street,Leroy St,L
+8912,Bleeker Street,Leroy St,
+8923,Seventh Avenue,W 42nd St,L
+8924,Seventh Avenue,W 43rd St,L
+8926,Seventh Avenue,W 43rd St,L
+8927,Broadway,W 90th St,R
+8933,Broadway,W 56th St,R
+8934,Broadway,W 55th St,L
+8935,Broadway,W 56th St,L
+8938,Broadway,Chambers St,L
+8942,Church Street,Franklin St,R
+8943,Church Street,Murray St,L
+8954,Eighth Avenue,W 22nd St,L
+8955,Eighth Avenue,W 51st St,L
+8956,Eighth Avenue,W 14th St,
+8957,Fifth Avenue,W 22nd St,L
+8958,Fifth Avenue,W 13th St,L
+8961,First Avenue,E 82nd St,L
+8962,First Avenue,E 60th St,R
+8963,First Avenue,E 61st St,R
+8975,Greene Street,Prince St,
+8978,Greenwich Street,Beach St,R
+8980,Greenwich Street,N Moore St,R
+8982,Greenwich Street,Jay St,R
+8987,Hudson Street,Charles St,R
+8993,Hudson Street,Duane St,L
+9001,John Street,Gold St,L
+9004,Lexington Avenue,E 33rd St,R
+9007,Lexington Avenue,E 58th St,R
+9010,Lexington Avenue,E 59th St,R
+9012,Madison Avenue,E 69th St,L
+9014,Madison Avenue,E 70th St,L
+9029,Park Avenue,E 35th St,R
+9039,Second Avenue,E 77th St,R
+9042,Second Avenue,E 39th St,R
+9046,Seventh Avenue,Morton St,R
+9052,SixthAvenue,Central Park S,L
+9053,SixthAvenue,Central Park S,L
+9054,SixthAvenue,W 22nd St,R
+9057,SixthAvenue,W 23rd St,R
+9059,SixthAvenue,W 25th St,R
+9061,SixthAvenue,W 27th St,R
+9063,SixthAvenue,W 13th St,R
+9066,SixthAvenue,Central Park S,R
+9069,SixthAvenue,W 27th St,L
+9074,Third Avenue,E 53rd St,L
+9079,Third Avenue,E 77th St,L
+9081,Third Avenue,E 78th St,L
+9083,Third Avenue,E 58th St,L
+9086,West Broadway,Warren St,R
+9101,Bowery,E Houston St,R
+9102,Canal Street,Greene St,R
+9103,Broadway,W 65th St,
+9104,Broadway,Columbus Ave,
+9105,Broadway,W 66th St,R
+9106,Columbus Avenue,W 94th St,R
+9109,Columbus Avenue,W 95th St,R
+9116,Fifth Avenue,W 29th St,L
+9122,Second Avenue,E Houston St,L
+9123,Second Avenue,,R
+9124,Avenue C,E Houston St,R
+9126,Hudson Street,Worth St,R
+9127,Ninth Avenue,PORT AUTHORITY Bus Terminal,L
+9129,Park Avenue,E 28th St,L
+9133,Seventh Avenue,W 31st St,L
+9135,Park Avenue,E 15th St,R
+9136,Park Avenue,Union Sq E,R
+9137,Park Avenue,Union Sq E,R
+9138,Park Avenue,E 16th St,R
+9139,Vanderbilt Avenue,Park Ave,R
+9140,Vanderbilt Avenue,Park Ave,
+9141,Vanderbilt Avenue,Park Ave,R
+9142,Vanderbilt Avenue,Park Ave,R
+9143,Vanderbilt Avenue,Park Ave,R
+9147,West Broadway,Warren St,L
+9149,Broome Street,Wooster St,L
+9152,Seventh Avenue,W 32nd St,R
+9154,Seventh Avenue,W 32nd St,R
+9159,Seventh Avenue,W 33rd St,R
+9164,34th Street,7th Ave,R
+9166,Seventh Avenue,W 35th St,R
+9168,Seventh Avenue,W 34th St,L
+9171,Seventh Avenue,W 35th St,
+9172,Seventh Avenue,W 35th St,L
+9173,Seventh Avenue,W 35th St,L
+9177,Seventh Avenue,W 25th St,R
+9178,Seventh Avenue,W 25th St,R
+9179,Seventh Avenue,W 25th St,R
+9181,Seventh Avenue,W 26th St,
+9182,Seventh Avenue,W 28th St,R
+9183,Seventh Avenue,W 28th St,R
+9186,Seventh Avenue,W 30th St,R
+9192,Seventh Avenue,W 31st St,R
+9193,Seventh Avenue,W 28th St,L
+9196,Seventh Avenue,W 29th St,L
+9197,Seventh Avenue,W 29th St,L
+9198,Seventh Avenue,W 29th St,
+9203,Seventh Avenue,W 30th St,L
+9204,Seventh Avenue,W 30th St,L
+9205,Seventh Avenue,W 30th St,L
+9211,Seventh Avenue,W 33rd St,R
+9212,Seventh Avenue,W 34th St,
+9300,34th Street,6/19/2014,R
+9333,Broadway,W 26th St,L
+9334,Broadway,W 26th St,L
+9336,Broadway,W 26th St,
+9344,Broadway,W 27th St,L
+9345,Broadway,W 27th St,
+9346,Broadway,W 27th St,L
+9347,Broadway,W 27th St,L
+9358,Broadway,W 28th St,
+9359,Broadway,W 28th St,L
+9360,Broadway,W 28th St,
+9361,Broadway,W 28th St,
+9371,Broadway,W 29th St,
+9379,Broadway,W 30th St,
+9380,Broadway,W 30th St,L
+9386,Broadway,W 31st St,L
+9396,SixthAvenue,W 33rd St,L
+9398,SixthAvenue,Broadway,
+9399,Broadway,W 34th St,L
+9400,Broadway,W 26th St,R
+9406,Broadway,W 27th St,R
+9407,Broadway,W 27th St,R
+9408,Broadway,W 27th St,R
+9413,Broadway,W 27th St,R
+9417,Broadway,W 28th St,R
+9418,Broadway,W 28th St,
+9426,Broadway,W 29th St,
+9427,Broadway,W 29th St,R
+9428,Broadway,W 29th St,R
+9438,Broadway,W 30th St,R
+9439,Broadway,W 30th St,R
+9440,Broadway,W 30th St,R
+9441,Broadway,W 30th St,R
+9450,Broadway,W 31st St,R
+9451,Broadway,W 31st St,R
+9456,Broadway,W 33rd St,R
+9457,SixthAvenue,W 33rd St,R
+9458,SixthAvenue,Broadway,R
+9459,SixthAvenue,W 34th St,R
+9464,SixthAvenue,Broadway,R
+9465,Broadway,W 27th St,L
+9469,SixthAvenue,W 33rd St,
+9470,Eighth Avenue,W 24th St,R
+9476,Eighth Avenue,W 25th St,R
+9477,Eighth Avenue,W 25th St,R
+9483,Eighth Avenue,W 26th St,R
+9484,Eighth Avenue,W 26th St,R
+9490,Eighth Avenue,W 27th St,R
+9491,Eighth Avenue,W 27th St,R
+9496,Eighth Avenue,W 29th St,R
+9497,Eighth Avenue,W 29th St,R
+9498,Eighth Avenue,W 29th St,R
+9499,Eighth Avenue,W 29th St,R
+9501,Eighth Avenue,W 30th St,R
+9502,Eighth Avenue,W 30th St,R
+9503,Eighth Avenue,W 30th St,R
+9507,Eighth Avenue,W 31st St,R
+9508,Eighth Avenue,W 31st St,R
+9510,Eighth Avenue,W 26th St,L
+9518,Eighth Avenue,W 29th St,L
+9519,Eighth Avenue,W 29th St,
+9525,Eighth Avenue,W 30th St,L
+9526,Eighth Avenue,W 30th St,L
+9527,Eighth Avenue,W 30th St,L
+9534,Eighth Avenue,W 31st St,L
+9536,Eighth Avenue,W 33rd St,L
+9539,Eighth Avenue,W 34th St,L
+9542,Eighth Avenue,W 35th St,L
+9546,Eighth Avenue,W 34th St,L
+9547,Eighth Avenue,W 35th St,R
+9548,Eighth Avenue,W 35th St,R
+9553,Eighth Avenue,W 34th St,
+9555,Fifth Avenue,W 26th St,L
+9560,Fifth Avenue,W 27th St,L
+9561,Fifth Avenue,W 27th St,L
+9566,Fifth Avenue,W 28th St,L
+9567,Fifth Avenue,W 28th St,L
+9572,Fifth Avenue,W 29th St,L
+9575,Fifth Avenue,W 30th St,L
+9581,Fifth Avenue,W 31st St,L
+9582,Fifth Avenue,W 31st St,L
+9583,Fifth Avenue,W 31st St,L
+9590,Fifth Avenue,W 32nd St,L
+9591,Fifth Avenue,W 32nd St,L
+9595,Fifth Avenue,W 33rd St,L
+9596,Fifth Avenue,W 33rd St,L
+9598,Fifth Avenue,W 34th St,L
+9599,Fifth Avenue,W 34th St,L
+9602,Fifth Avenue,W 35th St,L
+9604,Fifth Avenue,W 32nd St,L
+9605,Seventh Avenue,W 31st St,R
+9609,Seventh Avenue,W 33rd St,L
+9612,Seventh Avenue,W 26th St,R
+9613,Seventh Avenue,W 26th St,R
+9616,Seventh Avenue,W 27th St,R
+9617,Seventh Avenue,W 27th St,R
+9618,Seventh Avenue,W 27th St,R
+9624,Seventh Avenue,W 29th St,R
+9625,Seventh Avenue,W 29th St,R
+9632,Seventh Avenue,W 30th St,R
+9640,Seventh Avenue,W 31st St,L
+9641,Seventh Avenue,W 26th St,L
+9644,SixthAvenue,W 26th St,R
+9647,SixthAvenue,W 28th St,R
+9648,SixthAvenue,W 28th St,R
+9655,SixthAvenue,W 29th St,R
+9656,SixthAvenue,W 29th St,R
+9657,SixthAvenue,W 29th St,R
+9658,SixthAvenue,W 29th St,R
+9663,SixthAvenue,W 30th St,R
+9664,SixthAvenue,W 30th St,R
+9665,SixthAvenue,W 30th St,R
+9666,SixthAvenue,W 30th St,R
+9671,SixthAvenue,W 31st St,R
+9672,SixthAvenue,W 31st St,R
+9673,SixthAvenue,W 31st St,R
+9674,SixthAvenue,W 31st St,R
+9680,SixthAvenue,W 32nd St,R
+9681,SixthAvenue,W 32nd St,R
+9682,SixthAvenue,W 34th St,R
+9683,SixthAvenue,W 35th St,R
+9684,SixthAvenue,W 26th St,L
+9686,SixthAvenue,W 27th St,
+9687,SixthAvenue,W 27th St,L
+9688,SixthAvenue,W 27th St,L
+9694,SixthAvenue,W 28th St,L
+9695,SixthAvenue,W 28th St,L
+9696,SixthAvenue,W 28th St,
+9701,SixthAvenue,W 29th St,L
+9702,SixthAvenue,W 29th St,L
+9703,SixthAvenue,W 29th St,L
+9704,SixthAvenue,W 29th St,L
+9705,SixthAvenue,W 29th St,L
+9712,SixthAvenue,W 30th St,
+9713,SixthAvenue,W 30th St,L
+9714,SixthAvenue,W 30th St,
+9715,SixthAvenue,W 30th St,
+9716,SixthAvenue,W 30th St,
+9720,SixthAvenue,W 31st St,
+9721,SixthAvenue,W 31st St,L
+9722,SixthAvenue,W 31st St,L
+9727,SixthAvenue,W 32nd St,L
+9728,SixthAvenue,W 32nd St,
+9729,SixthAvenue,W 33rd St,
+9733,SixthAvenue,Broadway,
+9734,SixthAvenue,W 27th St,R
+9735,SixthAvenue,W 28th St,R
+9745,Bowery,Hester St,R
+9746,Bowery,Hester St,R
+9760,Bowery,Grand St,
+9771,Bowery,Broome St,R
+9772,Bowery,Broome St,R
+9773,Bowery,Broome St,R
+9781,Bowery,Delancey St,R
+9782,Bowery,Delancey St,R
+9783,Bowery,Delancey St,R
+9794,Bowery,Rivington St,R
+9795,Bowery,Rivington St,R
+9796,Bowery,Rivington St,R
+9802,Bowery,Stanton St,R
+9803,Bowery,Stanton St,R
+9817,Houston Street,Eldridge St,
+9831,Houston Street,Orchard St,L
+9841,Avenue A,E Houston St,L
+9848,Houston Street,Other,L
+9856,Avenue B,Clinton St,R
+9873,Avenue C,E Houston St,L
+9891,Canal Street,W Broadway,L
+9932,Eighth Street,Greene St,L
+9938,Eighth Street,Mercer St,L
+9939,Eighth Street,Mercer St,L
+9986,Park Avenue,Union Sq E,
+9988,14th Street,Irving Pl,R
+9994,Park Avenue,E 14th St,R
+10052,Union Square,E 17th St,
+10053,Second Avenue,,L
+10058,Avenue A,E 12th St,L
+10060,Bowery,E Houston St,R
+10064,Bowery,E 2nd St,R
+10065,Bond Street,E 2nd St,L
+10066,Bond Street,E 2nd St,R
+10067,Bowery,E 2nd St,R
+10070,Bowery,E 3rd St,R
+10074,Bowery,E 4th St,R
+10075,Bowery,E 4th St,R
+10076,Broadway,E 4th St,R
+10086,Broadway,Waverly Pl,L
+10101,Broadway,E 11th St,L
+10103,Broadway,E 8th St,L
+10104,Broadway,E 8th St,L
+10107,Broadway,E 9th St,L
+10110,Broadway,E 9th St,L
+10111,Broadway,E 9th St,R
+10113,Broadway,E 10th St,R
+10116,Broadway,E 10th St,L
+10117,Broadway,E 10th St,L
+10122,Broadway,E 11th St,L
+10123,Broadway,E 11th St,L
+10124,Broadway,E 11th St,L
+10125,Broadway,E 11th St,L
+10134,Broadway,E 12th St,L
+10137,Broadway,E 12th St,L
+10139,Broadway,E 12th St,R
+10144,Broadway,E 13th St,L
+10145,Broadway,E 13th St,L
+10147,Broadway,E 13th St,R
+10150,Broadway,E 13th St,L
+10153,Broadway,E 14th St,L
+10154,Broadway,E 17th St,L
+10159,Broadway,E 18th St,L
+10160,Broadway,E 18th St,L
+10161,Broadway,E 18th St,L
+10164,Broadway,E 19th St,L
+10168,Broadway,E 20th St,L
+10169,Broadway,E 17th St,R
+10176,Broadway,E 18th St,R
+10177,Broadway,E 18th St,R
+10181,Broadway,E 20th St,R
+10192,Broadway,E 8th St,R
+10198,Cooper Square,Bowery,R
+10199,Cooper Square,E 5th St,R
+10200,Cooper Square,E 5th St,
+10206,Cooper Square,E 6th St,R
+10214,Cooper Square,Restaurant,L
+10219,Cooper Square,Bowery,
+10220,Cooper Square,St Marks Pl,R
+10223,Fifth Avenue,E 13th St,R
+10225,Fifth Avenue,Medical,R
+10227,Fifth Avenue,E 15th St,R
+10231,Fifth Avenue,E 16th St,R
+10233,Fifth Avenue,E 16th St,R
+10236,Fifth Avenue,E 17th St,R
+10237,Fifth Avenue,E 17th St,R
+10240,Fifth Avenue,E 18th St,R
+10241,Fifth Avenue,E 18th St,R
+10243,Fifth Avenue,E 19th St,R
+10244,Fifth Avenue,E 19th St,R
+10249,Fifth Avenue,E 20th St,R
+10252,Fifth Avenue,E 19th St,
+10254,First Avenue,E 14th St,L
+10261,First Avenue,E 13th St,L
+10262,First Avenue,E 13th St,L
+10263,First Avenue,E 13th St,L
+10264,First Avenue,E 13th St,L
+10265,First Avenue,E 13th St,L
+10272,First Avenue,E 12th St,L
+10273,First Avenue,E 12th St,L
+10275,First Avenue,E 11th St,L
+10276,First Avenue,E 11th St,L
+10277,First Avenue,E 11th St,L
+10282,First Avenue,E 10th St,L
+10283,First Avenue,E 10th St,L
+10284,First Avenue,E 10th St,L
+10291,First Avenue,E 9th St,L
+10292,First Avenue,E 9th St,L
+10293,First Avenue,E 9th St,L
+10294,First Avenue,E 9th St,L
+10300,First Avenue,St Marks Pl,L
+10301,First Avenue,St Marks Pl,L
+10303,First Avenue,St Marks Pl,L
+10304,First Avenue,St Marks Pl,L
+10310,First Avenue,E 7th St,L
+10311,First Avenue,E 7th St,L
+10312,First Avenue,E 7th St,L
+10313,First Avenue,E 7th St,L
+10314,First Avenue,E 7th St,L
+10320,First Avenue,E 6th St,L
+10321,First Avenue,E 6th St,L
+10322,First Avenue,E 6th St,L
+10323,First Avenue,E 6th St,L
+10329,First Avenue,E 5th St,L
+10330,First Avenue,E 5th St,L
+10331,First Avenue,E 5th St,L
+10335,First Avenue,E 4th St,L
+10336,First Avenue,E 4th St,L
+10337,First Avenue,E 4th St,L
+10338,First Avenue,E 4th St,L
+10339,First Avenue,E 4th St,L
+10345,Fifth Avenue,E 12th St,R
+10346,First Avenue,E 2nd St,L
+10353,First Avenue,E 1st St,L
+10354,First Avenue,E 1st St,L
+10356,First Avenue,E 3rd St,L
+10358,First Avenue,E 19th St,L
+10359,Fourth Avenue,E 10th St,R
+10361,Fourth Avenue,E 11th St,R
+10364,Fourth Avenue,E 12th St,R
+10365,Fourth Avenue,E 12th St,R
+10370,Fourth Avenue,E 13th St,R
+10371,Fourth Avenue,E 13th St,R
+10384,Fourth Avenue,E 12th St,L
+10385,Fourth Avenue,E 12th St,L
+10388,Fourth Avenue,E 12th St,L
+10389,Fourth Avenue,E 12th St,L
+10391,Broadway,E 12th St,
+10394,Fourth Avenue,E 13th St,L
+10395,Fourth Avenue,E 13th St,L
+10396,,Brooklyn Bridge Pk-Schaefer Lndg,
+10399,Fourth Avenue,E 13th St,L
+10400,Fourth Avenue,E 11th St,R
+10403,Second Avenue,E Houston St,R
+10414,Irving Place,E 17th St,R
+10419,Irving Place,E 19th St,R
+10428,Irving Place,E 17th St,L
+10429,Irving Place,E 17th St,L
+10433,Irving Place,E 18th St,L
+10438,Irving Place,E 19th St,L
+10444,Irving Place,E 15th St,L
+10445,Lafayette Street,E 4th St,R
+10457,Lafayette Street,E 4th St,L
+10468,Lafayette Street,Astor Pl,L
+10484,Lafayette Street,E 4th St,R
+10485,Lafayette Street,Great Jones St,L
+10486,Lafayette Street,E 8th St,L
+10487,Lafayette Street,Astor Pl,L
+10488,Fourth Avenue,E 8th St,L
+10491,Park Avenue,E 17th St,R
+10497,Park Avenue,E 19th St,R
+10502,Park Avenue,E 20th St,R
+10512,Park Avenue,E 20th St,L
+10514,Second Avenue,E 1st St,R
+10515,Second Avenue,E 1st St,R
+10519,Second Avenue,E 2nd St,R
+10520,Second Avenue,E 2nd St,R
+10523,Second Avenue,E 3rd St,R
+10524,Second Avenue,E 3rd St,R
+10531,Second Avenue,E 4th St,R
+10532,Second Avenue,E 4th St,R
+10533,Second Avenue,E 4th St,R
+10541,Second Avenue,E 5th St,R
+10542,Second Avenue,E 5th St,R
+10548,Second Avenue,E 6th St,R
+10549,Second Avenue,E 6th St,R
+10550,Second Avenue,E 6th St,R
+10551,Second Avenue,E 6th St,R
+10556,Second Avenue,E 7th St,R
+10557,Second Avenue,E 7th St,R
+10565,Second Avenue,St Marks Pl,R
+10566,Second Avenue,St Marks Pl,R
+10570,Second Avenue,E 9th St,R
+10571,Second Avenue,E 9th St,R
+10576,Second Avenue,E 10th St,R
+10577,Second Avenue,E 10th St,R
+10579,Second Avenue,E 10th St,R
+10583,Second Avenue,E 11th St,R
+10584,Second Avenue,E 11th St,R
+10591,Second Avenue,E 12th St,R
+10592,Second Avenue,E 12th St,R
+10597,Second Avenue,E 13th St,R
+10598,Second Avenue,E 13th St,R
+10601,Second Avenue,E 14th St,R
+10603,Second Avenue,E 18th St,R
+10606,Second Avenue,Misc Service,R
+10612,,2nd Ave,
+10614,Second Avenue,E 1st St,L
+10615,Second Avenue,E 1st St,L
+10619,,2nd Ave,
+10624,Second Avenue,E 3rd St,L
+10625,Second Avenue,E 3rd St,L
+10632,Second Avenue,E 4th St,L
+10633,Second Avenue,E 4th St,L
+10641,Second Avenue,E 5th St,L
+10642,Second Avenue,E 5th St,L
+10643,Second Avenue,E 5th St,L
+10649,Second Avenue,E 6th St,L
+10650,Second Avenue,E 6th St,L
+10651,Second Avenue,E 6th St,L
+10652,Second Avenue,E 6th St,L
+10658,Second Avenue,E 7th St,L
+10659,Second Avenue,E 7th St,L
+10660,Second Avenue,E 7th St,L
+10668,Second Avenue,St Marks Pl,L
+10669,Second Avenue,St Marks Pl,L
+10670,Second Avenue,St Marks Pl,L
+10671,Second Avenue,St Marks Pl,L
+10674,Second Avenue,E 9th St,L
+10675,Second Avenue,E 9th St,L
+10676,Second Avenue,E 9th St,L
+10681,Second Avenue,E 10th St,L
+10682,Second Avenue,E 11th St,L
+10683,Second Avenue,E 11th St,
+10692,Second Avenue,E 12th St,L
+10699,Second Avenue,E 13th St,L
+10700,Second Avenue,E 13th St,L
+10704,Second Avenue,E 14th St,L
+10705,14th Street,2nd Ave,R
+10708,Second Avenue,E 18th St,L
+10712,Second Avenue,E 19th St,L
+10713,Second Avenue,E 19th St,L
+10717,Second Avenue,E 20th St,L
+10719,Second Avenue,E 3rd St,R
+10723,Second Avenue,E 12th St,R
+10725,Second Avenue,E 2nd St,L
+10796,Third Avenue,E 15th St,R
+10802,Third Avenue,E 16th St,R
+10803,Third Avenue,E 16th St,R
+10804,Third Avenue,E 16th St,R
+10805,Third Avenue,E 16th St,R
+10810,Third Avenue,E 17th St,R
+10812,Third Avenue,Misc Service,R
+10814,Third Avenue,E 19th St,R
+10819,Third Avenue,E 20th St,R
+10822,Third Avenue,E 16th St,L
+10823,Third Avenue,E 16th St,L
+10827,Third Avenue,E 17th St,L
+10828,Third Avenue,E 17th St,L
+10829,Third Avenue,E 17th St,L
+10830,Third Avenue,E 17th St,L
+10834,Third Avenue,E 18th St,L
+10835,Third Avenue,E 18th St,L
+10843,Third Avenue,E 19th St,L
+10844,Third Avenue,E 19th St,L
+10845,Third Avenue,E 19th St,L
+10846,Third Avenue,E 19th St,L
+10853,Third Avenue,E 20th St,L
+10854,Third Avenue,E 20th St,L
+10858,Third Avenue,E 11th St,R
+10859,Third Avenue,E 11th St,R
+10862,Third Avenue,E 12th St,R
+10863,Third Avenue,E 12th St,R
+10868,Third Avenue,E 13th St,R
+10871,Third Avenue,E 10th St,L
+10877,Third Avenue,E 11th St,L
+10878,Third Avenue,E 11th St,L
+10879,Third Avenue,E 11th St,L
+10882,Third Avenue,E 12th St,L
+10890,Third Avenue,E 13th St,L
+10891,Third Avenue,E 13th St,L
+10892,Third Avenue,E 13th St,
+10897,Third Avenue,St Marks Pl,R
+10899,Third Avenue,Stuyvesant St,R
+10900,Third Avenue,Stuyvesant St,R
+10901,Third Avenue,Stuyvesant St,R
+10902,Third Avenue,E 9th St,R
+10906,Third Avenue,E 10th St,R
+10907,Third Avenue,E 10th St,R
+10910,Third Avenue,E 9th St,L
+10916,Third Avenue,E 10th St,
+10917,Third Avenue,E 10th St,L
+10918,Third Avenue,E 10th St,
+10919,Third Avenue,E 12th St,L
+10921,Park Avenue,Union Sq E,R
+10922,Park Avenue,Union Sq E,R
+10923,Park Avenue,Union Sq E,R
+10924,Park Avenue,Union Sq E,R
+10925,Park Avenue,Union Sq E,R
+10926,Park Avenue,E 15th St,R
+10927,Park Avenue,E 16th St,R
+10928,Park Avenue,Union Sq E,R
+10929,Park Avenue,Union Sq E,R
+10930,Park Avenue,Union Sq E,R
+10931,Park Avenue,Union Sq E,
+10932,Park Avenue,E 17th St,R
+10933,Broadway,Union Sq W,L
+10934,Broadway,Union Sq W,L
+10935,Broadway,E 15th St,L
+10936,Broadway,E 15th St,L
+10937,Broadway,Union Sq W,L
+10938,Broadway,Union Sq W,L
+10939,Broadway,Union Sq W,L
+10940,Broadway,E 16th St,L
+10941,Broadway,E 16th St,L
+10942,Broadway,Union Sq W,L
+10943,Broadway,Union Sq W,L
+10944,Broadway,Union Sq W,L
+10945,Broadway,E 17th St,L
+10946,Union Square,E 17th St,L
+10947,Park Avenue,Union Sq E,
+10956,University Place,E 10th St,R
+10961,University Place,E 11th St,R
+10965,University Place,E 12th St,R
+10972,University Place,E 13th St,R
+10979,University Place,E 9th St,L
+10981,University Place,Pet Supplies/Services,L
+10987,University Place,E 10th St,L
+10992,University Place,E 11th St,L
+10993,University Place,E 11th St,L
+11001,University Place,E 12th St,
+11007,University Place,E 13th St,
+11008,University Place,E 13th St,L
+11019,University Place,Washington Sq N,L
+11021,University Place,Washington Mews,L
+11025,Broad Street,Exchange Pl,L
+11032,Broad Street,Marketfield St,L
+11037,Broad Street,Bridge St,L
+11039,Broad Street,Beaver St,R
+11041,Broad Street,S William St,R
+11042,Broad Street,Pearl St,R
+11047,Broad Street,Exchange Pl,R
+11050,Broadway,Marketfield St,R
+11054,Broadway,Beaver St,R
+11062,Broadway,Wall St,R
+11063,Broadway,Battery Pl,L
+11067,Broadway,Morris St,L
+11085,Maiden Lane,Liberty St,L
+11086,Maiden Lane,Liberty St,L
+11092,Maiden Lane,Pearl St,L
+11097,Maiden Lane,Nassau St,L
+11099,Maiden Lane,Liberty St,L
+11110,Nassau Street,Liberty St,L
+11123,Nassau Street,Pine St,
+11124,Broad Street,Stone St,L
+11149,Wall Street,Beaver St,L
+11163,Wall Street,William St,R
+11172,Wall Street,Front St,R
+11173,Wall Street,Front St,R
+11175,Wall Street,South St,R
+11183,Broadway,,L
+11187,Broadway,Rector St,L
+11188,Broadway,Rector St,L
+11190,Broadway,Thames St,L
+11191,Broadway,Thames St,L
+11192,Broadway,Thames St,L
+11193,Broadway,Thames St,L
+11194,Broadway,Cedar St,L
+11195,Broadway,Morris St,L
+11203,Broadway,Fulton St,
+11204,Broadway,Dey St,L
+11206,Broadway,Vesey St,L
+11211,Broadway,Barclay St,L
+11212,Broadway,Barclay St,
+11213,Broadway,Barclay St,L
+11215,Broadway,Park Pl,L
+11216,Broadway,Park Pl,L
+11217,Broadway,Murray St,L
+11219,Broadway,Warren St,L
+11220,Broadway,Warren St,L
+11221,Broadway,Warren St,L
+11229,Broadway,Chambers St,L
+11232,Broadway,Reade St,L
+11237,Broadway,Duane St,L
+11242,Broadway,Thomas St,L
+11243,Broadway,Thomas St,L
+11244,Broadway,Thomas St,L
+11245,Broadway,Thomas St,L
+11248,Broadway,Worth St,L
+11249,Broadway,Worth St,L
+11250,Broadway,Reade St,L
+11254,Broadway,Murray St,L
+11255,Broadway,Reade St,
+11258,Church Street,Vesey St,R
+11260,Church Street,Park Pl,R
+11268,Church Street,Murray St,R
+11269,Church Street,Murray St,R
+11270,Church Street,Murray St,R
+11272,Church Street,Warren St,R
+11273,Church Street,Warren St,
+11274,Church Street,Warren St,
+11280,Church Street,Chambers St,
+11281,Church Street,Chambers St,
+11282,Church Street,Chambers St,R
+11289,Church Street,Reade St,R
+11290,Church Street,Reade St,R
+11299,Church Street,Duane St,R
+11302,Church Street,Barclay St,L
+11303,Church Street,Park Pl,L
+11304,Church Street,Park Pl,L
+11306,Church Street,Murray St,L
+11308,Church Street,Warren St,L
+11310,Church Street,Chambers St,L
+11311,Church Street,Chambers St,L
+11318,Church Street,Reade St,L
+11319,Greenwich Street,Chambers St,R
+11321,Greenwich Street,Chambers St,R
+11322,Greenwich Street,Murray St,R
+11323,Greenwich Street,Murray St,R
+11329,Greenwich Street,Warren St,R
+11331,Greenwich Street,Chambers St,R
+11332,Hudson Street,Reade St,L
+11333,West Broadway,Barclay St,
+11337,West Broadway,Murray St,
+11341,West Broadway,Warren St,
+11342,West Broadway,Murray St,L
+11347,West Broadway,Warren St,L
+11358,Broadway,Cortlandt St,L
+11363,Avenue A,E 4th St,R
+11364,Avenue A,E 4th St,R
+11365,Avenue A,E 4th St,R
+11368,Avenue A,11/28/2011,R
+11369,Avenue A,E 3rd St,R
+11370,Avenue A,E 3rd St,R
+11375,Avenue A,Convenience Store,R
+11376,Avenue A,E 2nd St,R
+11381,Avenue A,E 6th St,R
+11382,Avenue A,E 5th St,R
+11385,Avenue A,E 12th St,R
+11389,Avenue A,E 11th St,R
+11397,Avenue A,E 13th St,R
+11398,Avenue A,E 13th St,R
+11403,Avenue A,E 12th St,R
+11404,Avenue A,E 12th St,R
+11405,Avenue A,E 14th St,R
+11406,Avenue A,E 7th St,R
+11407,Avenue A,E 3rd St,R
+11415,Avenue A,E 13th St,L
+11416,Avenue A,E 13th St,L
+11417,Avenue A,E 13th St,L
+11420,Avenue A,E 12th St,L
+11421,Avenue A,E 11th St,L
+11422,Avenue A,E 11th St,L
+11426,Avenue A,E 10th St,L
+11431,Avenue A,E 9th St,L
+11441,Avenue A,E 7th St,L
+11452,Avenue A,E 4th St,L
+11456,Avenue A,E 3rd St,L
+11457,Avenue A,E 3rd St,L
+11464,Avenue A,E 2nd St,L
+11471,Avenue A,E 1st St,L
+11472,Avenue A,E 9th St,L
+11474,Avenue A,St Marks Pl,L
+11477,Avenue A,E 4th St,L
+11478,Avenue A,E 6th St,L
+11479,Avenue A,E 6th St,L
+11481,Avenue A,E 7th St,L
+11487,Avenue B,E Houston St,R
+11488,Avenue B,E 4th St,R
+11493,Avenue B,E 3rd St,R
+11494,Avenue B,E 3rd St,R
+11501,Avenue B,E 2nd St,R
+11502,Avenue B,E 8th St,R
+11504,Avenue B,E 7th St,R
+11505,Avenue B,E 7th St,R
+11510,Avenue B,E 6th St,R
+11511,Avenue B,E 10th St,R
+11516,Avenue B,E 9th St,R
+11517,Avenue B,E 9th St,R
+11519,Avenue B,E 8th St,R
+11523,Avenue B,E 11th St,R
+11537,Avenue B,E 13th St,R
+11542,Avenue B,E 12th St,R
+11544,Avenue B,E 2nd St,L
+11548,Avenue B,E 4th St,L
+11556,Avenue B,E 3rd St,L
+11557,Avenue B,E 3rd St,L
+11562,Avenue B,E 5th St,L
+11564,Avenue B,E 4th St,L
+11565,Avenue B,E 7th St,L
+11573,Avenue B,E 12th St,L
+11577,Avenue B,E 11th St,L
+11584,Avenue B,E 10th St,L
+11585,Avenue B,E 5th St,L
+11593,Avenue B,E 13th St,L
+11602,Avenue B,E 12th St,L
+11604,Avenue C,E 2nd St,L
+11606,Avenue C,E 3rd St,L
+11607,Avenue C,E 4th St,L
+11610,Avenue C,E 5th St,L
+11611,Avenue C,E 5th St,L
+11615,Avenue C,E 6th St,L
+11616,Avenue C,E 6th St,L
+11620,Avenue C,E 7th St,L
+11621,Avenue C,E 7th St,L
+11624,Avenue C,E 8th St,L
+11628,Avenue C,E 9th St,L
+11629,Avenue C,Grocery,L
+11634,Avenue C,E 10th St,L
+11635,Avenue C,E 10th St,L
+11636,Avenue C,E 10th St,L
+11637,Avenue C,E 10th St,L
+11639,Avenue C,E 11th St,L
+11640,Avenue C,E 11th St,L
+11645,Avenue C,E 12th St,L
+11647,Avenue C,E 14th St,L
+11648,Avenue C,E 9th St,L
+11650,Avenue C,E 2nd St,R
+11655,Avenue C,E 3rd St,R
+11656,Avenue C,E 3rd St,R
+11657,Avenue C,E 4th St,R
+11658,Avenue C,E 4th St,R
+11660,Avenue C,E 6th St,R
+11665,Avenue C,E 7th St,R
+11666,Avenue C,E 7th St,R
+11669,Avenue C,E 8th St,R
+11671,Avenue C,E 8th St,R
+11675,Avenue C,E 10th St,R
+11676,Avenue C,E 10th St,R
+11678,Avenue C,E 11th St,R
+11683,First Avenue,E 3rd St,L
+11684,First Avenue,E 3rd St,L
+11688,First Avenue,,L
+11692,First Avenue,E 2nd St,L
+11693,First Avenue,E 2nd St,L
+11694,First Avenue,E 14th St,R
+11695,First Avenue,E 14th St,R
+11702,First Avenue,E 13th St,R
+11703,First Avenue,E 13th St,R
+11704,First Avenue,E 13th St,R
+11705,First Avenue,E 13th St,R
+11710,First Avenue,E 12th St,R
+11711,First Avenue,E 12th St,R
+11712,First Avenue,E 12th St,R
+11713,First Avenue,E 12th St,R
+11719,First Avenue,Misc Service,R
+11721,First Avenue,E 11th St,R
+11722,First Avenue,E 11th St,R
+11723,First Avenue,E 11th St,R
+11724,First Avenue,E 11th St,R
+11732,First Avenue,E 10th St,R
+11733,First Avenue,E 10th St,R
+11734,First Avenue,E 10th St,R
+11739,First Avenue,Education,R
+11740,First Avenue,E 9th St,R
+11741,First Avenue,E 9th St,R
+11746,First Avenue,St Marks Pl,R
+11747,First Avenue,St Marks Pl,R
+11748,First Avenue,St Marks Pl,R
+11749,First Avenue,St Marks Pl,R
+11755,First Avenue,E 7th St,R
+11756,First Avenue,E 7th St,R
+11757,First Avenue,E 7th St,R
+11758,First Avenue,E 7th St,R
+11764,First Avenue,E 6th St,R
+11765,First Avenue,E 6th St,R
+11766,First Avenue,E 2nd St,R
+11773,First Avenue,E 1st St,R
+11774,First Avenue,E 1st St,R
+11777,First Avenue,,R
+11779,Avenue A,St Marks Pl,L
+11787,St Marks Place,Restaurant,L
+11794,Avenue A,St Marks Pl,L
+11847,23rd Street,Lexington Ave,R
+11862,23rd Street,Park Ave S,R
+11924,23rd Street,Lexington Ave,
+11934,23rd Street,Park Ave S,L
+11984,23rd Street,Park Ave S,R
+11988,Broadway,E 20th St,L
+11993,Broadway,E 21st St,L
+11996,Broadway,E 22nd St,L
+11997,Broadway,E 22nd St,L
+11998,Broadway,5th Ave,L
+11999,Broadway,E 20th St,R
+12002,Broadway,E 21st St,R
+12003,Broadway,E 21st St,R
+12007,Broadway,E 22nd St,R
+12008,Broadway,E 22nd St,R
+12013,Broadway,W 25th St,L
+12014,Broadway,W 25th St,L
+12019,Broadway,W 26th St,L
+12020,Broadway,W 25th St,R
+12026,Fifth Avenue,E 20th St,R
+12030,Fifth Avenue,E 21st St,R
+12035,Fifth Avenue,E 27th St,R
+12036,Fifth Avenue,W 20th St,L
+12039,Fifth Avenue,W 21st St,L
+12045,Fifth Avenue,W 22nd St,L
+12046,Fifth Avenue,W 22nd St,L
+12051,Fifth Avenue,W 23rd St,L
+12054,Fifth Avenue,W 24th St,L
+12055,Fifth Avenue,W 24th St,L
+12060,Fifth Avenue,W 26th St,L
+12062,Fifth Avenue,W 24th St,L
+12065,First Avenue,E 78th St,R
+12068,Madison Avenue,E 24th St,R
+12070,Madison Avenue,E 25th St,R
+12073,Madison Avenue,E 26th St,R
+12074,Madison Avenue,E 26th St,R
+12075,Madison Avenue,E 27th St,R
+12076,Madison Avenue,E 23rd St,R
+12078,Madison Avenue,E 24th St,R
+12080,Madison Avenue,,L
+12082,Madison Avenue,E 27th St,L
+12083,Madison Avenue,E 26th St,L
+12085,Park Avenue,E 26th St,L
+12088,Park Avenue,E 27th St,L
+12092,Park Avenue,E 21st St,R
+12095,Park Avenue,E 22nd St,R
+12145,96th Street,Madison Ave,L
+12164,First Avenue,E 91st St,L
+12165,First Avenue,E 87th St,R
+12170,First Avenue,E 88th St,R
+12176,First Avenue,E 89th St,R
+12177,First Avenue,E 89th St,R
+12183,First Avenue,E 90th St,R
+12184,First Avenue,E 90th St,R
+12189,First Avenue,E 88th St,
+12192,First Avenue,E 89th St,
+12193,First Avenue,E 89th St,
+12194,First Avenue,E 89th St,
+12199,First Avenue,E 90th St,L
+12200,First Avenue,E 90th St,L
+12201,First Avenue,E 94th St,L
+12205,First Avenue,E 93rd St,L
+12207,First Avenue,E 92nd St,L
+12213,First Avenue,E 91st St,R
+12214,First Avenue,E 91st St,L
+12217,First Avenue,E 91st St,
+12223,First Avenue,E 90th St,R
+12224,First Avenue,E 90th St,R
+12225,First Avenue,E 91st St,R
+12226,First Avenue,E 91st St,R
+12231,First Avenue,E 95th St,L
+12234,First Avenue,E 94th St,
+12238,Lexington Avenue,E 87th St,R
+12239,Lexington Avenue,E 87th St,R
+12245,Lexington Avenue,E 88th St,
+12246,Lexington Avenue,E 88th St,R
+12247,Lexington Avenue,E 88th St,R
+12253,Lexington Avenue,E 89th St,R
+12254,Lexington Avenue,E 89th St,R
+12258,Lexington Avenue,E 90th St,R
+12259,Lexington Avenue,E 90th St,R
+12264,Lexington Avenue,E 91st St,
+12269,Lexington Avenue,E 87th St,L
+12271,Lexington Avenue,E 88th St,L
+12281,Lexington Avenue,E 89th St,L
+12282,Lexington Avenue,E 89th St,L
+12286,Lexington Avenue,E 90th St,L
+12295,Lexington Avenue,E 91st St,L
+12296,Lexington Avenue,E 91st St,L
+12303,Lexington Avenue,E 92nd St,L
+12307,Lexington Avenue,E 91st St,
+12311,Lexington Avenue,E 89th St,
+12315,Madison Avenue,E 88th St,R
+12316,Madison Avenue,E 88th St,
+12324,Madison Avenue,E 89th St,R
+12326,Madison Avenue,E 90th St,R
+12328,Madison Avenue,E 91st St,R
+12329,Madison Avenue,E 91st St,R
+12335,Madison Avenue,E 92nd St,R
+12336,Madison Avenue,E 92nd St,R
+12337,Madison Avenue,E 92nd St,R
+12341,Madison Avenue,E 93rd St,R
+12342,Madison Avenue,E 93rd St,R
+12343,Madison Avenue,E 93rd St,R
+12344,Madison Avenue,E 93rd St,R
+12349,Madison Avenue,E 94th St,R
+12353,Madison Avenue,E 96th St,R
+12355,Madison Avenue,E 87th St,
+12369,Madison Avenue,E 89th St,L
+12370,Madison Avenue,E 89th St,
+12375,Madison Avenue,E 90th St,L
+12376,Madison Avenue,E 90th St,L
+12383,Madison Avenue,E 91st St,L
+12384,Madison Avenue,Medical,L
+12385,Madison Avenue,E 92nd St,L
+12386,Madison Avenue,E 92nd St,L
+12396,Madison Avenue,E 93rd St,L
+12402,Madison Avenue,E 94th St,L
+12403,Madison Avenue,E 94th St,L
+12405,Madison Avenue,E 95th St,L
+12408,Madison Avenue,E 89th St,L
+12411,Second Avenue,E 87th St,R
+12416,Second Avenue,E 88th St,R
+12417,Second Avenue,E 88th St,R
+12422,Second Avenue,E 89th St,R
+12423,Second Avenue,E 89th St,R
+12424,Second Avenue,E 89th St,R
+12431,Second Avenue,E 90th St,R
+12432,Second Avenue,E 90th St,R
+12433,Second Avenue,E 90th St,R
+12442,Second Avenue,E 91st St,R
+12443,Second Avenue,E 91st St,R
+12449,Second Avenue,E 92nd St,R
+12453,Second Avenue,E 93rd St,
+12454,Second Avenue,E 93rd St,R
+12464,Second Avenue,E 94th St,R
+12469,Second Avenue,E 95th St,R
+12470,Second Avenue,E 95th St,R
+12477,Second Avenue,E 88th St,L
+12478,Second Avenue,E 88th St,L
+12486,Second Avenue,E 89th St,L
+12487,Second Avenue,E 89th St,L
+12488,Second Avenue,E 89th St,L
+12496,Second Avenue,E 90th St,L
+12497,Second Avenue,E 90th St,L
+12500,Second Avenue,E 92nd St,L
+12509,Second Avenue,E 94th St,L
+12510,Second Avenue,E 94th St,L
+12517,Second Avenue,E 95th St,L
+12521,Second Avenue,E 92nd St,R
+12522,Third Avenue,E 96th St,L
+12524,Third Avenue,E 96th St,R
+12525,Third Avenue,E 87th St,
+12528,Third Avenue,E 88th St,
+12529,Third Avenue,E 88th St,
+12530,Third Avenue,E 88th St,R
+12535,Third Avenue,E 89th St,R
+12536,Third Avenue,E 89th St,R
+12537,Third Avenue,E 89th St,R
+12540,Third Avenue,E 90th St,
+12541,Third Avenue,E 90th St,R
+12543,Third Avenue,E 87th St,L
+12549,Third Avenue,E 88th St,L
+12550,Third Avenue,E 88th St,L
+12557,Third Avenue,E 89th St,L
+12558,Third Avenue,E 89th St,L
+12559,Third Avenue,E 89th St,L
+12568,Third Avenue,E 90th St,L
+12569,Third Avenue,E 90th St,R
+12571,Third Avenue,E 91st St,R
+12573,Third Avenue,E 92nd St,R
+12578,Third Avenue,E 93rd St,R
+12579,Third Avenue,E 93rd St,
+12581,Third Avenue,E 94th St,R
+12582,Third Avenue,E 94th St,R
+12583,Third Avenue,E 94th St,
+12584,Third Avenue,E 94th St,
+12594,Third Avenue,E 95th St,
+12595,Third Avenue,E 95th St,
+12596,Third Avenue,E 95th St,R
+12604,Third Avenue,E 91st St,L
+12605,Third Avenue,E 91st St,L
+12612,Third Avenue,E 92nd St,L
+12613,Third Avenue,E 92nd St,L
+12614,Third Avenue,E 92nd St,L
+12623,Third Avenue,E 93rd St,L
+12624,Third Avenue,E 93rd St,L
+12631,Third Avenue,E 94th St,L
+12632,Third Avenue,E 94th St,L
+12636,Third Avenue,E 91st St,L
+12640,University Place,E 9th St,R
+12643,Broad Street,Wall St,R
+12654,Park Avenue,E 16th St,R
+12655,Park Avenue,E 17th St,R
+12661,Broad Street,Stone St,L
+12694,SixthAvenue,W 13th St,L
+12740,Lafayette Street,Mulberry St,R
+12743,Mulberry Street,Prince St,L
+12753,Hudson Street,Duane St,L
+12756,Madison Avenue,E 28th St,R
+12758,Madison Avenue,E 30th St,R
+12763,Madison Avenue,E 31st St,
+12768,Madison Avenue,E 32nd St,R
+12771,Madison Avenue,E 33rd St,R
+12775,Madison Avenue,E 37th St,
+12779,Madison Avenue,E 28th St,L
+12781,Madison Avenue,E 29th St,L
+12784,Madison Avenue,E 30th St,L
+12791,Madison Avenue,E 33rd St,L
+12794,34th Street,Madison Ave,R
+12801,Madison Avenue,E 38th St,L
+12802,Madison Avenue,E 39th St,L
+12807,Park Avenue,E 29th St,R
+12810,Park Avenue,E 30th St,R
+12813,Third Avenue,E 35th St,R
+12814,Third Avenue,E 28th St,L
+12815,Third Avenue,E 34th St,L
+12823,42nd Street,Park Ave,R
+12824,42nd Street,Park Ave,R
+12826,Madison Avenue,E 42nd St,L
+12827,Madison Avenue,E 40th St,L
+12829,Park Avenue,E 41st St,R
+12831,42nd Street,Lexington Ave,L
+12836,Eighth Avenue,W 39th St,R
+12843,Eighth Avenue,W 42nd St,R
+12848,Lexington Avenue,E 58th St,
+12849,Varick Street,Downing St,R
+12850,Madison Avenue,E 45th St,L
+12851,Madison Avenue,E 46th St,L
+12852,Madison Avenue,E 44th St,L
+12861,Seventh Avenue,W 51st St,
+12871,First Avenue,E 69th St,R
+12873,First Avenue,E 71st St,R
+12876,First Avenue,E 73rd St,L
+12881,Madison Avenue,E 78th St,R
+12882,Madison Avenue,E 60th St,L
+12888,Madison Avenue,E 62nd St,L
+12889,Madison Avenue,E 62nd St,L
+12895,Madison Avenue,E 63rd St,L
+12901,Madison Avenue,E 64th St,L
+12903,Madison Avenue,E 61st St,L
+12905,Madison Avenue,E 77th St,R
+12907,Second Avenue,E 65th St,R
+12908,Second Avenue,E 73rd St,R
+12909,Second Avenue,E 72nd St,L
+12913,First Avenue,E 54th St,L
+12914,First Avenue,E 54th St,L
+12915,First Avenue,E 54th St,L
+12916,First Avenue,E 58th St,L
+12917,First Avenue,E 58th St,L
+12920,Madison Avenue,E 57th St,L
+12922,Madison Avenue,E 58th St,L
+12923,Madison Avenue,E 59th St,L
+12924,Madison Avenue,E 59th St,L
+12925,Madison Avenue,E 60th St,L
+12926,Madison Avenue,E 53rd St,L
+12930,Madison Avenue,E 54th St,L
+12931,Madison Avenue,E 54th St,L
+12934,Madison Avenue,E 55th St,L
+12944,First Avenue,E 82nd St,R
+12949,First Avenue,E 83rd St,R
+12950,First Avenue,E 83rd St,R
+12951,First Avenue,E 82nd St,L
+12952,First Avenue,E 85th St,L
+12953,First Avenue,E 85th St,L
+12975,Madison Avenue,E 82nd St,L
+12976,Madison Avenue,E 82nd St,L
+12978,Second Avenue,E 82nd St,R
+12980,Second Avenue,E 81st St,L
+12982,Second Avenue,E 82nd St,L
+12983,Second Avenue,E 82nd St,L
+12987,96th Street,Madison Ave,R
+12990,First Avenue,E 88th St,R
+12991,First Avenue,E 88th St,R
+12992,First Avenue,E 88th St,R
+12993,First Avenue,E 87th St,L
+12994,First Avenue,E 88th St,L
+12995,First Avenue,E 88th St,L
+13000,First Avenue,E 92nd St,L
+13001,First Avenue,E 92nd St,L
+13006,First Avenue,E 90th St,L
+13007,First Avenue,E 90th St,L
+13010,First Avenue,E 95th St,L
+13018,First Avenue,E 78th St,R
+13020,Amsterdam Avenue,W 110th St,L
+13022,Columbus Avenue,W 109th St,L
+13031,Eighth Avenue,W 44th St,L
+13032,Third Avenue,E 90th St,L
+13036,Madison Avenue,E 88th St,L
+13058,Madison Avenue,E 97th St,L
+13065,Madison Avenue,E 97th St,R
+13066,Madison Avenue,E 97th St,L
+13074,Madison Avenue,E 98th St,L
+13075,Madison Avenue,E 97th St,R
+13080,Madison Avenue,E 26th St,R
+13085,SixthAvenue,Grand St,R
+13088,SixthAvenue,Watts St,R
+13089,SixthAvenue,Watts St,R
+13090,SixthAvenue,Sullivan St,R
+13100,SixthAvenue,Charlton St,L
+13102,SixthAvenue,King St,L
+13140,Seventh Avenue,W 16th St,
+13145,Ninth Avenue,W 46th St,R
+13146,Ninth Avenue,W 46th St,R
+13148,Ninth Avenue,W 51st St,L
+13152,,9th Ave,
+13160,Eighth Avenue,W 43rd St,L
+13168,Grand Street,Wooster St,L
+13172,4th Street,Cornelia St,L
+13180,4th Street,Jones St,L
+13181,4th Street,Jones St,L
+13186,4th Street,Barrow St,L
+13187,4th Street,Sheridan Sq,L
+13188,4th Street,Sheridan Sq,L
+13204,4th Street,Sheridan Sq,R
+13282,Ninth Avenue,W 49th St,
+13285,Ninth Avenue,W 57th St,R
+13292,Crosby Street,Grand St,L
+13293,Canal Street,Broadway,R
+13295,York Avenue,E 86th St,R
+13336,86th Street,W 85th St,L
+13392,Broadway,W 28th St,R
+13396,23rd Street,Restaurant,L
+13403,Fifth Avenue,W 43rd St,L
+13404,Seventh Avenue,W 26th St,R
+13406,Battery Park City,S End Ave,L
+13407,Battery Park City,S End Ave,L
+13408,Battery Park City,S End Ave,L
+13409,Battery Park City,S End Ave,L
+13410,Battery Park City,S End Ave,L
+13411,Battery Park City,S End Ave,L
+13412,Battery Park City,S End Ave,L
+13413,Battery Park City,S End Ave,L
+13414,Battery Park City,Albany St,L
+13415,Battery Park City,Rector Pl,L
+13416,Battery Park City,Rector Pl,
+13417,Battery Park City,Rector Pl,
+13418,Battery Park City,Vesey St,
+13419,Battery Park City,,
+13420,Battery Park City,,L
+13421,Battery Park City,,
+13422,Battery Park City,Vesey St,
+13423,Battery Park City,,
+13424,Battery Park City,Vesey St,
+13425,Battery Park City,Vesey St,
+13426,Battery Park City,Vesey St,
+13427,Battery Park City,,L
+13428,Battery Park City,,R
+13429,Battery Park City,,
+13430,Battery Park City,,
+13431,Battery Park City,,
+13432,Battery Park City,,
+13433,Battery Park City,,
+13434,Battery Park City,,
+13435,Eighth Avenue,W 41st St,
+13436,Eighth Avenue,W 41st St,
+13440,Bleeker Street,Christopher St,L
+13441,Christopher Street,Gay St,L
+13470,Broome Street,Watts St,L
+13480,Wall Street,William St,L
+13497,West Street,W 11th St,R
+13505,West Street,W 10th St,R
+13506,West Street,W 10th St,R
+13507,West Street,Weehawken St,R
+13508,Christopher Street,Weehawken St,R
+13519,Third Avenue,E 62nd St,L
+13520,Third Avenue,E 80th St,R
+13525,SixthAvenue,W 53rd St,L
+13526,Broadway,W 147th St,R
+13528,23rd Street,,R
+13530,Union Square,Broadway,Down
+13544,Tenth Avenue,W 56th St,
+13545,Washington Street,Horatio St,L
+13546,Maiden Lane,Pearl St,R
+13550,Ninth Avenue,W 57th St,R
+13552,Eighth Avenue,W 56th St,R
+13553,Ninth Avenue,W 35th St,R
+13555,Ninth Avenue,W 31st St,R
+13558,Ninth Avenue,W 30th St,R
+13559,Ninth Avenue,W 30th St,R
+13560,Ninth Avenue,W 30th St,R
+13567,Ninth Avenue,W 29th St,R
+13572,Amsterdam Avenue,W 102nd St,L
+13574,West End Avenue,Convenience Store,L
+13576,Hudson Street,Laight St,R
+13577,Hudson Street,W 13th St,R
+13578,Lexington Avenue,E 82nd St,R
+13580,Eighth Avenue,W 30th St,L
+13662,Worth Street,Accessories,R
+13667,Lafayette Street,Duane St,L
+13671,Broadway,Reade St,R
+13674,Lafayette Street,Reade St,L
+13688,Lafayette Street,Duane St,L
+13689,Lafayette Street,White St,L
+13694,Lafayette Street,Catherine Ln,L
+13695,Worth Street,6/22/2011,R
+13697,Federal Plaza,Lafayette St,L
+13698,Federal Plaza,Lafayette St,L
+13699,Worth Street,Centre St,R
+13704,Centre Street,Hamill Pl,R
+13765,Park Avenue,E 116th St,L
+13817,106th Strett,E 106th St,L
+13825,Fifth Avenue,,L
+13828,FIfth Avenue,W 111th St,L
+13832,Fifth Avenue,E 111th St,R
+13835,FIfth Avenue,E 112th St,R
+13847,Fifth Avenue,E 118th St,R
+13852,Fifth Avenue,E 119th St,R
+13853,Fifth Avenue,W 119th St,L
+13857,Fifth Avenue,W 120th St,L
+13883,Hudson Street,Holland Tunnel,R
+13884,Ninth Avenue,W 25th St,L
+13885,Second Avenue,E 120th St,R
+13888,125th Street,Park Ave,R
+13897,Broome Street,Watts St,L
+13941,Lexington Avenue,E 54th St,R
+13960,Battery Park City,Liberty St,L
+13961,Battery Park City,Liberty St,L
+13962,Battery Park City,S End Ave,
+13963,Battery Park City,S End Ave,
+13964,Battery Park City,S End Ave,L
+13965,Battery Park City,,R
+13966,Battery Park City,Albany St,L
+13967,Battery Park City,S End Ave,L
+13968,Battery Park City,S End Ave,L
+13969,Battery Park City,Rector Pl,L
+13970,Battery City Park,Rector Pl,L
+13971,Battery City Park,S End Ave,L
+13972,Battery City Park,S End Ave,L
+13973,Battery City Park,W Thames St,L
+13974,Battery City Park,S End Ave,R
+13975,Battery City Park,S End Ave,L
+13976,Battery City Park,S End Ave,L
+13977,Battery City Park,S End Ave,L
+13978,Battery City Park,S End Ave,L
+13979,Battery City Park,,L
+13981,First Avenue,E 66th St,L
+13991,1/7/2015,W 90th St,R
+13993,Amsterdam Avenue,W 107th St,L
+13994,Seventh Avenue,Broadway,L
+13995,Seventh Avenue,Broadway,L
+13996,Seventh Avenue,Broadway,L
+14008,Broadway,W 207th St,L
+14039,Broadway,W 211th St,R
+14040,Broadway,W 211th St,R
+14048,Broadway,W 212th St,R
+14049,Broadway,W 212th St,R
+14052,Broadway,W 213th St,R
+14053,Broadway,W 213th St,R
+14057,Broadway,W 214th St,R
+14058,Broadway,,L
+14067,Broadway,W 215th St,L
+14074,First Avenue,E 12th St,R
+14084,Broadway,W 47th St,L
+14089,Fourth Avenue,E 9th St,R
+14100,Fourth Avenue,E 8th St,R
+14116,Fifth Avenue,W 36th St,L
+14119,Water Street,Wall St,L
+14126,Broad Street,Pearl St,R
+14577,55th Street,7th Ave,R
+14604,Ninth Avenue,W 40th St,R
+14605,Broadway,Liberty St,L
+14606,Broad Street,Bridge St,L
+14611,Bowery,Broome St,R
+14616,Lafayette Street,Great Jones St,L
+14618,Amsterdam Avenue,W 76th St,L
+14620,Ninth Avenue,W 56th St,L
+14621,Ninth Avenue,W 53rd St,R
+14622,Ninth Avenue,W 40th St,R
+14623,Madison Avenue,E 32nd St,L
+14625,4/6/2016,10th Ave,R
+14628,,3rd Ave,
+14629,SixthAvenue,W 39th St,L
+14632,First Avenue,E 24th St,L
+14635,Church Street,Walker St,L
+14637,West Broadway,Worth St,R
+14644,Eleventh Avenue,W 45th St,R
+14646,Eleventh Avenue,W 46th St,R
+14647,Eleventh Avenue,W 45th St,L
+14651,Eleventh Avenue,W 46th St,L
+14653,Eleventh Avenue,W 47th St,L
+14655,Eleventh Avenue,W 48th St,L
+14657,Eleventh Avenue,W 48th St,R
+14659,Eleventh Avenue," Cadillac""",R
+14664,Eleventh Avenue,W 51st St,L
+14669,Eleventh Avenue,W 51st St,R
+14672,Eleventh Avenue,W 52nd St,R
+14675,Eleventh Avenue,W 53rd St,R
+14677,Eleventh Avenue,W 54th St,R
+14681,Eleventh Avenue,W 55th St,R
+14682,Eleventh Avenue,W 55th St,R
+14684,Eleventh Avenue,W 55th St,L
+14688,Eleventh Avenue,W 58th St,R
+14701,Battery Park Place,,L
+14702,Battery Park Place,,L
+14705,North End Avenue,Murray St,R
+14706,North End Avenue,Murray St,R
+14707,North End Avenue,,L
+14710,Murray Street,,R
+14711,North End Avenue,Murray St,R
+14713,Murray Street,Vesey St,L
+14717,Murray Street,Vesey St,R
+14720,West End Avenue,W 65th St,R
+14723,West End Avenue,W 64th St,R
+14724,West End Avenue,W 64th St,R
+14731,West End Avenue,W 62nd St,L
+14733,West End Avenue,W 70th St,R
+14751,Kenmare Street,Misc Service,L
+14788,181st Street,Colonel Robert Magaw Pl,R
+14824,181st Street,Cabrini Blvd,L
+14829,Eighth Avenue,W 22nd St,R
+14852,Walker Street,Cortlandt Aly,R
+14853,Walker Street,Cortlandt Aly,L
+14859,Lexington Avenue,E 62nd St,R
+14861,Sam + Lex Boutique,Lexington Ave,L
+14862,Orange Nails (2nd Floor),E 65th St,L
+14864,Jivamukti Yoga (2nd Floor),Lexington Ave,R
+14868,Lexington Avenue,E 73rd St,L
+14872,Hudson Street,Hubert St,L
+14873,White Street,Cortlandt Aly,R
+14877,Trinity Place,Cedar St,R
+14878,57th Street,12th Ave,R
+14895,66th Street,7/22/2016,R
+14901,67th Street,Gallery,L
+14909,Tenth Avenue,W 30th St,L
+14917,Lexington Avenue,E 41st St,L
+14918,Madison Avenue,E 24th St,R
+14923,Whitehall Street,Stone St,R
+14924,Bowery,Rivington St,R
+14978,Broadway,W 56th St,R
+14980,,7th Ave,
+14981,Broadway,W 54th St,R
+14982,Broadway,W 48th St,R
+14986,Bleeker Street,Minetta St,R
+15059,Broadway,W 26th St,L
+15119,Beaver Street,Marketfield St,L
+15123,Beaver Street,Marketfield St,L
+15141,Beaver Street,S William St,L
+15153,Broadway,Cedar St,R
+15154,North End Avenue,Vesey St,R
+15172,Stone Street,Coenties Aly,R
+15173,Stone Street,Pearl St,R
+15174,Stone Street,Pearl St,R
+15189,William Street,Platt St,R
+15190,William Street,Platt St,R
+15193,William Street,Cedar St,R
+15194,William Street,Exchange Pl,L
+15196,William Street,Beaver St,L
+15226,Frederick Douglass Boulevard,W 124th St,L
+15229,Frederick Douglass Boulevard,W 124th St,R
+15233,Frederick Douglass Boulevard,W 123rd St,R
+15235,Frederick Douglass Boulevard,W 123rd St,R
+15238,Frederick Douglass Boulevard,W 122nd St,R
+15240,Frederick Douglass Boulevard,St Nicholas Ave,L
+15242,Frederick Douglass Boulevard,W 122nd St,R
+15246,Frederick Douglass Boulevard,St Nicholas Ave,R
+15248,Frederick Douglass Boulevard,W 121st St,L
+15249,Frederick Douglass Boulevard,W 121st St,L
+15253,Frederick Douglass Boulevard,W 120th St,L
+15254,Frederick Douglass Boulevard,W 120th St,L
+15258,Frederick Douglass Boulevard,W 119th St,L
+15259,Frederick Douglass Boulevard,W 120th St,R
+15263,Frederick Douglass Boulevard,W 119th St,R
+15264,Frederick Douglass Boulevard,W 119th St,R
+15265,Frederick Douglass Boulevard,W 118th St,R
+15267,Frederick Douglass Boulevard,W 118th St,L
+15268,Frederick Douglass Boulevard,W 119th St,R
+15269,Frederick Douglass Boulevard,W 119th St,R
+15274,Frederick Douglass Boulevard,W 118th St,R
+15276,Frederick Douglass Boulevard,W 117th St,R
+15277,Frederick Douglass Boulevard,W 117th St,L
+15279,Frederick Douglass Boulevard,W 117th St,R
+15283,Frederick Douglass Boulevard,W 116th St,R
+15291,Frederick Douglass Boulevard,W 116th St,L
+15297,Frederick Douglass Boulevard,W 115th St,L
+15300,Frederick Douglass Boulevard,W 115th St,L
+15301,Frederick Douglass Boulevard,W 115th St,L
+15306,Frederick Douglass Boulevard,W 114th St,L
+15307,Frederick Douglass Boulevard,W 114th St,L
+15308,Frederick Douglass Boulevard,W 115th St,R
+15309,Frederick Douglass Boulevard,W 115th St,R
+15315,Frederick Douglass Boulevard,W 114th St,R
+15322,Frederick Douglass Boulevard,W 113th St,R
+15323,Frederick Douglass Boulevard,W 113th St,R
+15328,Frederick Douglass Boulevard,W 114th St,R
+15331,Frederick Douglass Boulevard,W 113th St,R
+15332,Frederick Douglass Boulevard,W 113th St,R
+15337,Frederick Douglass Boulevard,W 112th St,R
+15338,Frederick Douglass Boulevard,W 112th St,L
+15342,Frederick Douglass Boulevard,W 111th St,L
+15344,West 110 Street,Frederick Douglass Blvd,L
+15345,West 110 Street,Frederick Douglass Cir,R
+15346,West 110 Street,W 111th St,R
+15368,Lenox Avenue,W 116th St,R
+15372,Lenox Avenue,W 116th St,R
+15420,Adam Clayton Powell Junior Boulevard,W 116th St,R
+15426,Saint Nicholas Avenue,W 116th St,L
+15427,Saint Nicholas Avenue,W 116th St,L
+15463,Frederick Douglass Boulevard,W 116th St,R
+15470,Frederick Douglass Boulevard,W 116th St,L
+15473,Frederick Douglass Boulevard,W 116th St,L
+15505,Greenwich Street,N Moore St,R
+15507,Park Avenue,E 33rd St,L
+15510,Lexington Avenue,E 101st St,L
+15512,Lexington Avenue,E 107th St,R
+15521,Lexington Avenue,E 112th St,L
+15524,Lexington Avenue,E 117th St,R
+15528,Lexington Avenue,E 117th St,R
+15529,Lexington Avenue,E 117th St,
+15541,Thu 2/16/2017 12:18 PM,W 125th St,L
+15542,Broadway,E 12th St,L
+15543,Broadway,E 12th St,L
+15550,Third Avenue,Astor Pl,L
+15553,57th Street,2nd Ave,L
+15558,Fifth Avenue,E 38th St,R
+15563,Greenwich Street,Charlton St,R
+15564,Greenwich Street,Charlton St,R
+15565,East 45th Street,E 46th St,R
+15566,East 45th Street,E 46th St,R
+15567,First Avenue,E 81st St,L
+15568,Second Avenue,E 54th St,L
+15570,Church Street,Franklin St,R
+15571,Second Avenue,E 48th St,L
+15572,Second Avenue,E 47th St,L
+15611,Broadway,,L
+15613,Madison Avenue,E 57th St,L
+15686,36th Street,,R
+15788,Seventh Avenue,W 37th St,R
+15821,Broadway,W 38th St,R
+15829,108,W 39th St,
+15944,Park Avenue,E 25th St,R
+15948,Park Avenue,E 26th St,R
+15949,Park Avenue,E 20th St,
+15950,Park Avenue,E 20th St,L
+15952,Park Avenue,E 21st St,L
+15953,Park Avenue,E 21st St,L
+15967,Park Avenue,E 22nd St,L
+15974,Second Avenue,E 21st St,R
+15980,Second Avenue,Medical,R
+15981,Second Avenue,E 22nd St,R
+15989,Second Avenue,E 24th St,R
+15992,Second Avenue,E 24th St,R
+15998,Second Avenue,E 25th St,R
+15999,Second Avenue,E 25th St,R
+16000,Second Avenue,E 25th St,R
+16002,Second Avenue,E 26th St,R
+16003,Second Avenue,E 20th St,L
+16004,Second Avenue,E 20th St,L
+16008,Second Avenue,E 21st St,L
+16010,Second Avenue,E 21st St,L
+16012,Second Avenue,E 22nd St,L
+16013,Second Avenue,E 22nd St,L
+16014,Second Avenue,E 22nd St,L
+16020,Second Avenue,E 23rd St,L
+16024,Second Avenue,E 24th St,L
+16025,Second Avenue,E 24th St,L
+16031,Second Avenue,E 25th St,L
+16034,Second Avenue,E 26th St,L
+16035,Second Avenue,E 26th St,L
+16038,Second Avenue,E 22nd St,R
+16042,SixthAvenue,W 21st St,
+16048,SixthAvenue,W 22nd St,R
+16049,SixthAvenue,W 22nd St,R
+16052,SixthAvenue,W 24th St,R
+16054,SixthAvenue,W 20th St,L
+16056,SixthAvenue,W 21st St,L
+16060,SixthAvenue,W 22nd St,L
+16063,SixthAvenue,W 24th St,L
+16064,SixthAvenue,W 24th St,L
+16065,SixthAvenue,W 24th St,L
+16066,SixthAvenue,W 25th St,L
+16067,SixthAvenue,W 25th St,L
+16072,SixthAvenue,W 26th St,
+16073,SixthAvenue,W 26th St,L
+16074,SixthAvenue,W 21st St,R
+16075,Third Avenue,E 20th St,R
+16081,Third Avenue,E 21st St,
+16082,Third Avenue,E 21st St,R
+16083,Third Avenue,E 21st St,R
+16086,Third Avenue,E 22nd St,R
+16087,Third Avenue,E 22nd St,R
+16099,Third Avenue,E 21st St,L
+16100,Third Avenue,E 21st St,L
+16101,Third Avenue,E 21st St,L
+16108,Third Avenue,E 22nd St,L
+16109,Third Avenue,E 22nd St,L
+16114,Third Avenue,E 23rd St,L
+16118,Third Avenue,E 24th St,R
+16123,Third Avenue,E 25th St,R
+16128,Third Avenue,E 26th St,R
+16129,Third Avenue,E 26th St,R
+16130,Third Avenue,E 26th St,R
+16134,Third Avenue,E 27th St,R
+16135,23rd Street,3rd Ave,R
+16136,Third Avenue,E 24th St,L
+16139,Third Avenue,E 25th St,L
+16140,Third Avenue,E 25th St,L
+16145,Third Avenue,E 26th St,L
+16155,Seventh Avenue,W 14th St,R
+16156,Seventh Avenue,W 14th St,
+16157,Seventh Avenue,W 14th St,R
+16159,Seventh Avenue,W 15th St,R
+16161,Seventh Avenue,W 16th St,R
+16162,Seventh Avenue,Department Store,R
+16163,Seventh Avenue,W 17th St,R
+16164,Seventh Avenue,W 17th St,R
+16168,Seventh Avenue,W 18th St,R
+16170,Seventh Avenue,W 19th St,R
+16173,Seventh Avenue,W 20th St,R
+16174,Seventh Avenue,W 20th St,R
+16178,Seventh Avenue,W 21st St,R
+16183,Seventh Avenue,W 14th St,
+16188,Seventh Avenue,W 15th St,L
+16189,Seventh Avenue,W 15th St,L
+16190,Seventh Avenue,W 15th St,L
+16191,Seventh Avenue,W 15th St,
+16200,Seventh Avenue,W 16th St,L
+16201,Seventh Avenue,W 16th St,L
+16202,Seventh Avenue,W 16th St,L
+16204,Seventh Avenue,W 17th St,L
+16205,Seventh Avenue,W 17th St,L
+16206,Seventh Avenue,W 17th St,L
+16209,Seventh Avenue,W 18th St,L
+16210,Seventh Avenue,W 18th St,L
+16212,Seventh Avenue,W 19th St,L
+16218,Seventh Avenue,W 20th St,L
+16225,Seventh Avenue,W 21st St,L
+16226,Seventh Avenue,W 21st St,L
+16227,Seventh Avenue,W 21st St,R
+16228,Seventh Avenue,W 21st St,R
+16232,Seventh Avenue,W 22nd St,R
+16233,Seventh Avenue,W 22nd St,R
+16234,Seventh Avenue,W 22nd St,R
+16235,Seventh Avenue,W 22nd St,R
+16237,Seventh Avenue,W 23rd St,
+16242,Seventh Avenue,W 21st St,L
+16258,Seventh Avenue,W 13th St,R
+16259,Seventh Avenue,W 13th St,R
+16260,Seventh Avenue,W 13th St,R
+16266,Seventh Avenue,W 12th St,R
+16268,Seventh Avenue,W 21st St,R
+16364,14th Street,,R
+16409,14th Street,9th Ave,R
+16437,Seventh Avenue,W 23rd St,
+16547,Eighth Avenue,W 15th St,R
+16548,Eighth Avenue,W 15th St,R
+16554,Eighth Avenue,W 16th St,R
+16555,Eighth Avenue,W 16th St,R
+16562,Eighth Avenue,W 17th St,R
+16570,Eighth Avenue,W 18th St,R
+16571,Eighth Avenue,W 18th St,R
+16577,Eighth Avenue,W 19th St,R
+16578,Eighth Avenue,W 19th St,R
+16579,Eighth Avenue,W 19th St,R
+16586,Eighth Avenue,W 20th St,R
+16587,Eighth Avenue,W 20th St,R
+16588,Eighth Avenue,W 20th St,R
+16593,Eighth Avenue,W 21st St,R
+16594,Eighth Avenue,W 21st St,R
+16595,Eighth Avenue,W 21st St,R
+16604,Eighth Avenue,W 22nd St,R
+16605,Eighth Avenue,W 22nd St,R
+16606,Eighth Avenue,W 22nd St,R
+16614,Eighth Avenue,W 23rd St,R
+16620,Eighth Avenue,W 15th St,L
+16625,Eighth Avenue,W 17th St,L
+16626,Eighth Avenue,W 17th St,L
+16627,Eighth Avenue,W 17th St,L
+16634,Eighth Avenue,W 18th St,L
+16635,Eighth Avenue,W 18th St,L
+16640,Eighth Avenue,W 19th St,L
+16641,Eighth Avenue,W 19th St,L
+16643,Eighth Avenue,W 20th St,L
+16644,Eighth Avenue,W 20th St,L
+16651,Eighth Avenue,W 21st St,L
+16652,Eighth Avenue,W 21st St,L
+16653,Eighth Avenue,W 21st St,L
+16654,Eighth Avenue,W 21st St,L
+16655,Eighth Avenue,W 22nd St,L
+16656,Eighth Avenue,W 22nd St,L
+16665,Eighth Avenue,W 23rd St,L
+16672,Eighth Avenue,W 17th St,R
+16673,Eighth Avenue,W 20th St,L
+16677,Fifth Avenue,W 14th St,L
+16680,Fifth Avenue,W 15th St,L
+16687,Fifth Avenue,W 17th St,L
+16688,Fifth Avenue,W 17th St,L
+16690,Fifth Avenue,W 18th St,L
+16691,Fifth Avenue,W 18th St,L
+16695,Fifth Avenue,W 19th St,L
+16696,Fifth Avenue,W 19th St,L
+16701,Fifth Avenue,W 20th St,L
+16702,Fifth Avenue,W 14th St,L
+16705,Fifth Avenue,W 15th St,L
+16706,Fifth Avenue,W 13th St,L
+16707,Greenwich Avenue,W 13th St,R
+16717,Greenwich Avenue,W 11th St,R
+16736,Greenwich Avenue,W 10th St,R
+16737,Ninth Avenue,W 23rd St,R
+16741,Ninth Avenue,W 22nd St,R
+16742,Ninth Avenue,W 22nd St,R
+16743,Ninth Avenue,W 22nd St,R
+16747,Ninth Avenue,W 21st St,R
+16748,Ninth Avenue,W 21st St,R
+16749,Ninth Avenue,W 21st St,R
+16754,Ninth Avenue,W 20th St,R
+16756,Ninth Avenue,W 20th St,R
+16757,Ninth Avenue,W 20th St,
+16758,Ninth Avenue,W 20th St,R
+16763,Ninth Avenue,W 19th St,R
+16764,Ninth Avenue,W 19th St,R
+16765,Ninth Avenue,W 19th St,R
+16771,Ninth Avenue,W 18th St,R
+16772,Ninth Avenue,W 18th St,R
+16773,Ninth Avenue,W 18th St,R
+16782,Ninth Avenue,W 17th St,R
+16783,Ninth Avenue,W 17th St,R
+16785,Ninth Avenue,W 16th St,R
+16787,Ninth Avenue,W 15th St,R
+16791,Ninth Avenue,W 22nd St,L
+16792,Ninth Avenue,W 22nd St,L
+16798,Ninth Avenue,W 21st St,L
+16799,Ninth Avenue,W 20th St,L
+16800,Ninth Avenue,W 20th St,L
+16804,Ninth Avenue,W 19th St,
+16810,Ninth Avenue,W 17th St,L
+16811,Ninth Avenue,W 16th St,L
+16812,Ninth Avenue,W 15th St,L
+16814,Ninth Avenue,W 14th St,L
+16815,Ninth Avenue,W 24th St,L
+16819,Ninth Avenue,W 23rd St,L
+16821,Ninth Avenue,Other,R
+16822,Ninth Avenue,W 21st St,R
+16827,Ninth Avenue,W 15th St,L
+16829,Ninth Avenue,W 19th St,R
+16834,Seventh Avenue,Clarkson St,L
+16836,Seventh Avenue,W 13th St,R
+16842,Seventh Avenue,W 20th St,L
+16846,Seventh Avenue,W 24th St,R
+16848,Seventh Avenue,W 22nd St,L
+16849,Seventh Avenue,W 22nd St,L
+16850,Seventh Avenue,W 22nd St,L
+16856,Seventh Avenue,W 24th St,L
+16859,SixthAvenue,W 14th St,
+16864,SixthAvenue,W 15th St,R
+16865,SixthAvenue,W 15th St,R
+16868,SixthAvenue,W 16th St,R
+16869,SixthAvenue,W 16th St,R
+16870,SixthAvenue,W 16th St,R
+16872,SixthAvenue,W 17th St,R
+16874,SixthAvenue,W 18th St,R
+16877,SixthAvenue,W 18th St,R
+16878,SixthAvenue,W 19th St,R
+16880,SixthAvenue,W 20th St,R
+16882,SixthAvenue,W 14th St,L
+16886,SixthAvenue,W 15th St,L
+16887,SixthAvenue,W 15th St,L
+16889,SixthAvenue,W 16th St,L
+16893,SixthAvenue,W 17th St,
+16894,SixthAvenue,W 17th St,L
+16895,SixthAvenue,W 17th St,L
+16899,SixthAvenue,W 18th St,L
+16900,SixthAvenue,W 18th St,L
+16901,SixthAvenue,W 19th St,L
+16902,SixthAvenue,W 19th St,L
+16903,SixthAvenue,W 19th St,
+16906,SixthAvenue,W 20th St,L
+16908,SixthAvenue,W 4th St,R
+16910,SixthAvenue,Washington Pl,R
+16912,SixthAvenue,Washington Pl,R
+16916,SixthAvenue,Waverly Pl,R
+16928,SixthAvenue,W 9th St,R
+16929,SixthAvenue,W 9th St,R
+16933,SixthAvenue,W 10th St,R
+16934,SixthAvenue,W 10th St,R
+16935,SixthAvenue,W 10th St,R
+16936,SixthAvenue,W 10th St,R
+16939,SixthAvenue,W 11th St,R
+16940,SixthAvenue,W 11th St,R
+16941,SixthAvenue,W 11th St,R
+16942,SixthAvenue,W 11th St,R
+16948,SixthAvenue,W 12th St,R
+16949,SixthAvenue,W 12th St,R
+16950,SixthAvenue,W 12th St,R
+16951,SixthAvenue,W 12th St,R
+16952,SixthAvenue,W 12th St,R
+16961,SixthAvenue,W 13th St,R
+16962,SixthAvenue,W 10th St,L
+16963,SixthAvenue,Toys,L
+16964,SixthAvenue,W 11th St,L
+16965,SixthAvenue,W 11th St,L
+16970,SixthAvenue,W 12th St,L
+16973,SixthAvenue,W 13th St,L
+16981,SixthAvenue,W 14th St,L
+16989,Tenth Avenue,W 24th St,L
+16993,Tenth Avenue,W 23rd St,L
+16995,Tenth Avenue,W 22nd St,L
+16996,Tenth Avenue,W 22nd St,
+17001,Tenth Avenue,W 19th St,L
+17003,Tenth Avenue,,L
+17004,Tenth Avenue,W 16th St,L
+17006,Tenth Avenue,W 15th St,L
+17007,Tenth Avenue,W 24th St,R
+17008,Tenth Avenue,W 23rd St,R
+17011,Tenth Avenue,W 22nd St,R
+17013,Tenth Avenue,W 21st St,R
+17015,Tenth Avenue,W 20th St,R
+17017,Tenth Avenue,W 19th St,R
+17018,Tenth Avenue,W 19th St,R
+17022,Tenth Avenue,W 18th St,R
+17023,Tenth Avenue,W 18th St,R
+17025,Tenth Avenue,W 17th St,R
+17026,Tenth Avenue,W 17th St,R
+17027,Tenth Avenue,,
+17028,Tenth Avenue,W 15th St,R
+17029,Tenth Avenue,,R
+17030,Mac Dougal Street,Bleecker St,L
+17038,Sullivan Street,Bleecker St,R
+17044,Thompson Street,Bleecker St,L
+17057,Bleeker Street,Sullivan St,R
+17069,West Broadway,Bleecker St,L
+17070,Bleeker Street,Laguardia Pl,
+17072,Bleeker Street,Sullivan St,R
+17107,Bond Street,Lafayette St,
+17111,Bowery,Broome St,L
+17119,Bowery,Kenmare St,L
+17120,Bowery,Kenmare St,L
+17121,Bowery,Kenmare St,L
+17123,Bowery,Spring St,L
+17124,Bowery,Spring St,L
+17125,Bowery,Spring St,L
+17139,Bowery,Prince St,L
+17140,Bowery,Stanton St,R
+17141,Bowery,Prince St,L
+17142,Bowery,Prince St,L
+17156,Bowery,E Houston St,
+17158,Bowery,E Houston St,L
+17165,Bowery,Bleecker St,L
+17166,Bowery,Bleecker St,L
+17167,Bowery,Bond St,
+17174,Bowery,Great Jones St,L
+17175,Bowery,Great Jones St,
+17179,Bowery,E 4th St,L
+17203,Broadway,Spring St,L
+17205,Broadway,Spring St,
+17206,Broadway,Spring St,R
+17232,Broadway,Prince St,L
+17267,Broadway,Bleecker St,R
+17268,Broadway,Bleecker St,L
+17269,Broadway,Bleecker St,L
+17270,Broadway,Bleecker St,R
+17292,Broadway,Great Jones St,R
+17293,Broadway,W 3rd St,L
+17322,Broome Street,Crosby St,R
+17335,Crosby Street,Spring St,R
+17352,Crosby Street,Jersey St,R
+17353,Crosby Street,Jersey St,R
+17358,Crosby Street,Spring St,
+17359,Crosby Street,Spring St,
+17417,Houston Street,Greene St,L
+17450,Houston Street,Greene St,L
+17459,Houston Street,Mott St,L
+17464,Houston Street,Bowery,L
+17465,Houston Street,Mott St,R
+17468,Avenue C,E Houston St,L
+17469,Lafayette Street,Kenmare St,R
+17470,Lafayette Street,Cleveland Pl,R
+17471,Lafayette Street,Cleveland Pl,R
+17472,Lafayette Street,Cleveland Pl,R
+17473,Lafayette Street,Cleveland Pl,R
+17474,Lafayette Street,Cleveland Pl,R
+17475,Lafayette Street,Cleveland Pl,R
+17476,Lafayette Street,Spring St,R
+17477,Lafayette Street,Spring St,R
+17489,Lafayette Street,Prince St,R
+17490,Lafayette Street,Prince St,R
+17503,Lafayette Street,Spring St,L
+17518,Lafayette Street,Jersey St,L
+17519,Lafayette Street,Jersey St,L
+17525,Lafayette Street,Mulberry St,
+17527,Lafayette Street,Bleecker St,R
+17533,Lafayette Street,E 4th St,L
+17536,Lafayette Street,Mulberry St,
+17539,Houston Street,Lafayette St,R
+17540,Houston Street,Lafayette St,R
+17544,Lafayette Street,Mulberry St,R
+17545,Lafayette Street,Bleecker St,L
+17549,Lafayette Street,Bond St,
+17550,Lafayette Street,Bond St,R
+17552,Lafayette Street,Great Jones St,
+17558,Mercer Street,Spring St,R
+17566,Mercer Street,Prince St,R
+17567,Mercer Street,Great Jones,R
+17568,Mercer Street,Great Jones,R
+17569,Mercer Street,Great Jones,R
+17570,Mercer Street,Great Jones,R
+17571,Mercer Street,Great Jones,R
+17572,Mercer Street,Great Jones,
+17573,Mercer Street,Great Jones,R
+17574,Mercer Street,Great Jones,R
+17575,Mercer Street,Great Jones,
+17601,Mercer Street,Great Jones,L
+17602,Mercer Street,Great Jones,L
+17603,Mercer Street,Great Jones,L
+17604,Mercer Street,Great Jones,L
+17605,Mercer Street,Great Jones,L
+17606,Mercer Street,Great Jones,
+17607,Mercer Street,Great Jones,L
+17608,Mercer Street,Great Jones,L
+17609,Mercer Street,Great Jones,L
+17610,Mercer Street,Great Jones,L
+17611,Houston Street,Great Jones,L
+17612,Mercer Street,Great Jones,R
+17613,Mercer Street,Great Jones,
+17614,Mercer Street,Great Jones,R
+17615,Mercer Street,Great Jones,R
+17623,Mott Street,Spring St,L
+17657,Mott Street,Prince St,R
+17702,Mulberry Street,Prince St,R
+17711,Mulberry Street,Kenmare St,L
+17716,Mulberry Street,Spring St,L
+17734,Mulberry Street,Prince St,L
+17755,Crosby Street,Prince St,L
+17806,Mott Street,Prince St,L
+17812,Lafayette Street,Prince St,R
+17813,Lafayette Street,Prince St,L
+17834,Wooster Street,Prince St,L
+17839,West Broadway,Prince St,L
+17856,Bleeker Street,Minetta St,R
+17858,West Broadway,Spring St,L
+17871,Spring Street,Sullivan St,L
+17878,West Broadway,Spring St,
+17882,Spring Street,Thompson St,R
+17888,Spring Street,Sullivan St,R
+17904,Greene Street,Spring St,R
+17908,Wooster Street,Spring St,R
+17925,Greene Street,Spring St,L
+17941,Bowery,Spring St,L
+17947,Elizabeth Street,Spring St,L
+17955,Mulberry Street,Spring St,R
+17963,Lafayette Street,Spring St,L
+17973,Elizabeth Street,Spring St,R
+17974,Spring Street,Elizabeth St,R
+17977,Mott Street,Spring St,R
+17984,Spring Street,Mulberry St,R
+18018,Sullivan Street,W Houston St,R
+18039,West Broadway,3/22/2010,R
+18044,West Broadway,Spring St,
+18046,West Broadway,Spring St,
+18077,West Broadway,Prince St,
+18106,West Broadway,Laguardia Pl,
+18107,West Broadway,Laguardia Pl,L
+18108,West Broadway,Laguardia Pl,L
+18109,West Broadway,Laguardia Pl,
+18110,West Broadway,Laguardia Pl,L
+18111,West Broadway,Laguardia Pl,L
+18112,West Broadway,Laguardia Pl,L
+18113,West Broadway,Bleecker St,R
+18114,Third Street,W 3rd St,L
+18115,West Broadway,Laguardia Pl,L
+18116,West Broadway,Laguardia Pl,L
+18117,West Broadway,Laguardia Pl,L
+18118,West Broadway,Laguardia Pl,L
+18119,Broadway,W 3rd St,L
+18120,West Broadway,Laguardia Pl,L
+18121,West Broadway,W 3rd St,
+18122,West Broadway,Laguardia Pl,L
+18123,West Broadway,Washington Sq S,R
+18126,Broome Street,W Broadway,R
+18141,Wooster Street,Spring St,
+18164,Houston Street,Wooster St,L
+18189,Houston Street,Wooster St,L
+18204,Bowery,Hester St,L
+18205,Bowery,Hester St,L
+18206,Bowery,Hester St,L
+18217,Bowery,Grand St,L
+18218,Bowery,Grand St,L
+18226,Bowery,Broome St,L
+18238,Broadway,Grand St,
+18252,Broadway,Broome St,
+18257,Broadway,Howard St,R
+18269,Broadway,Howard St,
+18271,Broadway,Howard St,L
+18285,Broadway,White St,R
+18291,Broadway,Walker St,R
+18302,Broadway,Leonard St,L
+18303,Broadway,Worth St,L
+18305,Broadway,Leonard St,L
+18311,Broadway,Franklin St,L
+18316,Broadway,White St,L
+18317,Broadway,White St,L
+18318,Broadway,White St,L
+18323,Broadway,Walker St,L
+18324,Broadway,Walker St,L
+18328,Broadway,Lispenard St,L
+18330,Broadway,Catherine Ln,R
+18333,Broadway,Lispenard St,L
+18336,Broome Street,Grocery,R
+18343,Broome Street,Mott St,
+18349,Broome Street,Mulberry St,R
+18353,Broome Street,Cleveland Pl,R
+18355,Broome Street,Lafayette St,R
+18395,Broome Street,Greene St,R
+18400,Broome Street,Wooster St,
+18401,Wooster Street,Broome St,L
+18423,Broome Street,Wooster St,
+18439,Canal Street,Elizabeth St,R
+18440,Canal Street,Elizabeth St,R
+18441,Canal Street,Elizabeth St,R
+18442,Canal Street,Elizabeth St,R
+18449,Canal Street,Accessories,R
+18451,Canal Street,Mott St,R
+18452,Canal Street,Mott St,R
+18454,Canal Street,Mott St,R
+18461,Canal Street,Mulberry St,R
+18462,Canal Street,Mulberry St,R
+18463,Canal Street,Mulberry St,R
+18464,Canal Street,Mulberry St,R
+18475,Canal Street,Baxter St,R
+18476,Canal Street,Accessories,R
+18477,Canal Street,Baxter St,R
+18478,Canal Street,Accessories,R
+18484,Canal Street,Centre St,R
+18485,Canal Street,Centre St,R
+18487,Canal Street,Lafayette St,R
+18488,Canal Street,Lafayette St,R
+18516,Canal Street,Mercer St,R
+18517,Canal Street,Mercer St,R
+18525,Canal Street,Greene St,R
+18532,Canal Street,Wooster St,
+18533,Canal Street,Wooster St,R
+18539,Canal Street,W Broadway,R
+18541,Bowery,Canal St,L
+18544,Canal Street,Elizabeth St,L
+18545,Canal Street,Elizabeth St,L
+18546,Canal Street,Elizabeth St,L
+18550,Canal Street,Mott St,L
+18551,Canal Street,Mott St,L
+18558,Canal Street,Mulberry St,L
+18559,Canal Street,Mulberry St,L
+18561,Canal Street,Walker St,L
+18562,Canal Street,Grocery,L
+18563,Canal Street,Walker St,L
+18564,Canal Street,Grocery,L
+18565,Canal Street,Walker St,L
+18566,Canal Street,Walker St,
+18567,Canal Street,Walker St,
+18568,Canal Street,Walker St,L
+18569,Canal Street,Walker St,
+18573,Canal Street,Centre St,L
+18574,Canal Street,Centre St,L
+18575,Canal Street,Centre St,L
+18580,Canal Street,Walker St,L
+18581,Canal Street,Lafayette St,L
+18582,Lafayette Street,Canal St,L
+18586,Canal Street,Cortlandt Aly,L
+18587,Canal Street,Cortlandt Aly,L
+18593,Canal Street,Broadway,L
+18594,Canal Street,Lispenard St,
+18620,Church Street,Worth St,R
+18621,Church Street,Leonard St,R
+18625,Church Street,Franklin St,R
+18629,Church Street,White St,R
+18630,Church Street,White St,R
+18631,Church Street,White St,R
+18635,Church Street,Walker St,R
+18636,Church Street,Walker St,R
+18640,Church Street,Lispenard St,R
+18641,Church Street,Lispenard St,R
+18642,Church Street,Lispenard St,R
+18643,Church Street,Lispenard St,R
+18646,Church Street,Reade St,L
+18647,Church Street,Reade St,L
+18651,Church Street,Duane St,L
+18656,Church Street,Thomas St,L
+18657,Church Street,Thomas St,L
+18658,Church Street,Thomas St,L
+18659,Church Street,Worth St,
+18673,Broome Street,Crosby St,L
+18683,Grand Street,Elizabeth St,R
+18692,Grand Street,Mott St,R
+18706,Lafayette Street,Grand St,L
+18708,Grand Street,Crosby St,R
+18723,Grand Street,Elizabeth St,L
+18746,Grand Street,Baxter St,L
+18767,Grand Street,Mercer St,
+18771,Grand Street,Greene St,L
+18772,Grand Street,Gallery,L
+18782,Grand Street,Greene St,L
+18802,Broome Street,Greene St,R
+18809,Greenwich Street,Hubert St,R
+18812,Greenwich Street,Beach St,R
+18813,Greenwich Street,N Moore St,R
+18815,Greenwich Street,Franklin St,R
+18816,Greenwich Street,Franklin St,R
+18820,Greenwich Street,Harrison St,R
+18821,Greenwich Street,Harrison St,R
+18824,Greenwich Street,Jay St,R
+18825,Greenwich Street,Jay St,
+18827,Greenwich Street,Duane St,R
+18828,Greenwich Street,Duane St,R
+18829,Greenwich Street,Duane St,R
+18830,Greenwich Street,Duane St,R
+18831,Greenwich Street,Duane St,R
+18832,Greenwich Street,Duane St,R
+18834,Greenwich Street,Reade St,R
+18835,Greenwich Street,Reade St,R
+18836,Greenwich Street,Reade St,R
+18841,Greenwich Street,Laight St,R
+18849,Greenwich Street,Vestry St,
+18850,Greenwich Street,Vestry St,L
+18853,Greenwich Street,Laight St,L
+18857,Greenwich Street,N Moore St,L
+18866,Greenwich Street,Harrison St,L
+18868,Greenwich Street,,L
+18897,Hudson Street,Broome St,R
+18898,Hudson Street,Dominick St,R
+18899,Hudson Street,Dominick St,R
+18900,Hudson Street,Dominick St,R
+18901,Hudson Street,Vandam St,R
+18902,Hudson Street,Spring St,R
+18903,Hudson Street,Vandam St,R
+18904,Canal Street,Hudson St,R
+18906,Hudson Street,Holland Tunnel,L
+18907,Hudson Street,Holland Tunnel,L
+18909,Hudson Street,Vandam St,L
+18910,Hudson Street,Vandam St,L
+18912,Hudson Street,Charlton St,L
+18913,Hudson Street,Spring St,
+18914,Hudson Street,Charlton St,R
+18916,Hudson Street,Harrison St,L
+18917,Canal Street,Holland Tunnel,L
+18919,Hudson Street,Vestry St,
+18921,Hudson Street,Vestry St,R
+18924,Hudson Street,Laight St,L
+18925,Hudson Street,Vestry St,R
+18930,Hudson Street,Beach St,R
+18932,Hudson Street,N Moore St,R
+18933,Hudson Street,N Moore St,L
+18937,Hudson Street,N Moore St,R
+18939,Hudson Street,Franklin St,R
+18943,Hudson Street,Leonard St,R
+18944,Hudson Street,Leonard St,R
+18948,Hudson Street,Jay St,L
+18949,Hudson Street,Jay St,L
+18950,Hudson Street,Jay St,
+18951,Hudson Street,Thomas St,R
+18952,Hudson Street,Thomas St,R
+18956,Hudson Street,Duane St,R
+18958,Hudson Street,Hubert St,L
+18963,Hudson Street,Hubert St,L
+18989,Grand Street,Mercer St,L
+18990,Mercer Street,Grand St,
+19017,Varick Street,Spring St,L
+19022,Varick Street,Broome St,L
+19025,Varick Street,Charlton St,R
+19029,Varick Street,Spring St,R
+19033,Varick Street,Watts St,R
+19036,Varick Street,Grand St,R
+19037,Varick Street,Grand St,R
+19041,Varick Street,Spring St,L
+19044,Spring Street,Holland Tunnel,
+19045,Spring Street,Holland Tunnel,L
+19046,Spring Street,Holland Tunnel,L
+19047,Spring Street,Holland Tunnel,L
+19048,Spring Street,Holland Tunnel,L
+19049,Spring Street,Holland Tunnel,L
+19050,Spring Street,Holland Tunnel,L
+19051,Greenwich Street,Holland Tunnel,R
+19052,Greenwich Street,Holland Tunnel,L
+19053,Spring Street,Holland Tunnel,L
+19054,Spring Street,Holland Tunnel,L
+19055,Spring Street,Holland Tunnel,L
+19056,Spring Street,Holland Tunnel,L
+19057,SixthAvenue,Spring St,L
+19063,Hudson Street,Spring St,
+19069,West Broadway,Reade St,
+19072,West Broadway,Duane St,L
+19073,West Broadway,Reade St,R
+19077,West Broadway,Duane St,R
+19078,West Broadway,Duane St,R
+19079,West Broadway,Duane St,L
+19080,West Broadway,Duane St,L
+19085,West Broadway,Thomas St,L
+19086,West Broadway,Thomas St,L
+19088,West Broadway,Worth St,L
+19089,West Broadway,Thomas St,L
+19090,West Broadway,Thomas St,R
+19092,West Broadway,,
+19093,West Broadway,Worth St,
+19095,West Broadway,Leonard St,L
+19098,West Broadway,Leonard St,R
+19103,West Broadway,Franklin St,L
+19104,West Broadway,White St,R
+19107,West Broadway,White St,R
+19111,West Broadway,N Moore St,L
+19116,West Broadway,Beach St,L
+19117,West Broadway,Walker St,R
+19137,West Broadway,Grand St,R
+19138,West Broadway,Grand St,L
+19153,Broome Street,Watts St,L
+19154,Broome Street,W Broadway,R
+19159,West Broadway,,L
+19163,West Broadway,Franklin St,R
+19172,Grand Street,Wooster St,L
+19186,Wooster Street,Broome St,L
+19187,Wooster Street,Broome St,
+19196,Thirteenth Street,Washington St,L
+19303,Eleventh Avenue,W 42nd St,L
+19305,Tenth Avenue,W 35th St,R
+19307,Sixth Avenue,Walker St,R
+19311,Orchard Street,Hester St,L
+19323,Research,Madison Ave,R
+19324,Madison Avenue,E 52nd St,L
+19325,St Nicholas Avenue,W 124th St,L
+19326,St Nicholas Avenue,W 124th St,R
+19335,Manhattan Avenue,W 123rd St,L
+19337,St Nicholas Avenue,W 124th St,L
+19341,St Nicholas Avenue,W 123rd St,R
+19344,St Nicholas Avenue,W 124th St,R
+19345,St Nicholas Avenue,W 124th St,R
+19353,St Nicholas Avenue,W 126th St,R
+19354,Tenth Avenue,W 21st St,L
+19356,Tenth Avenue,W 20th St,L
+19360,Seventh Avenue,W 47th St,R
+19374,23rd Street,,R
+19375,23rd Street,,R
+19376,23rd Street,,R
+19390,23rd Street,,L
+19405,181st Street,Wadsworth Ave,R
+19490,Broadway,W 148th St,R
+19491,Broadway,W 148th St,R
+19492,Broadway,W 148th St,R
+19499,Broadway,W 147th St,R
+19500,Broadway,W 147th St,
+19502,Broadway,W 146th St,R
+19503,Broadway,W 146th St,R
+19508,Broadway,W 145th St,R
+19509,Broadway,W 145th St,R
+19510,Broadway,W 145th St,R
+19515,Broadway,W 144th St,R
+19516,Broadway,W 144th St,R
+19517,Broadway,W 139th St,R
+19518,Broadway,W 139th St,R
+19519,Broadway,W 139th St,R
+19521,Broadway,W 138th St,R
+19523,Broadway,Hamilton Pl,R
+19524,Broadway,Hamilton Pl,R
+19525,Broadway,Hamilton Pl,R
+19526,Broadway,Hamilton Pl,R
+19527,Broadway,Hamilton Pl,R
+19528,Broadway,Hamilton Pl,R
+19529,Broadway,Hamilton Pl,R
+19530,Broadway,W 136th St,R
+19531,Broadway,W 148th St,L
+19532,Broadway,W 148th St,L
+19533,Broadway,W 148th St,L
+19540,Broadway,W 147th St,
+19541,Broadway,W 147th St,L
+19542,Broadway,W 147th St,L
+19543,Broadway,W 146th St,L
+19558,Broadway,W 144th St,L
+19559,Broadway,W 144th St,L
+19562,Broadway,W 139th St,L
+19563,Broadway,W 139th St,L
+19571,Broadway,W 138th St,L
+19577,Broadway,W 137th St,L
+19578,Broadway,W 137th St,L
+19584,Broadway,W 136th St,L
+19585,Broadway,W 136th St,L
+19588,Broadway,W 147th St,R
+19589,Broadway,W 147th St,R
+19592,Broadway,W 147th St,L
+19600,Broadway,W 146th St,L
+19601,Broadway,W 146th St,L
+19603,Broadway,W 137th St,L
+19611,Delancey Street,Ludlow St,L
+19612,Delancey Street,Ludlow St,L
+19619,Delancey Street,Orchard St,L
+19623,Delancey Street,Clinton St,R
+19632,Delancey Street,Suffolk St,R
+19639,Delancey Street,Norfolk St,R
+19645,Delancey Street,Essex St,R
+19651,Delancey Street,Ludlow St,R
+19652,Delancey Street,Ludlow St,R
+19659,Delancey Street,Orchard St,R
+19660,Delancey Street,Orchard St,R
+19663,Delancey Street,Orchard St,R
+19665,Dyckman Street,Nagle Ave,L
+19691,Dyckman Street,Sherman Ave,L
+19692,Dyckman Street,Sherman Ave,L
+19727,Dyckman Street,Nagle Ave,R
+19745,Dyckman Street,Post Ave,R
+19746,Dyckman Street,Post Ave,R
+19747,Dyckman Street,Post Ave,R
+19751,Dyckman Street,Sherman Ave,R
+19752,Dyckman Street,Sherman Ave,R
+19759,Dyckman Street,Vermilyea Ave,R
+19774,Dyckman Street,Vermilyea Ave,R
+19776,116th Street,Park Ave,R
+19782,116th Street,Lexington Ave,R
+19815,Second Avenue,E 116th St,L
+19816,116th Street,Park Ave,L
+19817,116th Street,Park Ave,L
+19837,116th Street,Lexington Ave,L
+19838,116th Street,Lexington Ave,L
+19839,116th Street,Lexington Ave,L
+19891,St Nicholas Avenue,W 182nd St,R
+19892,St Nicholas Avenue,W 182nd St,R
+19896,St Nicholas Avenue,W 181st St,R
+19897,St Nicholas Avenue,W 181st St,R
+19898,St Nicholas Avenue,W 181st St,R
+19899,St Nicholas Avenue,W 181st St,R
+19905,St Nicholas Avenue,W 180th St,R
+19906,St Nicholas Avenue,W 180th St,R
+19907,St Nicholas Avenue,W 180th St,R
+19912,St Nicholas Avenue,W 179th St,R
+19913,St Nicholas Avenue,W 179th St,R
+19915,St Nicholas Avenue,W 183rd St,L
+19916,St Nicholas Avenue,W 183rd St,
+19921,St Nicholas Avenue,W 182nd St,L
+19922,St Nicholas Avenue,W 182nd St,L
+19926,St Nicholas Avenue,W 181st St,L
+19929,St Nicholas Avenue,W 180th St,L
+19930,St Nicholas Avenue,W 180th St,L
+19931,St Nicholas Avenue,W 180th St,L
+19932,St Nicholas Avenue,W 180th St,L
+19933,St Nicholas Avenue,W 180th St,L
+19934,St Nicholas Avenue,W 180th St,L
+19935,St Nicholas Avenue,W 180th St,L
+19940,St Nicholas Avenue,W 179th St,L
+19941,St Nicholas Avenue,W 179th St,L
+19943,St Nicholas Avenue,W 182nd St,L
+19944,St Nicholas Avenue,W 182nd St,L
+19945,St Nicholas Avenue,W 183rd St,R
+19947,St Nicholas Avenue,W 182nd St,L
+19953,St Nicholas Avenue,W 179th St,R
+19968,Third Avenue,E 105th St,R
+19969,Third Avenue,E 105th St,R
+19975,Third Avenue,E 104th St,R
+19976,Third Avenue,E 109th St,L
+19977,Third Avenue,E 109th St,L
+19985,Third Avenue,E 108th St,L
+19986,Third Avenue,E 108th St,L
+19990,Third Avenue,E 107th St,L
+19991,Third Avenue,E 107th St,L
+20000,Third Avenue,E 106th St,L
+20001,Third Avenue,E 106th St,L
+20009,Third Avenue,E 105th St,L
+20010,Third Avenue,E 105th St,L
+20013,Third Avenue,E 104th St,L
+20014,Third Avenue,E 104th St,L
+20015,Third Avenue,E 104th St,L
+20016,Third Avenue,E 104th St,L
+20021,Third Avenue,E 103rd St,L
+20023,207th Street,Broadway,R
+20037,207th Street,Vermilyea Ave,R
+20038,207th Street,Vermilyea Ave,R
+20053,207th Street,Sherman Ave,R
+20054,207th Street,Sherman Ave,R
+20065,207th Street,Post Ave,R
+20067,207th Street,Broadway,L
+20079,207th Street,Vermilyea Ave,L
+20080,207th Street,Vermilyea Ave,L
+20081,207th Street,Vermilyea Ave,L
+20089,207th Street,Sherman Ave,L
+20103,207th Street,Post Ave,L
+20104,207th Street,Post Ave,L
+20105,207th Street,Post Ave,L
+20106,207th Street,Post Ave,L
+20112,207th Street,10th Ave,L
+20113,207th Street,Vermilyea Ave,R
+20116,207th Street,Vermilyea Ave,R
+20117,Lenox Avenue,W 133rd St,L
+20118,Lenox Avenue,W 133rd St,L
+20122,Lenox Avenue,W 134th St,L
+20123,Lenox Avenue,W 134th St,L
+20124,Lenox Avenue,W 132nd St,R
+20187,57th Street,1st Ave,L
+20211,Broadway,W 102nd St,R
+20212,Broadway,W 103rd St,R
+20216,Broadway,W 115th St,R
+20218,First Avenue,E 14th St,L
+20223,First Avenue,E 15th St,L
+20224,First Avenue,E 15th St,L
+20225,First Avenue,E 15th St,L
+20238,First Avenue,E 16th St,L
+20239,First Avenue,E 16th St,L
+20240,First Avenue,E 16th St,L
+20245,,1st Ave,
+20249,First Avenue,1st Ave Loop,R
+20252,First Avenue,E 18th St,L
+20253,First Avenue,E 18th St,L
+20258,First Avenue,E 19th St,L
+20259,First Avenue,E 19th St,L
+20261,First Avenue,,R
+20270,Broadway,W 58th St,L
+20271,Fifth Avenue,W 25th St,
+20275,Second Avenue,E 74th St,L
+20276,Bowery,Bleecker St,L
+20277,Bowery,E 1st St,R
+20280,Canal Street,Holland Tunnel,L
+20282,Tenth Avenue,Little West 12th St,R
+20283,Tenth Avenue,,R
+20284,Tenth Avenue,,R
+20289,Tenth Avenue,W 24th St,L
+20293,Tenth Avenue,W 25th St,L
+20294,Tenth Avenue,W 24th St,R
+20295,Tenth Avenue,W 24th St,R
+20301,Tenth Avenue,W 25th St,R
+20302,Tenth Avenue,W 25th St,R
+20304,Tenth Avenue,W 26th St,R
+20305,Tenth Avenue,W 27th St,R
+20310,Tenth Avenue,W 27th St,L
+20311,Tenth Avenue,W 27th St,L
+20315,Tenth Avenue,W 28th St,L
+20316,Tenth Avenue,W 28th St,L
+20324,Canal Street,Greenwich St,R
+20333,Greenwich Street,Holland Tunnel,R
+20334,Canal Street,W Broadway,R
+20346,Canal Street,Thompson St,R
+20347,Canal Street,Laight St,L
+20348,Canal Street,Laight St,L
+20355,Canal Street,Renwick St,R
+20356,Canal Street,Renwick St,R
+20357,Canal Street,Holland Tunnel,L
+20358,Canal Street,Watts St,L
+20359,Canal Street,Renwick St,R
+20360,Canal Street,Renwick St,R
+20361,Canal Street,Holland Tunnel,L
+20362,Canal Street,Holland Tunnel,L
+20363,Canal Street,Holland Tunnel,L
+20364,Canal Street,Holland Tunnel,L
+20369,Canal Street,Holland Tunnel,
+20375,Broadway,W 166th St,R
+20376,Broadway,W 165th St,L
+20377,Broadway,W 165th St,L
+20379,Broadway,St Nicholas Ave,R
+20380,Broadway,W 167th St,R
+20382,Broadway,W 168th St,L
+20383,Broadway,W 168th St,L
+20388,Broadway,St Nicholas Ave,R
+20389,Broadway,St Nicholas Ave,R
+20390,Broadway,St Nicholas Ave,R
+20391,Broadway,St Nicholas Ave,R
+20392,Broadway,St Nicholas Ave,R
+20393,Broadway,St Nicholas Ave,R
+20394,Broadway,St Nicholas Ave,R
+20395,Broadway,St Nicholas Ave,R
+20396,Broadway,St Nicholas Ave,R
+20397,Broadway,W 169th St,L
+20398,Broadway,W 169th St,L
+20399,Broadway,W 169th St,L
+20405,Broadway,W 170th St,L
+20406,Broadway,W 170th St,L
+20407,Broadway,W 170th St,R
+20408,Broadway,St Nicholas Ave,R
+20410,Broadway,W 171st St,R
+20411,Broadway,W 170th St,L
+20412,Broadway,W 170th St,L
+20418,Broadway,W 171st St,L
+20419,Broadway,W 171st St,L
+20420,Broadway,W 171st St,R
+20421,Broadway,W 171st St,R
+20422,Broadway,W 171st St,R
+20427,Broadway,W 171st St,L
+20431,Broadway,W 172nd St,L
+20432,Broadway,W 172nd St,L
+20433,Broadway,W 173rd St,R
+20446,Greenwich Street,Holland Tunnel,L
+20449,Greenwich Street,Charlton St,R
+20450,Rockefeller Plaza,W 49th St,L
+20486,Chambers Street,Cosmetics: Cosmetic Stores,R
+20531,Elizabeth Street,Spring St,R
+20544,22nd Street,,
+20559,22nd Street,,R
+20569,Eleventh Avenue,W 21st St,R
+20580,21st Street,,R
+20584,Tenth Avenue,,R
+20589,Tenth Avenue,W 33rd St,R
+20590,Tenth Avenue,W 34th St,R
+20591,Tenth Avenue,W 34th St,L
+20592,Tenth Avenue,W 33rd St,L
+20593,Tenth Avenue,W 34th St,R
+20596,Tenth Avenue,W 35th St,R
+20597,Tenth Avenue,W 35th St,R
+20601,Tenth Avenue,W 34th St,L
+20603,Tenth Avenue,W 35th St,L
+20604,Tenth Avenue,W 35th St,L
+20605,Tenth Avenue,W 36th St,L
+20606,Tenth Avenue,W 36th St,L
+20609,Tenth Avenue,W 37th St,L
+20610,Tenth Avenue,Lincoln Tunnel,R
+20612,Tenth Avenue,,L
+20614,Tenth Avenue,W 40th St,L
+20615,Tenth Avenue,W 41st St,L
+20616,Tenth Avenue,W 41st St,
+20618,Tenth Avenue,W 43rd St,R
+20619,Tenth Avenue,W 42nd St,L
+20624,Tenth Avenue,W 43rd St,L
+20625,Tenth Avenue,W 43rd St,R
+20629,Tenth Avenue,W 44th St,R
+20630,Tenth Avenue,W 44th St,L
+20631,Tenth Avenue,W 44th St,L
+20632,Tenth Avenue,W 43rd St,L
+20633,Tenth Avenue,W 43rd St,L
+20636,Tenth Avenue,W 44th St,R
+20643,Tenth Avenue,W 45th St,R
+20645,Tenth Avenue,W 45th St,R
+20653,Tenth Avenue,W 46th St,R
+20654,Tenth Avenue,W 45th St,L
+20655,Tenth Avenue,W 45th St,L
+20659,Tenth Avenue,W 46th St,L
+20660,Tenth Avenue,5/10/2007,R
+20661,Tenth Avenue,W 46th St,R
+20669,Tenth Avenue,W 47th St,R
+20670,Tenth Avenue,W 47th St,R
+20672,Tenth Avenue,W 46th St,L
+20673,Tenth Avenue,W 46th St,L
+20676,Tenth Avenue,W 47th St,L
+20677,Tenth Avenue,W 47th St,L
+20678,Tenth Avenue,W 47th St,L
+20679,Tenth Avenue,W 47th St,L
+20680,Tenth Avenue,W 47th St,L
+20687,Tenth Avenue,W 48th St,L
+20688,Tenth Avenue,W 48th St,R
+20689,Tenth Avenue,W 48th St,R
+20690,Tenth Avenue,W 48th St,R
+20698,Tenth Avenue,W 49th St,R
+20699,Tenth Avenue,W 49th St,L
+20701,Tenth Avenue,W 49th St,R
+20702,Tenth Avenue,W 49th St,R
+20703,Tenth Avenue,W 49th St,R
+20707,Tenth Avenue,W 50th St,R
+20708,Tenth Avenue,W 50th St,R
+20709,Tenth Avenue,W 50th St,R
+20710,Tenth Avenue,W 50th St,R
+20716,Tenth Avenue,W 51st St,R
+20717,Tenth Avenue,W 50th St,L
+20719,Tenth Avenue,W 51st St,L
+20720,Tenth Avenue,W 51st St,L
+20721,Tenth Avenue,W 51st St,R
+20722,Tenth Avenue,W 51st St,R
+20732,Tenth Avenue,W 52nd St,R
+20733,Tenth Avenue,W 51st St,L
+20736,Tenth Avenue,W 52nd St,L
+20737,Tenth Avenue,W 52nd St,R
+20739,Tenth Avenue,W 53rd St,
+20741,Tenth Avenue,W 52nd St,L
+20743,Tenth Avenue,W 53rd St,L
+20744,Tenth Avenue,W 53rd St,L
+20745,Tenth Avenue,W 54th St,R
+20753,Tenth Avenue,W 55th St,R
+20754,Tenth Avenue,W 54th St,L
+20758,Tenth Avenue,W 55th St,L
+20759,Tenth Avenue,W 55th St,R
+20761,Tenth Avenue,W 55th St,L
+20763,Tenth Avenue,W 56th St,R
+20764,Tenth Avenue,W 56th St,R
+20775,Tenth Avenue,W 58th St,R
+20785,Tenth Avenue,W 58th St,L
+20787,Tenth Avenue,Amsterdam Ave,R
+20789,Tenth Avenue,W 59th St,L
+20790,Tenth Avenue,W 60th St,L
+20791,Tenth Avenue,Amsterdam Ave,L
+20792,Tenth Avenue,Amsterdam Ave,R
+20793,Chambers Street,,R
+20810,Amsterdam Avenue,W 92nd St,R
+20892,Tenth Avenue,11th Ave,L
+20897,Ninth Avenue,W 24th St,L
+20898,Ninth Avenue,W 24th St,L
+20899,Ninth Avenue,W 24th St,L
+20906,Ninth Avenue,W 25th St,L
+20907,Ninth Avenue,W 25th St,L
+20908,Ninth Avenue,W 24th St,R
+20913,Ninth Avenue,W 25th St,R
+20914,Eighth Avenue,W 30th St,
+20920,Varick Street,Carmine St,R
+20924,West Broadway,Lispenard St,R
+20925,West Broadway,,L
+20926,West Broadway,Reade St,R
+20934,Lafayette Street,Mulberry St,
+20945,Columbus Avenue,W 60th St,L
+20948,Columbus Avenue,W 59th St,L
+20957,Eighth Avenue,W 13th St,L
+20962,Broadway,W 29th St,L
+20964,Broadway,W 47th St,R
+20967,SixthAvenue,W 56th St,L
+20980,Broadway,Franklin St,
+20985,Mulberry Street,Jersey St,L
+20988,SixthAvenue,W 20th St,L
+20997,Third Avenue,E 86th St,L
+21007,Madison Avenue,E 85th St,
+21010,Madison Avenue,E 91st St,
+21012,Lexington Avenue,E 21st St,L
+21027,Lexington Avenue,E 24th St,R
+21028,Lexington Avenue,E 24th St,
+21037,Lexington Avenue,E 25th St,R
+21061,Lexington Avenue,E 28th St,L
+21070,Lexington Avenue,E 28th St,L
+21071,Lexington Avenue,E 28th St,
+21072,Lexington Avenue,Restaurant,L
+21077,Lexington Avenue,E 29th St,L
+21078,Lexington Avenue,E 28th St,R
+21098,Lexington Avenue,E 41st St,L
+21100,Lexington Avenue,E 50th St,R
+21111,Lexington Avenue,E 60th St,
+21113,Lexington Avenue,E 61st St,Lft
+21119,Lexington Avenue,E 61st St,Rt
+21128,Lexington Avenue,E 62nd St,Rt
+21131,Lexington Avenue,E 62nd St,Lft
+21135,Lexington Avenue,E 64th St,Rt
+21145,Lexington Avenue,E 65th St,Lft
+21146,Lexington Avenue,E 65th St,L
+21149,Lexington Avenue,E 70th St,Lft
+21154,Lexington Avenue,E 70th St,Rt
+21160,Essex Street,,L
+21161,Essex Street,Stanton St,L
+21163,Essex Street,Stanton St,L
+21173,Essex Street,Rivington St,
+21177,Essex Street,Rivington St,L
+21178,Essex Street,Rivington St,L
+21189,Delancey Street,Essex St,L
+21193,Essex Street,Grand St,L
+21211,Essex Street,Hester St,L
+21213,Essex Street,Hester St,L
+21214,Essex Street,Hester St,L
+21222,Essex Street,Canal St,L
+21257,Stanton Street,Ludlow St,L
+21280,Stanton Street,Norfolk St,L
+21308,Eighth Avenue,W 16th St,L
+21316,Attorney Street,Stanton St,
+21343,Fifth Avenue,W 49th St,
+21344,Third Avenue,E 22nd St,
+21349,Third Avenue,E 56th St,L
+21351,Third Avenue,E 45th St,R
+21378,Grand Street,Grocery,R
+21417,Grand Street,Ludlow St,L
+21418,Grand Street,Orchard St,R
+21435,Grand Street,Quick Service Restaurant,L
+21464,Grand Street,Pitt St,R
+21469,Grand Street,Pitt St,R
+21471,Grand Street,E Broadway,L
+21497,Forsyth Street,Hester St,R
+21498,Forsyth Street,,R
+21514,Forsyth Street,Broome St,R
+21577,Broome Street,Home Improvement,L
+21581,Broome Street,Caf??,R
+21615,Broome Street,Ludlow St,R
+21631,Mercer Street,W 4th St,L
+21655,West Broadway,Laguardia Pl,
+21656,West Broadway,Laguardia Pl,L
+21657,West Broadway,Laguardia Pl,L
+21658,West Broadway,Laguardia Pl,L
+21659,West Broadway,Laguardia Pl,L
+21660,West Broadway,Laguardia Pl,L
+21661,West Broadway,Laguardia Pl,L
+21662,West Broadway,Laguardia Pl,L
+21663,West Broadway,Laguardia Pl,L
+21664,West Broadway,Laguardia Pl,L
+21665,West Broadway,Laguardia Pl,L
+21666,West Broadway,W 3rd St,L
+21669,Second Avenue,,R
+21678,First Avenue,E 79th St,L
+21689,Grand Street,Thompson St,L
+21734,Lafayette Street,Howard St,L
+21806,14th Street,Other,R
+21807,14th Street,,
+21808,14th Street,,L
+21809,14th Street,Washington St,L
+21824,14th Street,,
+21825,14th Street,,L
+21833,Bleeker Street,Carmine St,L
+21839,Bleeker Street,Morton St,L
+21840,Bleeker Street,Morton St,L
+21847,Bleeker Street,Barrow St,L
+21848,Bleeker Street,Barrow St,L
+21855,Bleeker Street,Grove St,L
+21856,Bleeker Street,Grove St,L
+21862,Bleeker Street,Christopher St,L
+21863,Bleeker Street,Christopher St,L
+21869,Bleeker Street,W 10th St,L
+21873,Bleeker Street,Charles St,L
+21881,Bleeker Street,Perry St,L
+21903,Bleeker Street,Cornelia St,R
+21915,Bleeker Street,Jones St,R
+21938,Bleeker Street,W 10th St,R
+21941,Bleeker Street,W 10th St,R
+21956,Bleeker Street,Perry St,
+21971,Bleeker Street,Christopher St,L
+22000,Seventh Avenue,Christopher St,L
+22014,Christopher Street,Other,R
+22017,Christopher Street,11/11/2015,R
+22035,Seventh Avenue,Christopher St,L
+22065,Eighth Avenue,Horatio St,R
+22073,Eighth Avenue,Jane St,R
+22074,Eighth Avenue,Jane St,R
+22078,Eighth Avenue,W 12th St,R
+22079,Eighth Avenue,W 12th St,R
+22087,Eighth Avenue,Horatio St,L
+22088,Eighth Avenue,W 4th St,L
+22089,Eighth Avenue,W 4th St,L
+22090,Eighth Avenue,W 4th St,L
+22093,Eighth Avenue,Jane St,L
+22127,Gansevoort Street,9th Ave,R
+22128,Greenwich Avenue,Horatio St,L
+22132,Greenwich Avenue,Jane St,L
+22133,Greenwich Avenue,Jane St,L
+22134,Greenwich Avenue,Jane St,L
+22135,Greenwich Avenue,Jane St,L
+22137,Greenwich Avenue,W 12th St,L
+22138,Greenwich Avenue,W 12th St,L
+22140,Greenwich Avenue,Bank St,L
+22141,Greenwich Avenue,Bank St,L
+22142,Greenwich Avenue,Bank St,L
+22143,Greenwich Avenue,Bank St,L
+22149,Greenwich Avenue,Perry St,L
+22150,Greenwich Avenue,Perry St,L
+22159,Greenwich Avenue,Charles St,L
+22160,Greenwich Avenue,Charles St,L
+22166,Greenwich Avenue,W 10th St,L
+22167,Greenwich Avenue,W 10th St,L
+22168,Greenwich Avenue,W 10th St,L
+22169,Greenwich Avenue,W 10th St,L
+22175,Greenwich Avenue,Christopher St,L
+22178,Greenwich Street,Horatio St,L
+22179,Greenwich Street,Horatio St,L
+22180,Greenwich Street,W 11th St,L
+22182,Greenwich Street,Perry St,L
+22183,Greenwich Street,Charles St,L
+22187,Greenwich Street,Christopher St,L
+22189,Greenwich Street,Barrow St,L
+22193,Greenwich Street,Jane St,R
+22196,Greenwich Street,W 11th St,R
+22197,Greenwich Street,Perry St,R
+22198,Greenwich Street,Christopher St,R
+22199,Hudson Street,Charlton St,R
+22202,Hudson Street,King St,R
+22203,Hudson Street,King St,R
+22204,Hudson Street,Leroy St,R
+22205,Hudson Street,Leroy St,R
+22207,Hudson Street,Morton St,R
+22208,Hudson Street,Morton St,R
+22209,Hudson Street,Morton St,R
+22210,Hudson Street,Morton St,R
+22215,Hudson Street,Barrow St,R
+22216,Hudson Street,Charlton St,L
+22220,Hudson Street,W Houston St,L
+22221,Hudson Street,Clarkson St,L
+22222,Hudson Street,Leroy St,L
+22223,Hudson Street,Morton St,L
+22224,Hudson Street,Christopher St,R
+22232,Hudson Street,W 10th St,R
+22235,Hudson Street,W 10th St,
+22236,Hudson Street,Charles St,R
+22240,Hudson Street,Perry St,R
+22241,Hudson Street,Perry St,R
+22242,Hudson Street,Perry St,R
+22247,Hudson Street,W 11th St,R
+22249,Hudson Street,Christopher St,L
+22252,Hudson Street,W 10th St,L
+22253,Hudson Street,W 10th St,L
+22259,Hudson Street,Charles St,L
+22260,Hudson Street,Charles St,L
+22265,Hudson Street,Perry St,L
+22266,Hudson Street,Perry St,L
+22267,Hudson Street,Perry St,L
+22268,Hudson Street,Perry St,L
+22273,Hudson Street,W 11th St,L
+22274,Hudson Street,W 11th St,L
+22275,Hudson Street,W 11th St,L
+22280,Hudson Street,Bank St,L
+22281,Hudson Street,Bank St,L
+22282,Hudson Street,Horatio St,L
+22290,Gansevoort Street,Hudson St,R
+22292,Hudson Street,Jane St,R
+22293,Hudson Street,Jane St,R
+22298,Hudson Street,Horatio St,R
+22299,Hudson Street,Horatio St,R
+22300,Hudson Street,Horatio St,
+22302,Hudson Street,Bank St,L
+22303,Hudson Street,Bethune St,L
+22307,Hudson Street,W 12th St,
+22308,Hudson Street,W 12th St,L
+22313,Hudson Street,Jane St,L
+22314,Hudson Street,Jane St,L
+22317,Hudson Street,W 10th St,L
+22318,Hudson Street,Christopher St,R
+22319,Hudson Street,Christopher St,R
+22323,Greenwich Street,Washington St,R
+22324,Hudson Street,Barrow St,R
+22331,12th Street,Washington St,
+22332,Ninth Avenue,Gansevoort St,L
+22339,Ninth Avenue,Hudson St,R
+22341,Ninth Avenue,W 13th St,R
+22343,14th Street,9th Ave,L
+22345,Ninth Avenue,W 13th St,L
+22348,Ninth Avenue,Little West 12th St,
+22349,Ninth Avenue,Little West 12th St,L
+22355,Ninth Avenue,Gansevoort St,L
+22360,Varick Street,Charlton St,L
+22362,Varick Street,Charlton St,L
+22363,Varick Street,Downing St,R
+22364,Varick Street,W Houston St,R
+22365,Varick Street,W Houston St,R
+22366,Varick Street,W Houston St,R
+22370,Varick Street,King St,R
+22371,Varick Street,King St,R
+22373,Varick Street,Charlton St,R
+22374,Seventh Avenue,W 11th St,L
+22377,Seventh Avenue,Waverly Pl,L
+22378,Seventh Avenue,Waverly Pl,L
+22379,Seventh Avenue,Perry St,L
+22384,Seventh Avenue,Charles St,L
+22385,Seventh Avenue,Charles St,L
+22386,Seventh Avenue,Charles St,L
+22387,Seventh Avenue,Charles St,
+22389,Seventh Avenue,W 10th St,L
+22390,Seventh Avenue,W 4th St,L
+22391,Seventh Avenue,W 4th St,L
+22392,Seventh Avenue,W 4th St,L
+22393,Seventh Avenue,Christopher St,L
+22394,Seventh Avenue,Grove St,L
+22395,Seventh Avenue,Grove St,L
+22398,Seventh Avenue,Grove St,L
+22401,Seventh Avenue,Bleecker St,L
+22402,Seventh Avenue,Barrow St,L
+22403,Seventh Avenue,Commerce St,L
+22406,Seventh Avenue,Morton St,L
+22407,Varick Street,Clarkson St,L
+22409,Varick Street,W Houston St,L
+22410,Seventh Avenue,Perry St,R
+22414,Seventh Avenue,Barrow St,R
+22417,Varick Street,W Houston St,L
+22418,Seventh Avenue,Grove St,L
+22419,Seventh Avenue,Grove St,L
+22420,Seventh Avenue,Perry St,R
+22421,Seventh Avenue,Perry St,R
+22424,Seventh Avenue,Waverly Pl,R
+22425,Seventh Avenue,Charles St,R
+22426,Seventh Avenue,Charles St,R
+22430,Seventh Avenue,W 10th St,R
+22431,Seventh Avenue,W 10th St,R
+22434,Seventh Avenue,Christopher St,R
+22435,Seventh Avenue,Grove St,R
+22436,Seventh Avenue,Grove St,R
+22440,Seventh Avenue,Barrow St,R
+22441,Seventh Avenue,Barrow St,
+22442,Seventh Avenue,Barrow St,
+22443,Seventh Avenue,Bleecker St,R
+22445,Seventh Avenue,Bleecker St,R
+22447,Seventh Avenue,Morton St,R
+22448,Seventh Avenue,Morton St,R
+22450,Seventh Avenue,Leroy St,R
+22451,Seventh Avenue,Leroy St,R
+22454,Varick Street,Carmine St,R
+22455,Varick Street,Carmine St,R
+22456,Varick Street,Carmine St,R
+22458,Varick Street,Downing St,R
+22459,Varick Street,Downing St,R
+22460,Seventh Avenue,W 11th St,L
+22468,SixthAvenue,Bedford St,L
+22470,SixthAvenue,Downing St,L
+22471,SixthAvenue,Carmine St,L
+22472,SixthAvenue,Carmine St,L
+22489,SixthAvenue,Cornelia St,L
+22490,SixthAvenue,Cornelia St,L
+22491,SixthAvenue,W 4th St,L
+22497,SixthAvenue,Washington Pl,L
+22501,SixthAvenue,Waverly Pl,L
+22502,SixthAvenue,Waverly Pl,L
+22503,SixthAvenue,Waverly Pl,L
+22514,Tenth Avenue,W 14th St,R
+22521,Washington Street,W 13th St,R
+22523,Washington Street,Little West 12th St,R
+22532,Washington Street,Horatio St,R
+22534,Washington Street,W 12th St,R
+22535,Washington Street,W 12th St,R
+22536,Washington Street,Bethune St,R
+22537,Washington Street,Bank St,R
+22539,12th Street,,L
+22540,Washington Street,,L
+22541,Washington Street,,L
+22543,Washington Street,Horatio St,L
+22558,34th Street,Queens Midtown Tunnel Exit,R
+22559,34th Street,Queens Midtown Tunnel Exit,R
+22638,34th Street,I-495 E,R
+22645,First Avenue,E 28th St,
+22646,Fifth Avenue,E 27th St,R
+22650,Fifth Avenue,E 28th St,R
+22651,Fifth Avenue,E 28th St,R
+22656,Fifth Avenue,E 29th St,R
+22662,Fifth Avenue,E 30th St,R
+22663,Fifth Avenue,E 30th St,R
+22665,Fifth Avenue,E 31st St,R
+22666,Fifth Avenue,E 31st St,R
+22667,Fifth Avenue,E 31st St,
+22672,Fifth Avenue,E 32nd St,R
+22673,Fifth Avenue,E 32nd St,R
+22675,Fifth Avenue,E 33rd St,R
+22676,Fifth Avenue,E 33rd St,R
+22677,Fifth Avenue,E 33rd St,R
+22684,Fifth Avenue,E 29th St,R
+22685,Fifth Avenue,E 35th St,R
+22693,Fifth Avenue,E 36th St,R
+22694,Fifth Avenue,E 36th St,R
+22698,Fifth Avenue,E 37th St,R
+22699,Fifth Avenue,E 37th St,R
+22703,Fifth Avenue,E 38th St,R
+22704,Fifth Avenue,E 38th St,R
+22709,Fifth Avenue,E 39th St,R
+22714,Fifth Avenue,E 32nd St,
+22719,First Avenue,1st Ave Loop,R
+22728,Lexington Avenue,E 39th St,R
+22734,Lexington Avenue,E 38th St,R
+22740,Lexington Avenue,10/25/2007,R
+22754,Lexington Avenue,E 33rd St,L
+22757,Lexington Avenue,E 32nd St,L
+22758,Lexington Avenue,E 32nd St,L
+22765,Lexington Avenue,E 31st St,L
+22766,Lexington Avenue,E 31st St,L
+22767,Lexington Avenue,E 31st St,L
+22773,Lexington Avenue,E 30th St,L
+22774,Lexington Avenue,E 30th St,L
+22775,Lexington Avenue,E 40th St,L
+22782,Lexington Avenue,E 39th St,L
+22783,Lexington Avenue,E 39th St,L
+22784,Lexington Avenue,E 39th St,L
+22790,Lexington Avenue,E 37th St,L
+22801,Lexington Avenue,E 33rd St,L
+22803,Lexington Avenue,E 38th St,L
+22805,Lexington Avenue,E 32nd St,R
+22806,Lexington Avenue,E 32nd St,R
+22808,Lexington Avenue,E 31st St,R
+22809,Lexington Avenue,E 31st St,R
+22825,Madison Avenue,E 33rd St,R
+22828,Madison Avenue,E 34th St,R
+22840,Madison Avenue,E 38th St,R
+22843,Madison Avenue,E 39th St,R
+22849,Madison Avenue,E 35th St,R
+22855,Madison Avenue,E 28th St,L
+22856,Madison Avenue,E 27th St,L
+22858,Madison Avenue,E 30th St,L
+22861,Madison Avenue,E 31st St,L
+22863,Madison Avenue,E 32nd St,L
+22864,Madison Avenue,E 32nd St,L
+22866,Madison Avenue,E 33rd St,L
+22869,Madison Avenue,E 35th St,L
+22871,Madison Avenue,E 36th St,L
+22874,Madison Avenue,E 37th St,L
+22875,Madison Avenue,E 37th St,L
+22876,Madison Avenue,E 37th St,L
+22879,Madison Avenue,E 39th St,L
+22881,Madison Avenue,E 40th St,L
+22882,Madison Avenue,E 29th St,L
+22885,Park Avenue,E 32nd St,R
+22887,Park Avenue,E 33rd St,
+22896,Park Avenue,E 37th St,R
+22899,Park Avenue,E 38th St,R
+22907,Park Avenue,E 32nd St,L
+22913,Park Avenue,E 33rd St,L
+22914,Park Avenue,E 33rd St,L
+22918,Park Avenue,E 34th St,L
+22928,Park Avenue,E 37th St,L
+22931,Park Avenue,E 39th St,L
+22933,Park Avenue,E 40th St,L
+22934,Park Avenue,E 30th St,R
+22939,Park Avenue,E 31st St,R
+22940,Park Avenue,E 31st St,R
+22943,Park Avenue,E 32nd St,R
+22944,Park Avenue,E 27th St,L
+22946,Lexington Avenue,E 27th St,L
+22947,Park Avenue,E 28th St,L
+22952,Park Avenue,E 29th St,
+22953,Park Avenue,E 29th St,L
+22954,Park Avenue,E 29th St,L
+22959,Park Avenue,E 30th St,L
+22960,Park Avenue,E 30th St,L
+22961,Park Avenue,E 30th St,
+22966,Park Avenue,E 31st St,L
+22967,Park Avenue,E 31st St,L
+22986,Park Avenue,E 29th St,R
+22993,Park Avenue,E 32nd St,L
+22996,Park Avenue,E 34th St,R
+23003,Second Avenue,E 29th St,R
+23007,Second Avenue,E 30th St,R
+23008,Second Avenue,E 30th St,R
+23014,Second Avenue,E 33rd St,R
+23017,Second Avenue,E 34th St,R
+23021,Second Avenue,E 38th St,R
+23022,Second Avenue,E 38th St,R
+23036,Second Avenue,E 28th St,L
+23041,Second Avenue,E 29th St,L
+23044,Second Avenue,E 30th St,L
+23051,Second Avenue,E 31st St,L
+23052,Second Avenue,E 31st St,L
+23060,Second Avenue,E 32nd St,L
+23061,Second Avenue,E 32nd St,L
+23063,Second Avenue,E 33rd St,L
+23064,Second Avenue,E 33rd St,L
+23081,Second Avenue,E 35th St,L
+23082,Second Avenue,E 35th St,L
+23090,Second Avenue,E 36th St,L
+23096,Second Avenue,E 38th St,L
+23097,Second Avenue,E 38th St,L
+23106,Second Avenue,E 39th St,L
+23107,Second Avenue,E 39th St,L
+23111,Second Avenue,E 40th St,L
+23118,Second Avenue,,R
+23120,Third Avenue,E 38th St,R
+23126,Third Avenue,E 39th St,R
+23128,Third Avenue,E 40th St,R
+23134,Third Avenue,E 39th St,L
+23135,Third Avenue,E 39th St,L
+23136,Third Avenue,E 39th St,L
+23141,Third Avenue,E 27th St,R
+23147,Third Avenue,E 28th St,R
+23148,Third Avenue,E 28th St,R
+23155,Third Avenue,E 29th St,R
+23156,Third Avenue,E 29th St,R
+23161,Third Avenue,E 30th St,R
+23162,Third Avenue,E 30th St,R
+23167,Third Avenue,E 31st St,R
+23168,Third Avenue,E 31st St,R
+23169,Third Avenue,E 31st St,R
+23171,Third Avenue,E 32nd St,R
+23177,Third Avenue,E 33rd St,R
+23178,Third Avenue,E 33rd St,R
+23179,Third Avenue,E 33rd St,R
+23186,Third Avenue,E 34th St,R
+23195,Third Avenue,E 35th St,R
+23206,Third Avenue,E 36th St,R
+23212,Third Avenue,E 37th St,R
+23213,Third Avenue,E 37th St,R
+23218,Third Avenue,E 26th St,L
+23226,Third Avenue,E 27th St,L
+23227,Third Avenue,E 27th St,L
+23228,Third Avenue,E 27th St,L
+23235,Third Avenue,E 28th St,L
+23242,Third Avenue,E 29th St,L
+23247,Third Avenue,E 30th St,L
+23248,Third Avenue,E 30th St,L
+23256,Third Avenue,E 31st St,L
+23262,Third Avenue,E 32nd St,L
+23263,Third Avenue,E 32nd St,L
+23264,Third Avenue,E 32nd St,L
+23272,Third Avenue,E 33rd St,L
+23273,Third Avenue,E 33rd St,L
+23274,Third Avenue,E 33rd St,L
+23283,Third Avenue,E 35th St,L
+23287,Third Avenue,E 36th St,L
+23288,Third Avenue,E 36th St,L
+23293,Third Avenue,E 37th St,L
+23294,Third Avenue,E 37th St,L
+23299,Third Avenue,E 38th St,L
+23300,Third Avenue,E 38th St,R
+23301,Third Avenue,E 37th St,
+23303,Third Avenue,E 32nd St,R
+23318,42nd Street,Lexington Ave,L
+23324,42nd Street,Park Ave,L
+23336,42nd Street,Madison Ave,L
+23372,Fifth Avenue,E 47th St,R
+23377,Fifth Avenue,E 48th St,R
+23382,Fifth Avenue,E 49th St,R
+23384,Fifth Avenue,E 40th St,R
+23388,Fifth Avenue,E 41st St,R
+23389,Fifth Avenue,E 41st St,R
+23398,Fifth Avenue,E 42nd St,R
+23399,Fifth Avenue,E 43rd St,R
+23400,Tenth Avenue,W 47th St,L
+23402,Fifth Avenue,E 44th St,R
+23407,Fifth Avenue,E 45th St,R
+23408,Fifth Avenue,E 45th St,
+23409,Fifth Avenue,E 45th St,R
+23412,Fifth Avenue,E 46th St,R
+23413,Fifth Avenue,E 46th St,
+23416,Fifth Avenue,E 47th St,
+23417,Eighth Avenue,W 41st St,L
+23422,First Avenue,E 49th St,L
+23423,First Avenue,E 49th St,L
+23430,Lexington Avenue,E 40th St,R
+23434,Lexington Avenue,E 41st St,L
+23435,Lexington Avenue,E 41st St,L
+23440,Lexington Avenue,E 40th St,L
+23447,Lexington Avenue,E 44th St,R
+23453,Lexington Avenue,E 45th St,R
+23454,Lexington Avenue,E 45th St,R
+23464,Lexington Avenue,E 46th St,R
+23469,Lexington Avenue,E 47th St,R
+23478,Lexington Avenue,E 48th St,R
+23498,Lexington Avenue,E 46th St,L
+23501,Lexington Avenue,E 47th St,L
+23506,Lexington Avenue,E 48th St,L
+23508,47th Street,Lexington Ave,L
+23515,Madison Avenue,E 42nd St,R
+23517,Madison Avenue,E 43rd St,
+23520,Madison Avenue,E 44th St,R
+23522,Madison Avenue,E 45th St,R
+23523,Madison Avenue,E 45th St,R
+23530,Madison Avenue,E 46th St,R
+23532,Madison Avenue,E 47th St,
+23537,Madison Avenue,E 49th St,R
+23538,Madison Avenue,E 40th St,R
+23545,Madison Avenue,E 41st St,R
+23546,Madison Avenue,E 41st St,
+23548,Madison Avenue,E 41st St,R
+23555,Madison Avenue,E 43rd St,L
+23556,Madison Avenue,E 43rd St,L
+23560,Madison Avenue,E 44th St,L
+23561,Madison Avenue,E 45th St,L
+23563,Madison Avenue,E 46th St,L
+23564,Madison Avenue,E 47th St,L
+23565,Madison Avenue,E 47th St,L
+23570,Madison Avenue,E 48th St,L
+23574,Madison Avenue,E 49th St,L
+23575,Madison Avenue,E 49th St,L
+23579,Madison Avenue,E 50th St,L
+23581,Madison Avenue,E 41st St,L
+23584,Madison Avenue,E 48th St,L
+23589,Park Avenue,E 40th St,L
+23592,Park Avenue,E 41st St,L
+23595,Park Avenue,E 46th St,L
+23610,Park Avenue,E 46th St,R
+23611,Park Avenue,E 48th St,R
+23614,Park Avenue,E 47th St,R
+23615,Park Avenue,E 48th St,
+23617,Second Avenue,E 40th St,R
+23618,Second Avenue,E 41st St,R
+23619,Second Avenue,E 41st St,R
+23621,Second Avenue,E 42nd St,R
+23622,Second Avenue,E 42nd St,R
+23627,Second Avenue,E 43rd St,R
+23628,Second Avenue,E 43rd St,R
+23629,Second Avenue,E 43rd St,R
+23633,Second Avenue,E 44th St,R
+23634,Second Avenue,E 44th St,R
+23638,Second Avenue,E 45th St,R
+23639,Second Avenue,E 45th St,R
+23642,Second Avenue,E 46th St,R
+23643,Second Avenue,E 46th St,R
+23644,Second Avenue,,R
+23645,Second Avenue,E 47th St,R
+23653,Second Avenue,E 48th St,R
+23654,Second Avenue,E 48th St,R
+23660,Second Avenue,E 49th St,R
+23661,Second Avenue,E 40th St,L
+23663,Second Avenue,E 41st St,L
+23668,Second Avenue,E 43rd St,L
+23673,Second Avenue,E 44th St,L
+23674,Second Avenue,E 44th St,L
+23675,Second Avenue,E 44th St,L
+23680,Second Avenue,E 45th St,L
+23681,Second Avenue,E 45th St,L
+23693,Second Avenue,E 46th St,L
+23695,Second Avenue,E 48th St,L
+23703,Second Avenue,E 49th St,L
+23708,Second Avenue,E 43rd St,R
+23712,Second Avenue,E 44th St,R
+23714,Third Avenue,E 42nd St,R
+23715,Third Avenue,E 43rd St,R
+23716,Third Avenue,E 43rd St,R
+23723,Third Avenue,E 44th St,R
+23725,Third Avenue,E 45th St,R
+23726,Third Avenue,E 45th St,R
+23727,Third Avenue,E 45th St,
+23731,Third Avenue,E 46th St,R
+23733,Third Avenue,E 47th St,R
+23734,Third Avenue,E 47th St,R
+23737,Third Avenue,E 48th St,R
+23740,Third Avenue,E 49th St,R
+23742,Third Avenue,E 43rd St,L
+23743,Third Avenue,E 43rd St,L
+23744,Third Avenue,E 43rd St,L
+23749,Third Avenue,E 44th St,L
+23751,Third Avenue,E 44th St,L
+23752,Third Avenue,E 44th St,L
+23757,Third Avenue,E 45th St,L
+23758,Third Avenue,E 45th St,L
+23759,Third Avenue,E 45th St,L
+23760,Third Avenue,E 46th St,L
+23763,Third Avenue,E 47th St,L
+23764,Third Avenue,E 47th St,L
+23769,Third Avenue,E 48th St,L
+23771,Third Avenue,E 48th St,L
+23774,Third Avenue,E 48th St,L
+23775,Third Avenue,E 40th St,R
+23777,Third Avenue,E 41st St,R
+23782,Third Avenue,,L
+23783,Third Avenue,E 41st St,
+23784,Third Avenue,,L
+23786,Third Avenue,E 41st St,L
+23790,Third Avenue,E 47th St,L
+23804,Madison,E 46th St,R
+23806,Vanderbilt Avenue,Park Ave,R
+23813,Vanderbilt Avenue,Park Ave,R
+23814,Vanderbilt Avenue,Park Ave,R
+23815,Vanderbilt Avenue,E 45th St,L
+23820,Seventh Avenue,W 36th St,R
+23821,Seventh Avenue,W 35th St,L
+23822,Seventh Avenue,W 35th St,L
+23826,Seventh Avenue,W 36th St,L
+23828,Seventh Avenue,W 36th St,L
+23829,Seventh Avenue,W 36th St,R
+23833,Seventh Avenue,W 38th St,R
+23838,Seventh Avenue,W 40th St,R
+23843,Seventh Avenue,W 41st St,R
+23844,Seventh Avenue,W 36th St,L
+23847,Seventh Avenue,W 37th St,L
+23848,Seventh Avenue,W 37th St,L
+23853,Seventh Avenue,W 38th St,L
+23854,Seventh Avenue,W 38th St,L
+23860,Seventh Avenue,W 39th St,
+23861,Seventh Avenue,W 39th St,L
+23863,Seventh Avenue,W 40th St,L
+23864,Seventh Avenue,W 40th St,L
+23865,Seventh Avenue,W 40th St,L
+23866,Seventh Avenue,W 40th St,L
+23868,Seventh Avenue,W 39th St,L
+23869,Seventh Avenue,W 41st St,L
+23870,Seventh Avenue,W 41st St,L
+23871,Seventh Avenue,W 41st St,L
+23872,42nd Street,W 40th St,R
+23873,Broadway,W 35th St,R
+23874,Broadway,W 35th St,
+23877,Broadway,W 36th St,R
+23880,Broadway,W 37th St,R
+23885,Broadway,W 38th St,R
+23887,Broadway,W 38th St,R
+23889,Broadway,W 39th St,R
+23892,Broadway,W 39th St,R
+23897,Broadway,W 40th St,R
+23898,Broadway,W 40th St,R
+23902,Broadway,W 41st St,R
+23903,Broadway,W 35th St,
+23906,Broadway,W 36th St,L
+23907,Broadway,W 36th St,L
+23908,Broadway,W 36th St,L
+23912,Broadway,W 37th St,L
+23913,Broadway,W 37th St,L
+23914,Broadway,W 37th St,L
+23915,Broadway,W 37th St,
+23917,Broadway,W 37th St,L
+23923,Broadway,W 38th St,L
+23924,Broadway,W 38th St,L
+23928,Broadway,W 39th St,L
+23929,Broadway,W 38th St,L
+23930,Broadway,W 39th St,L
+23931,Broadway,W 39th St,L
+23933,Broadway,W 40th St,L
+23934,Broadway,W 40th St,L
+23940,Broadway,W 41st St,L
+23942,Broadway,W 38th St,
+23943,Broadway,W 40th St,R
+23947,Eighth Avenue,W 40th St,R
+23954,Eighth Avenue,W 39th St,L
+23955,Eighth Avenue,W 40th St,R
+23957,Eighth Avenue,W 39th St,R
+23958,Eighth Avenue,W 36th St,L
+23961,Eighth Avenue,W 36th St,R
+23964,Eighth Avenue,W 35th St,R
+23965,Eighth Avenue,W 39th St,R
+23966,Eighth Avenue,W 39th St,R
+23970,Eighth Avenue,W 38th St,R
+23971,Eighth Avenue,W 38th St,R
+23972,Eighth Avenue,W 38th St,R
+23973,Eighth Avenue,W 38th St,R
+23974,Eighth Avenue,W 39th St,L
+23975,Eighth Avenue,W 39th St,L
+23980,Eighth Avenue,W 38th St,L
+23981,Eighth Avenue,W 38th St,R
+23987,Eighth Avenue,W 37th St,R
+23988,Eighth Avenue,W 37th St,R
+23989,Eighth Avenue,W 38th St,L
+23994,Eighth Avenue,W 37th St,L
+23995,Eighth Avenue,W 37th St,L
+23996,Eighth Avenue,W 37th St,R
+23997,Eighth Avenue,W 37th St,
+24001,Eighth Avenue,W 36th St,R
+24002,Eighth Avenue,W 36th St,R
+24003,Eighth Avenue,W 37th St,L
+24005,Eighth Avenue,W 38th St,L
+24011,Eighth Avenue,W 36th St,L
+24012,Eighth Avenue,W 36th St,
+24013,Eighth Avenue,W 36th St,L
+24016,Eighth Avenue,W 41st St,R
+24019,Eighth Avenue,W 40th St,R
+24020,Fifth Avenue,W 35th St,L
+24027,Fifth Avenue,W 36th St,L
+24031,Fifth Avenue,W 37th St,L
+24036,Fifth Avenue,W 40th St,L
+24037,Ninth Avenue,W 40th St,L
+24038,Ninth Avenue,W 40th St,L
+24039,Ninth Avenue,PORT AUTHORITY Bus Terminal,L
+24040,Ninth Avenue,,L
+24041,Seventh Avenue,W 35th St,R
+24042,Seventh Avenue,W 36th St,L
+24048,Seventh Avenue,W 37th St,R
+24052,Seventh Avenue,W 36th St,L
+24054,Seventh Avenue,W 38th St,L
+24055,Seventh Avenue,W 38th St,L
+24057,SixthAvenue,W 35th St,R
+24062,SixthAvenue,W 36th St,
+24063,SixthAvenue,W 36th St,R
+24064,SixthAvenue,W 36th St,R
+24065,SixthAvenue,W 36th St,R
+24070,SixthAvenue,W 37th St,R
+24071,SixthAvenue,W 37th St,R
+24072,SixthAvenue,W 37th St,R
+24073,SixthAvenue,W 37th St,
+24076,SixthAvenue,W 38th St,R
+24079,SixthAvenue,W 38th St,R
+24080,SixthAvenue,W 38th St,R
+24082,SixthAvenue,W 38th St,R
+24086,SixthAvenue,W 39th St,R
+24090,SixthAvenue,W 39th St,R
+24091,SixthAvenue,W 39th St,R
+24096,SixthAvenue,W 35th St,L
+24102,Sixth Avenue,W 36th St,L
+24103,SixthAvenue,W 36th St,L
+24107,SixthAvenue,W 37th St,L
+24108,SixthAvenue,W 37th St,L
+24109,SixthAvenue,W 37th St,L
+24114,SixthAvenue,W 38th St,L
+24115,SixthAvenue,W 38th St,L
+24118,SixthAvenue,W 38th St,L
+24119,SixthAvenue,W 39th St,L
+24120,SixthAvenue,W 39th St,L
+24124,SixthAvenue,W 40th St,L
+24127,SixthAvenue,W 41st St,L
+24128,SixthAvenue,,R
+24130,SixthAvenue,W 39th St,L
+24136,Seventh Avenue,W 49th St,
+24137,Seventh Avenue,W 50th St,R
+24139,Seventh Avenue,W 51st St,R
+24140,Seventh Avenue,W 52nd St,R
+24141,Seventh Avenue,W 52nd St,
+24146,Seventh Avenue,W 54th St,R
+24147,Seventh Avenue,W 54th St,R
+24148,Seventh Avenue,W 54th St,R
+24152,Seventh Avenue,W 55th St,R
+24153,Seventh Avenue,W 55th St,R
+24154,Seventh Avenue,W 55th St,R
+24161,Seventh Avenue,W 49th St,L
+24162,Seventh Avenue,W 49th St,L
+24163,Seventh Avenue,W 49th St,L
+24164,Seventh Avenue,W 49th St,L
+24168,Seventh Avenue,W 50th St,L
+24169,Seventh Avenue,W 51st St,L
+24170,Seventh Avenue,W 52nd St,L
+24172,Seventh Avenue,W 53rd St,L
+24173,Seventh Avenue,W 53rd St,L
+24174,Seventh Avenue,W 53rd St,L
+24179,Seventh Avenue,W 54th St,L
+24180,Seventh Avenue,W 54th St,L
+24181,Seventh Avenue,W 54th St,L
+24186,Seventh Avenue,W 55th St,L
+24187,Seventh Avenue,W 55th St,L
+24188,Seventh Avenue,W 55th St,L
+24260,Seventh Avenue,W 57th St,L
+24414,Broadway,W 48th St,R
+24416,Broadway,W 49th St,R
+24417,Broadway,W 49th St,R
+24420,Broadway,W 50th St,R
+24421,Broadway,W 50th St,R
+24422,Broadway,W 50th St,R
+24426,Broadway,W 51st St,R
+24430,Broadway,W 52nd St,R
+24435,Broadway,W 49th St,L
+24436,Broadway,W 49th St,L
+24439,Broadway,W 50th St,L
+24443,Broadway,W 51st St,L
+24448,Broadway,W 52nd St,L
+24450,Broadway,W 52nd St,R
+24454,Broadway,W 53rd St,R
+24455,Broadway,W 53rd St,R
+24457,Broadway,W 54th St,R
+24460,Broadway,W 56th St,R
+24464,Broadway,W 57th St,
+24466,Broadway,W 57th St,
+24468,Broadway,W 58th St,R
+24469,Broadway,W 58th St,R
+24473,Broadway,Columbus Cir,R
+24474,Broadway,Central Park S,R
+24478,Broadway,W 53rd St,L
+24485,Broadway,W 54th St,L
+24486,Broadway,W 54th St,
+24490,Broadway,W 55th St,L
+24491,Broadway,W 56th St,L
+24494,Broadway,W 57th St,L
+24498,Broadway,W 58th St,
+24499,Broadway,W 58th St,
+24500,Broadway,Columbus Cir,L
+24503,Broadway,W 54th St,R
+24506,Broadway,W 54th St,R
+24508,Broadway,W 60th St,L
+24509,Columbus Circle,W 60th St,L
+24510,Columbus Circle,W 60th St,L
+24511,Columbus Circle,W 60th St,L
+24512,Columbus Circle,W 60th St,L
+24513,Eighth Avenue,W 54th St,R
+24517,Eighth Avenue,W 55th St,R
+24518,Eighth Avenue,W 55th St,R
+24519,Eighth Avenue,W 55th St,R
+24525,Eighth Avenue,W 56th St,R
+24526,Eighth Avenue,W 56th St,
+24531,Eighth Avenue,W 54th St,L
+24532,Eighth Avenue,W 54th St,L
+24537,Eighth Avenue,W 55th St,L
+24538,Eighth Avenue,W 55th St,L
+24539,Eighth Avenue,W 55th St,L
+24540,Eighth Avenue,W 55th St,L
+24541,Eighth Avenue,W 55th St,L
+24545,Eighth Avenue,W 56th St,L
+24546,Eighth Avenue,W 56th St,L
+24547,Eighth Avenue,W 56th St,L
+24548,Eighth Avenue,W 57th St,L
+24549,Eighth Avenue,W 57th St,L
+24550,Eighth Avenue,W 57th St,L
+24552,Eighth Avenue,W 58th St,L
+24553,Broadway,W 58th St,
+24555,Eighth Avenue,W 54th St,R
+24556,Eighth Avenue,W 53rd St,R
+24557,Eighth Avenue,W 53rd St,R
+24561,Eighth Avenue,W 53rd St,L
+24562,Eighth Avenue,W 52nd St,R
+24563,Eighth Avenue,W 52nd St,R
+24564,Eighth Avenue,W 52nd St,R
+24569,Eighth Avenue,W 51st St,R
+24570,Eighth Avenue,W 51st St,R
+24571,Eighth Avenue,W 51st St,R
+24576,Eighth Avenue,W 50th St,R
+24577,Eighth Avenue,W 50th St,R
+24578,Eighth Avenue,W 50th St,R
+24583,Eighth Avenue,W 54th St,L
+24584,Eighth Avenue,W 54th St,L
+24587,Eighth Avenue,W 53rd St,L
+24588,Eighth Avenue,W 53rd St,L
+24594,Eighth Avenue,W 52nd St,L
+24595,Eighth Avenue,W 52nd St,L
+24596,Eighth Avenue,W 52nd St,L
+24598,Eighth Avenue,W 51st St,
+24599,Eighth Avenue,W 50th St,L
+24600,Eighth Avenue,W 50th St,L
+24602,Eighth Avenue,W 49th St,L
+24603,Eighth Avenue,W 49th St,L
+24604,Eighth Avenue,W 49th St,L
+24605,Eighth Avenue,W 49th St,L
+24611,Eighth Avenue,W 48th St,L
+24612,Eighth Avenue,W 48th St,L
+24614,Broadway,W 58th St,L
+24616,Fifth Avenue,W 51st St,L
+24619,Fifth Avenue,W 52nd St,L
+24620,Fifth Avenue,W 52nd St,L
+24621,Fifth Avenue,W 53rd St,L
+24623,Fifth Avenue,W 54th St,
+24627,Fifth Avenue,W 55th St,
+24629,Fifth Avenue,W 56th St,L
+24630,Fifth Avenue,W 56th St,L
+24634,Fifth Avenue,W 57th St,L
+24641,Ninth Avenue,W 48th St,R
+24642,Ninth Avenue,W 48th St,R
+24650,Ninth Avenue,W 49th St,R
+24651,Ninth Avenue,W 49th St,R
+24652,Ninth Avenue,W 49th St,R
+24656,Ninth Avenue,W 50th St,R
+24657,Ninth Avenue,W 50th St,R
+24658,Ninth Avenue,W 50th St,R
+24659,Ninth Avenue,W 50th St,R
+24665,Ninth Avenue,W 51st St,R
+24666,Ninth Avenue,W 51st St,R
+24667,Ninth Avenue,W 51st St,R
+24668,Ninth Avenue,W 51st St,R
+24674,Ninth Avenue,W 52nd St,R
+24675,Ninth Avenue,W 52nd St,R
+24676,Ninth Avenue,W 52nd St,R
+24683,Ninth Avenue,W 53rd St,R
+24684,Ninth Avenue,W 53rd St,R
+24685,Ninth Avenue,W 53rd St,R
+24686,Ninth Avenue,W 53rd St,R
+24688,Ninth Avenue,W 54th St,R
+24694,Ninth Avenue,W 55th St,R
+24695,Ninth Avenue,W 55th St,R
+24702,Ninth Avenue,W 56th St,R
+24703,Ninth Avenue,W 56th St,R
+24712,Ninth Avenue,W 48th St,L
+24718,Ninth Avenue,W 49th St,L
+24719,Ninth Avenue,W 49th St,L
+24720,Ninth Avenue,W 49th St,L
+24724,Ninth Avenue,W 50th St,L
+24725,Ninth Avenue,W 50th St,L
+24726,Ninth Avenue,W 50th St,L
+24731,Ninth Avenue,W 51st St,L
+24732,Ninth Avenue,W 51st St,L
+24733,Ninth Avenue,W 51st St,L
+24739,Ninth Avenue,W 52nd St,L
+24740,Ninth Avenue,W 52nd St,L
+24746,Ninth Avenue,W 53rd St,L
+24747,Ninth Avenue,W 53rd St,L
+24748,Ninth Avenue,W 53rd St,L
+24755,Ninth Avenue,W 54th St,L
+24756,Ninth Avenue,W 54th St,L
+24757,Ninth Avenue,W 54th St,L
+24763,Ninth Avenue,W 55th St,L
+24764,Ninth Avenue,W 55th St,L
+24769,Ninth Avenue,W 56th St,L
+24770,Ninth Avenue,W 56th St,L
+24771,Tenth Avenue,W 53rd St,L
+24774,Ninth Avenue,W 57th St,L
+24782,Ninth Avenue,W 58th St,L
+24783,Ninth Avenue,W 58th St,L
+24792,Seventh Avenue,W 48th St,R
+24793,Seventh Avenue,W 53rd St,R
+24795,Seventh Avenue,W 54th St,R
+24798,Seventh Avenue,W 55th St,R
+24802,Seventh Avenue,W 56th St,R
+24803,Seventh Avenue,W 56th St,R
+24805,Seventh Avenue,W 50th St,L
+24806,Seventh Avenue,W 51st St,L
+24808,Seventh Avenue,W 52nd St,L
+24811,Seventh Avenue,W 56th St,
+24812,Seventh Avenue,W 56th St,L
+24817,SixthAvenue,W 51st St,R
+24820,SixthAvenue,W 52nd St,
+24825,SixthAvenue,W 54th St,R
+24829,SixthAvenue,W 55th St,R
+24832,SixthAvenue,W 56th St,R
+24833,SixthAvenue,W 56th St,R
+24840,SixthAvenue,W 57th St,R
+24844,SixthAvenue,W 58th St,R
+24845,SixthAvenue,W 58th St,R
+24849,SixthAvenue,W 54th St,L
+24850,SixthAvenue,W 55th St,L
+24851,SixthAvenue,W 55th St,L
+24852,SixthAvenue,W 55th St,L
+24859,SixthAvenue,W 56th St,L
+24860,SixthAvenue,W 56th St,L
+24864,SixthAvenue,W 57th St,L
+24865,SixthAvenue,W 57th St,L
+24869,SixthAvenue,W 58th St,L
+24870,SixthAvenue,W 58th St,L
+24874,SixthAvenue,W 53rd St,L
+24875,SixthAvenue,W 53rd St,R
+24876,Rockefeller Plaza,W 49th St,L
+24881,Fifth Avenue,W 49th St,
+24882,Fifth Avenue,W 49th St,L
+24883,Fifth Avenue,W 50th St,L
+24884,Fifth Avenue,W 50th St,L
+24885,Fifth Avenue,W 51st St,L
+24886,Fifth Avenue,W 48th St,L
+24888,Fifth Avenue,W 49th St,L
+24897,Rockefeller Plaza,W 49th St,R
+24900,50th Street,,L
+24909,Rockefeller Plaza,W 49th St,L
+24910,Rockefeller Plaza,W 49th St,L
+24911,Rockefeller Plaza,W 49th St,L
+24914,51st Street,W 50th St,R
+24922,SixthAvenue,W 50th St,R
+24927,SixthAvenue,W 50th St,L
+24929,SixthAvenue,W 51st St,L
+24934,SixthAvenue,W 48th St,L
+24935,SixthAvenue,W 49th St,L
+24942,First Avenue,E 61st St,R
+24946,First Avenue,E 62nd St,R
+24947,First Avenue,E 62nd St,R
+24948,First Avenue,E 62nd St,R
+24956,First Avenue,E 63rd St,R
+24957,First Avenue,E 63rd St,R
+24958,First Avenue,E 63rd St,R
+24959,First Avenue,E 63rd St,R
+24965,First Avenue,E 64th St,R
+24966,First Avenue,E 64th St,R
+24967,First Avenue,E 64th St,R
+24968,First Avenue,E 64th St,R
+24974,First Avenue,E 65th St,R
+24976,First Avenue,E 66th St,R
+24979,First Avenue,E 60th St,L
+24990,First Avenue,E 61st St,L
+24991,First Avenue,E 61st St,L
+24992,First Avenue,E 61st St,
+24995,First Avenue,E 62nd St,
+25001,First Avenue,E 63rd St,L
+25002,First Avenue,E 63rd St,L
+25003,First Avenue,E 63rd St,L
+25006,First Avenue,E 64th St,L
+25007,First Avenue,E 64th St,L
+25012,First Avenue,E 65th St,L
+25013,First Avenue,E 65th St,L
+25021,First Avenue,E 66th St,
+25022,First Avenue,E 66th St,L
+25023,First Avenue,E 66th St,L
+25024,First Avenue,E 66th St,L
+25025,First Avenue,E 66th St,L
+25031,First Avenue,E 67th St,L
+25032,First Avenue,E 67th St,
+25033,First Avenue,E 67th St,L
+25035,First Avenue,E 68th St,R
+25041,First Avenue,E 69th St,R
+25059,63rd Street,,L
+25075,62nd Street,,R
+25121,60th Street,,R
+25132,Park Avenue,Union Sq E,
+25147,125th Street,5th Ave,R
+25162,125th Street,Park Ave,L
+25167,125th Street,Madison Ave,L
+25168,125th Street,Madison Ave,L
+25174,125th Street,Park Ave,L
+25196,125th Street,Lexington Ave,R
+25237,Delancey Street,Suffolk St,L
+25238,Columbus Avenue,W 93rd St,R
+25241,SixthAvenue,Carmine St,L
+25242,SixthAvenue,Carmine St,L
+25243,SixthAvenue,Carmine St,L
+25244,SixthAvenue,Carmine St,L
+25245,SixthAvenue,Milligan Pl,L
+25253,SixthAvenue,W 38th St,
+25259,SixthAvenue,W 56th St,L
+25267,Clinton Street,E Houston St,
+25280,Clinton Street,Stanton St,L
+25292,Clinton Street,Rivington St,L
+25321,Clinton Street,Rivington St,R
+25370,Rivington Street,Eldridge St,R
+25404,Rivington Street,Ludlow St,L
+25437,Rivington Street,Norfolk St,R
+25455,Rivington Street,,R
+25459,Rivington Street,Misc Service,R
+25549,Allen Street,Stanton St,L
+25565,Allen Street,Stanton St,R
+25581,Allen Street,Stanton St,R
+25634,Allen Street,Broome St,L
+25650,Allen Street,Broome St,R
+25655,Allen Street,Grand St,R
+25656,Allen Street,Grand St,
+25670,Allen Street,Hester St,L
+25684,Allen Street,Hester St,R
+25697,Allen Street,E Houston St,
+25761,Eldridge Street,Broome St,R
+25771,Eldridge Street,Grand St,R
+25788,Eldridge Street,Grand St,R
+25808,Ludlow Street,E Houston St,L
+25902,Ludlow Street,Hester St,L
+25903,Ludlow Street,Hester St,
+25939,Jay Street,Staple St,R
+25954,First Avenue,E 29th St,L
+25955,First Avenue,E 28th St,L
+25961,Second Avenue,E 24th St,L
+26029,Second Avenue,E 10th St,L
+26030,Second Avenue,E 10th St,L
+26037,Lexington Avenue,E 91st St,R
+26100,Second Avenue,E 110th St,L
+26101,Second Avenue,E 110th St,L
+26110,Second Avenue,E 109th St,L
+26111,Second Avenue,E 110th St,R
+26119,Second Avenue,E 109th St,R
+26120,Second Avenue,E 109th St,R
+26121,Second Avenue,E 109th St,R
+26130,Second Avenue,E 106th St,L
+26138,Second Avenue,E 105th St,R
+26144,Second Avenue,E 105th St,L
+26148,Second Avenue,E 105th St,R
+26149,Second Avenue,E 105th St,R
+26156,Second Avenue,E 104th St,R
+26157,Second Avenue,E 104th St,R
+26167,Second Avenue,E 103rd St,R
+26168,Second Avenue,E 97th St,L
+26171,West Broadway,Leonard St,L
+26175,Greenwich Street,Murray St,R
+26180,Greenwich Street,Murray St,L
+26184,Greenwich Street,Warren St,L
+26197,Third Avenue,E 110th St,L
+26198,Third Avenue,E 110th St,L
+26206,Third Avenue,E 109th St,L
+26207,Third Avenue,E 110th St,R
+26214,Third Avenue,E 109th St,R
+26228,SixthAvenue,W 38th St,L
+26236,Madison Avenue,E 53rd St,L
+26241,207th Street,Post Ave,R
+26251,First Avenue,E 50th St,L
+26254,York Avenue,E 84th St,R
+26256,York Avenue,E 85th St,L
+26265,York Avenue,E 84th St,L
+26266,York Avenue,E 84th St,L
+26267,York Avenue,E 83rd St,L
+26268,York Avenue,E 83rd St,R
+26269,York Avenue,E 86th St,R
+26276,York Avenue,E 85th St,R
+26277,York Avenue,E 85th St,R
+26283,York Avenue,E 85th St,L
+26284,Third Avenue,Other,L
+26285,Third Avenue,E 63rd St,
+26290,Hudson Street,Franklin St,R
+26291,Hudson Street,Duane St,L
+26314,Broadway,W 26th St,L
+26334,Beach Street,Collister St,R
+26336,Ericsson Place,Beach St,L
+26337,Ericsson Place,Beach St,L
+26338,Ericsson Place,Beach St,L
+26342,West Broadway,Beach St,L
+26344,59th Street,Central Park S,L
+26345,59th Street,Central Park S,L
+26346,59th Street,Central Park S,L
+26347,59th Street,Central Park S,L
+26348,59th Street,Central Park S,L
+26349,59th Street,Central Park S,L
+26350,59th Street,Central Park S,L
+26351,59th Street,Central Park S,L
+26352,59th Street,Central Park S,L
+26353,59th Street,Central Park S,L
+26354,59th Street,Central Park S,L
+26355,59th Street,Central Park S,L
+26356,59th Street,Central Park S,L
+26357,59th Street,Central Park S,L
+26358,59th Street,5th Ave,L
+26412,59th Street,,L
+26488,SixthAvenue,W 43rd St,L
+26489,SixthAvenue,W 43rd St,R
+26490,SixthAvenue,W 43rd St,R
+26491,SixthAvenue,W 43rd St,R
+26492,Madison Avenue,E 97th St,L
+26499,First Avenue,E 64th St,L
+26511,Canal Street,Mulberry St,L
+26514,SixthAvenue,Downing St,
+26515,SixthAvenue,Downing St,
+26529,Broadway,W 143rd St,L
+26530,Broadway,W 144th St,R
+26540,Broadway,W 142nd St,L
+26541,Broadway,W 142nd St,L
+26542,Broadway,W 143rd St,R
+26543,Broadway,W 143rd St,R
+26544,Broadway,W 143rd St,R
+26551,Broadway,W 142nd St,R
+26552,Broadway,W 142nd St,R
+26554,Broadway,W 142nd St,R
+26562,Broadway,W 141st St,R
+26563,Broadway,W 141st St,R
+26564,Broadway,W 141st St,R
+26572,Broadway,W 140th St,R
+26573,Broadway,W 140th St,R
+26574,Broadway,W 142nd St,L
+26575,Broadway,W 142nd St,L
+26583,Broadway,W 141st St,L
+26592,Broadway,W 140th St,R
+26593,Broadway,W 140th St,R
+26602,Broadway,W 147th St,R
+26603,Broadway,W 149th St,L
+26604,Broadway,W 149th St,L
+26613,Broadway,W 150th St,L
+26614,Broadway,W 150th St,L
+26616,Broadway,W 149th St,R
+26617,Broadway,W 149th St,R
+26621,Broadway,W 149th St,L
+26622,Broadway,W 148th St,L
+26632,Broadway,W 149th St,R
+26633,Broadway,W 139th St,L
+26640,Broadway,W 140th St,L
+26642,Broadway,Hamilton Pl,R
+26647,SixthAvenue,Prince St,R
+26654,Washington Street,,L
+26655,Washington Street,,L
+26820,Great Jones Street,Great Jones Aly,R
+26868,Hudson Street,Christopher St,L
+26870,Lafayette Street,Broome St,
+26872,4th Street,W 11th St,R
+26875,Christopher Street,Home Furnishings,R
+26903,Park Avenue,E 19th St,
+26909,Lexington Avenue,E 19th St,L
+26985,Madison Avenue,E 52nd St,L
+26987,4th Street,Jones St,L
+26990,First Avenue,E 2nd St,R
+26991,First Avenue,E 2nd St,R
+27000,Lafayette Street,Jersey St,R
+27008,Second Avenue,E 85th St,L
+27020,Hudson Street,W 10th St,L
+27032,Wooster Street,Grand St,L
+27054,25th Street,Gallery,L
+27062,Eleventh Avenue,W 24th St,R
+27087,Eleventh Avenue,W 19th St,R
+27095,23rd Street,10th Ave,L
+27097,Broadway,W 162nd St,L
+27103,Broadway,W 161st St,L
+27104,Broadway,W 161st St,L
+27105,Broadway,W 161st St,L
+27112,Broadway,W 160th St,L
+27113,Broadway,W 160th St,L
+27114,Broadway,W 160th St,L
+27120,Broadway,Fort Washington Ave,L
+27121,Broadway,Fort Washington Ave,L
+27122,Broadway,Fort Washington Ave,L
+27129,Broadway,W 158th St,L
+27130,Broadway,W 158th St,L
+27131,Broadway,W 158th St,L
+27140,Broadway,W 157th St,L
+27141,Broadway,W 157th St,L
+27142,Broadway,W 157th St,L
+27143,Broadway,Edward M Morgan Pl,L
+27144,Broadway,Edward M Morgan Pl,L
+27145,Broadway,Edward M Morgan Pl,L
+27146,Broadway,Edward M Morgan Pl,L
+27147,Broadway,W 156th St,L
+27149,Broadway,W 162nd St,R
+27159,Broadway,W 161st St,R
+27160,Broadway,Grocery,R
+27161,Broadway,W 161st St,R
+27170,Broadway,W 160th St,R
+27171,Broadway,W 160th St,R
+27175,Broadway,W 159th St,
+27176,Broadway,W 159th St,R
+27177,Broadway,W 159th St,R
+27184,Broadway,W 158th St,R
+27185,Broadway,W 158th St,R
+27190,Broadway,W 157th St,R
+27191,Broadway,W 157th St,R
+27192,Broadway,W 157th St,R
+27200,Broadway,W 156th St,R
+27201,Broadway,W 156th St,R
+27247,Broadway,W 44th St,L
+27255,144th Street,W 44th St,R
+27352,Broadway,W 47th St,L
+27372,Broadway,W 48th St,L
+27422,Madison Avenue,E 36th St,L
+27424,SixthAvenue,W 39th St,L
+27427,SixthAvenue,W 22nd St,L
+27430,SixthAvenue,W 42nd St,
+27448,125th Street,Old Broadway,R
+27472,Amsterdam Avenue,W 125th St,R
+27518,Orchard Street,Allen St,R
+27520,Allen Street,Rivington St,R
+27522,York Avenue,E 88th St,L
+27527,York Avenue,E 87th St,L
+27531,York Avenue,E 89th St,R
+27533,York Avenue,E 88th St,R
+27538,Maiden Lane,Liberty St,L
+27574,Seventh Avenue,Morton St,R
+27600,Carmine Street,Bedford St,R
+27612,Bedford Street,Morton St,R
+27620,Bedford Street,Downing St,L
+27626,Houston Street,Bedford St,R
+27627,Houston Street,Bedford St,R
+27628,Houston Street,Bedford St,R
+27629,Houston Street,Bedford St,R
+27630,Bedford Street,Downing St,L
+27674,Amsterdam Avenue,W 123rd St,L
+27685,Broadway,W 121st St,R
+27691,Amsterdam Avenue,W 123rd St,L
+27696,Amsterdam Avenue,W 122nd St,L
+27698,Amsterdam Avenue,W 122nd St,L
+27701,Amsterdam Avenue,W 121st St,L
+27702,Amsterdam Avenue,W 121st St,L
+27705,Amsterdam Avenue,W 114th St,L
+27706,Amsterdam Avenue,W 114th St,L
+27709,Amsterdam Avenue,W 111th St,L
+27713,Amsterdam Avenue,W 110th St,L
+27716,Amsterdam Avenue,W 121st St,R
+27720,Amsterdam Avenue,W 120th St,R
+27721,Amsterdam Avenue,W 120th St,R
+27726,Amsterdam Avenue,W 119th St,R
+27728,Amsterdam Avenue,W 118th St,R
+27735,Broadway,Cross Bronx Expy,L
+27736,Broadway,W 178th St,L
+27738,Broadway,W 177th St,L
+27739,Broadway,W 177th St,L
+27740,Broadway,W 177th St,L
+27742,Broadway,W 176th St,L
+27743,Broadway,W 178th St,R
+27745,Broadway,W 177th St,R
+27746,St Nicholas Avenue,Cross Bronx Expy,L
+27747,St Nicholas Avenue,Cross Bronx Expy,L
+27751,St Nicholas Avenue,W 177th St,L
+27752,St Nicholas Avenue,Cross Bronx Expy,R
+27753,St Nicholas Avenue,Cross Bronx Expy,R
+27754,St Nicholas Avenue,W 178th St,R
+27757,St Nicholas Avenue,W 177th St,R
+27760,St Nicholas Avenue,W 176th St,L
+27761,St Nicholas Avenue,W 177th St,R
+27764,St Nicholas Avenue,W 176th St,R
+27778,Lexington Avenue,E 103rd St,L
+27779,Lexington Avenue,E 103rd St,
+27780,Lexington Avenue,E 103rd St,L
+27784,Lexington Avenue,E 102nd St,L
+27790,Lexington Avenue,E 101st St,L
+27795,Lexington Avenue,E 100th St,L
+27801,Lexington Avenue,E 105th St,R
+27802,Lexington Avenue,E 105th St,R
+27810,Lexington Avenue,E 104th St,R
+27811,Lexington Avenue,E 104th St,R
+27816,Lexington Avenue,E 103rd St,R
+27817,Lexington Avenue,E 103rd St,R
+27825,Lexington Avenue,E 102nd St,R
+27828,Lexington Avenue,E 101st St,R
+27829,Lexington Avenue,E 101st St,R
+27839,Lexington Avenue,E 100th St,R
+27914,Eighth Avenue,W 41st St,R
+27930,Tenth Avenue,,
+27931,Tenth Avenue,,
+27934,Amsterdam Avenue,W 85th St,R
+27935,Amsterdam Avenue,W 82nd St,R
+27936,Broadway,W 98th St,L
+27938,Hudson Street,Franklin St,R
+27941,Wall Street,Front St,L
+27942,Eighth Avenue,W 40th St,L
+27950,Tenth Avenue,W 49th St,R
+27952,Wall Street,Beaver St,
+28023,17th Street,Restaurant,L
+28080,Broadway,W 178th St,L
+28091,Broadway,W 177th St,L
+28094,Broadway,W 177th St,R
+28099,Broadway,W 176th St,R
+28101,Broadway,W 176th St,L
+28103,Broadway,Cross Bronx Expy,L
+28105,24th Street,,R
+28114,Avenue A,E 2nd St,L
+28116,Avenue A,E 5th St,R
+28125,19th Street,E 18th St,
+28127,19th Street,E 18th St,L
+28128,19th Street,E 18th St,L
+28129,19th Street,E 18th St,L
+28130,19th Street,E 18th St,L
+28131,19th Street,E 18th St,R
+28133,West Street,Liberty St,R
+28134,Broadway,E Houston St,R
+28180,West Broadway,,R
+28181,West Broadway,,R
+28182,West Broadway,,R
+28183,West Broadway,,R
+28184,West Broadway,,R
+28185,West Broadway,,R
+28186,West Broadway,,R
+28187,West Broadway,,
+28194,Mac Dougal Street,W 3rd St,L
+28201,Mac Dougal Street,Minetta Ln,L
+28202,Mac Dougal Street,Minetta Ln,L
+28259,Sullivan Street,W 3rd St,L
+28313,14th Street,,R
+28332,First Avenue,E 70th St,R
+28345,First Avenue,E 73rd St,R
+28346,First Avenue,E 73rd St,R
+28353,First Avenue,E 74th St,R
+28354,First Avenue,E 74th St,R
+28362,First Avenue,E 75th St,R
+28363,First Avenue,E 75th St,R
+28367,First Avenue,E 76th St,R
+28368,First Avenue,E 76th St,R
+28375,First Avenue,E 77th St,R
+28376,First Avenue,E 77th St,R
+28399,First Avenue,E 80th St,R
+28400,First Avenue,E 68th St,L
+28407,First Avenue,E 69th St,
+28408,First Avenue,E 69th St,L
+28409,First Avenue,E 69th St,L
+28410,First Avenue,E 69th St,L
+28417,First Avenue,E 70th St,L
+28422,First Avenue,E 71st St,L
+28434,First Avenue,E 74th St,L
+28435,First Avenue,E 74th St,L
+28443,First Avenue,E 75th St,L
+28444,First Avenue,E 75th St,L
+28447,First Avenue,E 76th St,
+28448,First Avenue,E 76th St,L
+28452,First Avenue,E 77th St,L
+28453,First Avenue,E 77th St,L
+28454,First Avenue,E 77th St,L
+28461,First Avenue,E 78th St,L
+28462,First Avenue,E 78th St,L
+28463,First Avenue,E 78th St,L
+28464,First Avenue,E 78th St,L
+28469,First Avenue,E 80th St,
+28472,First Avenue,E 81st St,L
+28476,First Avenue,E 62nd St,
+28480,Lexington Avenue,E 73rd St,R
+28481,Lexington Avenue,E 73rd St,R
+28490,Lexington Avenue,E 74th St,R
+28491,Lexington Avenue,E 74th St,R
+28492,Lexington Avenue,E 74th St,R
+28497,Lexington Avenue,E 75th St,R
+28498,Lexington Avenue,E 75th St,R
+28499,Lexington Avenue,E 75th St,R
+28505,Lexington Avenue,E 77th St,
+28506,Lexington Avenue,E 77th St,R
+28507,Lexington Avenue,E 77th St,R
+28516,Lexington Avenue,E 78th St,R
+28517,Lexington Avenue,E 72nd St,L
+28525,Lexington Avenue,E 73rd St,L
+28526,Lexington Avenue,E 73rd St,L
+28527,Lexington Avenue,E 73rd St,L
+28530,Lexington Avenue,E 74th St,L
+28531,Lexington Avenue,E 74th St,L
+28539,Lexington Avenue,E 75th St,L
+28540,Lexington Avenue,E 75th St,L
+28544,Lexington Avenue,E 77th St,L
+28545,Lexington Avenue,E 77th St,L
